@@ -1,0 +1,27 @@
+//Type	Index	Level	Dur	Skill	Luck	Option	Exc	Anc	||
+//==============================================================================================================================||									
+//Index									
+//Florence the Potion Peddler menininha									
+//Wandering Merchant Lorencia de baixo									
+//bronze" = 0	Pad" = 2	Wind = 12	Leather" = 5						
+14	0	0	5	0	0	0	0	0	//"maça Potion"
+14	1	0	100	0	0	0	0	0	//"Potion"
+14	2	0	100	0	0	0	0	0	//"Potion"
+14	3	0	100	0	0	0	0	0	//"Potion"
+14	4	0	100	0	0	0	0	0	//"Potion"
+14	5	0	100	0	0	0	0	0	//"Potion"
+14	6	0	100	0	0	0	0	0	//"Potion"
+14	8	0	100	0	0	0	0	0	//"Large Healing Potion"
+//14 	35	0	30	0	0	0	0	0	//SD
+//14 	38	0	30	0	0	0	0	0	//ROXO
+14	9	0	0	0	0	0	0	0	//Ale
+14	10	0	0	0	0	0	0	0	//Town Teleport
+13	29	0	1	0	0	0	0	0	 //Armor of Guardman
+14	20	0	0	0	0	0	0	0	//Remedy of Love
+									
+4	15	7	255	0	0	0	0	0	//Bolts
+4	7	7	255	0	0	0	0	0	//Arrows
+									
+13	0	0	0	0	0	0	0	0	//angel
+13	1	0	0	0	0	0	0	0	//imp
+end

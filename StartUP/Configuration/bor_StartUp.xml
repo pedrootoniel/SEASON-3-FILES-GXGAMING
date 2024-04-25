@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Processes>
+  <Process Run="True" Delay="1000" Path="D:\MuServer S3\Bin\ChatServer\ChatServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="D:\MuServer S3\Bin\ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="D:\MuServer S3\Bin\DataServer1\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="D:\MuServer S3\Bin\DataServer2\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="D:\MuServer S3\Bin\ExDB\ExManagerServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="D:\MuServer S3\Bin\JoinServer\JoinServer.exe" Parameters="" />
+  <Process Run="False" Delay="1000" Path="D:\MuServer S3\GameServer\GameServer.exe" Parameters="" />
+  <Process Run="False" Delay="1000" Path="D:\MuServer S3\GameServerCS\GameServerCS.exe" Parameters="" />
+</Processes>

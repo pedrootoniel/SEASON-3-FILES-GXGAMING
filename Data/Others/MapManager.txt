@@ -1,0 +1,61 @@
+//================================================================================================================================
+//
+// Map				: Numero do mapa
+// NonPK			: Ativa / Desativa mapa NonPK
+// MinLevelToPvP		: Level minimo para participar de batala Player vs Player no mapa
+// MinResetToPvP		: Reset minimo para participar de batala Player vs Player no mapa
+// ItemDropRate			: Rate de Drop de items no mapa
+// ExcDropRate			: Rate de Drop de items Excellent no mapa
+// ExperienceRate		: Rate de Experiencia no mapa
+//
+//=================================================================================================================================
+//	Map	NonPK	MinLevelToPvP	MinResetToPvP	ItemDropRate	ExcDropRate	ExperienceRate		
+//=================================================================================================================================
+	0	0	-1		100		100		100		100		//Lorencia
+	1	0	-1		100		100		100		100		//Dungeon
+	2	0	-1		100		100		100		100		//Devias
+	3	0	-1		100		100		100		100		//Noria
+	4	0	-1		100		100		100		100		//Lost	Tower
+	6	0	-1		100		100		100		100		//Arena
+	7	0	-1		100		100		100		100		//Atlans
+	8	0	-1		-1		100		100		100		//Tarkan
+	9	0	-1		-1		100		100		100		//Devil Square	1
+	10	0	-1		-1		100		100		100		//Icarus
+	11	0	-1		-1		100		100		100		//Blood Castle 1
+	12	0	-1		-1		100		100		100		//Blood Castle 2
+	13	0	-1		-1		100		100		100		//Blood Castle 3
+	14	0	-1		-1		100		100		100		//Blood Castle 4
+	15	0	-1		-1		100		100		100		//Blood Castle 5
+	16	0	-1		-1		100		100		100		//Blood Castle 6
+	17	0	-1		-1		100		100		100		//Blood Castle 7
+	18	0	-1		-1		100		100		100		//Chaos Castle 1
+	19	0	-1		-1		100		100		100		//Chaos Castle 2
+	20	0	-1		-1		100		100		100		//Chaos Castle 3
+	21	0	-1		-1		100		100		100		//Chaos Castle 4
+	22	0	-1		-1		100		100		100		//Chaos Castle 5
+	23	0	-1		-1		100		100		100		//Chaos Castle 6
+	24	0	-1		-1		100		100		100		//Kalima 1
+	25	0	-1		-1		100		100		100		//Kalima 2
+	26	0	-1		-1		100		100		100		//Kalima 3
+	27	0	-1		-1		100		100		100		//Kalima 4
+	28	0	-1		-1		100		100		100		//Kalima 5
+	29	0	-1		-1		100		100		100		//Kalima 6
+	30	0	-1		-1		30		30		50		//Castle Siege
+	31	0	-1		-1		30		30		50		//Land of Trials
+	32	0	-1		-1		100		100		100		//Devil Square 2
+	33	0	-1		-1		100		100		100		//Aida
+	34	0	-1		-1		100		100		100		//Crywolf
+	36	0	-1		-1		100		100		100		//Kalima 7
+	37	0	-1		-1		100		100		100		//Kanturu 1
+	38	0	-1		-1		100		100		100		//Kanturu 2
+	39	0	-1		-1		100		100		100		//Kanturu 3
+	40	0	-1		-1		100		100		100		//Silent
+	41	0	-1		-1		100		100		100		//Barracks
+	42	0	-1		-1		100		100		100		//Refuge
+	45	0	-1		-1		100		100		100		//Illusion Temple 1
+	46	0	-1		-1		100		100		100		//Illusion Temple 2
+	47	0	-1		-1		100		100		100		//Illusion Temple 3
+	48	0	-1		-1		100		100		100		//Illusion Temple 4
+	49	0	-1		-1		100		100		100		//Illusion Temple 5
+	50	0	-1		-1		100		100		100		//Illusion Temple 6
+end

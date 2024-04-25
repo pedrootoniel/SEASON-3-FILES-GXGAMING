@@ -1,0 +1,149 @@
+0
+//==============================================================================||
+//			      [ Item Bag Modules ]				||
+//	-------------------------------------------------------------------	||
+//										||
+// [0] 		: Nome da Event Bag						||
+// [1]		: Ativa / Desativa o Drop de Zen				||
+// [2]		: Quantidade de Zen que Dropará					||
+// [3]		: Rate de Drop Zen 				[ 0 ~ 10000 ]	||
+// [4]		: Rate de Drop o Item Excellent			[ 0 ~ 10000 ]	||
+// [5]		: Rate de Drop o Item Ancient			[ 0 ~ 10000 ]	||
+// [6]		: Quantidade de drop						||
+// [7]		: Libera Fireworks ao Dropar					||
+//										||
+//======================================================================================================||
+//	[0]			[1]	[2]		[3]	[4]	[5]	[6]	[7]		||
+//======================================================================================================||
+	"Box Of Heaven"		1	50000		5000	0	0	1	0
+end
+
+1
+//==============================================================================||
+//			      [ Drop Item Box Module ]				||
+//	-------------------------------------------------------------------	||
+//										||
+// [0] 		: Ativa / Desativa o Evento (Drop) da Box			||
+// [1]		: Level minimo do monstro que dropará a Box			||
+// [2]		: Level maximo do monstro que dropará a Box			||
+// [3]		: Item Index da Box						||
+// [4]		: Item Level da Box						||
+// [5]		: Rate de Drop da Box				[ 0 ~ 10000 ]	||
+//										||
+//==============================================================================||
+//	[0]	[1]	[2]	[3]	[4]	[5]				||
+//==============================================================================||
+	1	0	200	7179	7	30
+end
+
+//==============================================================================||
+//			      [ Item Bag Drop Data ]				||
+//	-------------------------------------------------------------------	||
+//										||
+// [0] 		: Item Type 					[ 0 ~ 15 ]	||
+// [1]		: Item Index 					[ 0 ~ 512 ]	||
+// [2]		: Level minimo do Item 				[ 0 ~ 15 ]	||
+// [3]		: Level maximo do Item 				[ 0 ~ 15 ]	||
+// [4]		: Rate de sucesso para o item obter skill 	[ 0 ~ 100 ]	||
+// [5]		: Rate de sucesso para o item obter luck 	[ 0 ~ 100 ] 	||
+// [6]		: Rate de sucesso para o item obter (JOL) 	[ 0 ~ 100 ]	||
+// [7]		: Numero maximo de opçõs Add Life (JOL)		[ 0 ~ 7 ]	||
+// [8]		: Numero maximo de opções Excellent		[ 0 ~ 6 ]	||
+// [9]		: Dropa o Item Ancient				[ 0 ~ 1 ]	||
+// 										||
+//==============================================================================||
+
+2
+10000	// -- Rate Drop [0~10000]
+//======================================================================================||
+//	[0]	[1]	[2]	[3]	[4]	[5]	[6]	[7]	[8]	[9]	||
+//======================================================================================||
+	14	13	0	0	0	0	0	0	0 	0	// Jewel of Bless
+	14	14	0	0	0	0	0	0	0	0	// Jewel of Soul 
+	14	16	0	0	0	0	0	0	0	0	// Jewel of Life
+	14	22	0	0	0	0	0	0	0	0	// Jewel of Creation
+	12	15	0	0	0	0	0	0	0	0	// Jewel of Chaos
+	
+	7	5	3	10	50	25	50	4	1	0	// Leather Helm
+	8	5	3	10	50	25	50	4	1	0	// Leather Armor
+	9	5	3	10	50	25	50	4	1	0	// Leather Pants
+	10	5	3	10	50	25	50	4	1	0	// Leather Gloves
+	11	5	3	10	50	25	50	4	1	0	// Leather Boots
+	7	0	3	10	50	25	50	4	1	0	// Bronze Helm
+	8	0	3	10	50	25	50	4	1	0	// Bronze Armor
+	9	0	3	10	50	25	50	4	1	0	// Bronze Pants
+	10	0	3	10	50	25	50	4	1	0	// Bronze Gloves
+	11	0	3	10	50	25	50	4	1	0	// Bronze Boots
+	7	6	3	10	50	25	50	4	1	0	// Scale Helm
+	8	6	3	10	50	25	50	4	1	0	// Scale Armor
+	9	6	3	10	50	25	50	4	1	0	// Scale Pants
+	10	6	3	10	50	25	50	4	1	0	// Scale Gloves
+	11	6	3	10	50	25	50	4	1	0	// Scale Boots
+	7	2	3	10	50	25	50	4	1	0	// Pad Helm
+	8	2	3	10	50	25	50	4	1	0	// Pad Armor
+	9	2	3	10	50	25	50	4	1	0	// Pad Pants
+	10	2	3	10	50	25	50	4	1	0	// Pad Gloves
+	11	2	3	10	50	25	50	4	1	0	// Pad Boots
+	7	4	3	10	50	25	50	4	1	0	// Bone Helm
+	8	4	3	10	50	25	50	4	1	0	// Bone Armor
+	9	4	3	10	50	25	50	4	1	0	// Bone Pants
+	10	4	3	10	50	25	50	4	1	0	// Bone Gloves
+	11	4	3	10	50	25	50	4	1	0	// Bone Boots
+	7	7	3	10	50	25	50	4	1	0	// Sphinx Helm
+	8	7	3	10	50	25	50	4	1	0	// Sphinx Armor
+	9	7	3	10	50	25	50	4	1	0	// Sphinx Pants
+	10	7	3	10	50	25	50	4	1	0	// Sphinx Gloves
+	11	7	3	10	50	25	50	4	1	0	// Sphinx Boots
+	7	10	3	10	50	25	50	4	1	0	// Vine Helm
+	8	10	3	10	50	25	50	4	1	0	// Vine Armor
+	9	10	3	10	50	25	50	4	1	0	// Vine Pants
+	10	10	3	10	50	25	50	4	1	0	// Vine Gloves
+	11	10	3	10	50	25	50	4	1	0	// Vine Boots
+	7	11	3	10	50	25	50	4	1	0	// Silk Helm
+	8	11	3	10	50	25	50	4	1	0	// Silk Armor
+	9	11	3	10	50	25	50	4	1	0	// Silk Pants
+	10	11	3	10	50	25	50	4	1	0	// Silk Gloves
+	11	11	3	10	50	25	50	4	1	0	// Silk Boots
+	7	12	3	10	50	25	50	4	1	0	// Wind Helm
+	8	12	3	10	50	25	50	4	1	0	// Wind Armor	
+	9	12	3	10	50	25	50	4	1	0	// Wind Pants
+	10	12	3	10	50	25	50	4	1	0	// Wind Gloves
+	11	12	3	10	50	25	50	4	1	0	// Wind Boots
+	7	25	3	10	50	25	50	4	1	0	// Light Plate Helm
+	8	25	3	10	50	25	50	4	1	0	// Light Plate Armor
+	9	25	3	10	50	25	50	4	1	0	// Light Plate Pants
+	10	25	3	10	50	25	50	4	1	0	// Light Plate Gloves
+	11	25	3	10	50	25	50	4	1	0	// Light Plate Boots
+	6	0	3	10	50	25	50	4	1	0	// Small Shield
+	6	4	3	10	50	25	50	4	1	0	// Buckler
+	6	1	3	10	50	25	50	4	1	0	// Horn Shield
+	6	2	3	10	50	25	50	4	1	0	// Kite Shield
+	0	0	3	10	50	25	50	4	1	0	// Short Sword
+	0	1	3	10	50	25	50	4	1	0	// Kris
+	0	2	3	10	50	25	50	4	1	0	// Rapier
+	0	4	3	10	50	25	50	4	1	0	// Sword Of Assassin
+	1	0	3	10	50	25	50	4	1	0	// Small Axe
+	1	1	3	10	50	25	50	4	1	0	// Hand Axe
+	1	2	3	10	50	25	50	4	1	0	// Double Axe
+	1	3	3	10	50	25	50	4	1	0	// Tomahawk
+	3	5	3	10	50	25	50	4	1	0	// Double Poleaxe
+	3	2	3	10	50	25	50	4	1	0	// Dragon Lance
+	3	6	3	10	50	25	50	4	1	0	// Helberd
+	3	1	3	10	50	25	50	4	1	0	// Spear
+	2	0	3	10	50	25	50	4	1	0	// Mace
+	2	1	3	10	50	25	50	4	1	0	// Morning Star
+	2	2	3	10	50	25	50	4	1	0	// Flail
+	5	1	3	10	50	25	50	4	1	0	// Angelic Staff
+	5	2	3	10	50	25	50	4	1	0	// Serpent Staff
+	5	3	3	10	50	25	50	4	1	0	// Lightning Staff
+	4	0	3	10	50	25	50	4	1	0	// Short Bow
+	4	1	3	10	50	25	50	4	1	0	// Bow
+	4	2	3	10	50	25	50	4	1	0	// Elven Bow
+	4	3	3	10	50	25	50	4	1	0	// Battle Bow
+	4	8	3	10	50	25	50	4	1	0	// Crossbow
+	4	9	3	10	50	25	50	4	1	0	// Golden Crossbow
+	4	10	3	10	50	25	50	4	1	0	// Arquebus
+	2	8	3	10	50	25	50	4	1	0	// Battle Scepter
+	2	9	3	10	50	25	50	4	1	0	// Master Scepter
+end
+end

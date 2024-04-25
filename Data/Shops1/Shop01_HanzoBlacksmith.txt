@@ -1,0 +1,7 @@
+//Group	Index	Level	Dur	Skill	Luck	Opt	ExeOpt	Anc	Info
+//									
+
+	13	37	0	0	0	0	0	1	0
+	13	37	0	0	0	0	0	2	0
+	13	37	0	0	0	0	0	4	0
+end

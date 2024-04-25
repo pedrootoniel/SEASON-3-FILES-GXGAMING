@@ -1,0 +1,65 @@
+0
+//==============================================================================================||
+//	[] Rates Gerais			  							||
+//==============================================================================================||
+//												||
+// [0]		: Rate de Experiencia	[0 ~ 9999]							||
+// [1]		: Rate de Drop Item [0 ~ 100]								||
+// [2]		: Rate de Drop Item Excellent [0 ~ 100000]							||
+// [3]		: Rate de Drop de Zen (Influencia na Quantidade de Zen dropado no chao)		||
+// [4]		: Chance de Dropar Zen (Default: 1) (Quanto maior o numero menos Zen Drop)	||
+//												||
+//==============================================================================================||
+//	[0]		[1]		[2]		[3]		[4]			||
+//==============================================================================================||
+	20.0		40		10000		100.0		1	// Free
+	50.0		70		13000		100.0		1	// Vip #1
+	15.0		50		2000		100.0		1	// Vip #2
+
+	15.0		50		2000		100.0		5	// Vip #3
+	15.0		50		2000		100.0		5	// Vip #4
+	15.0		50		2000		100.0		5	// Vip #5
+end
+
+
+1
+//==============================================================================================||
+//	[] Experience Table			  						||
+//==============================================================================================||
+//												||
+// [0]		: Min Level									||
+// [1]		: Max Level									||
+// [2]		: Min Reset									||
+// [3]		: Max Reset									||
+// [4]		: Porcentagem de Exp Obtida							||
+//												||
+//==============================================================================================||
+//	[0]		[1]		[2]		[3]		[4]			||
+//==============================================================================================||
+	0		1000		0		0		100.0
+end
+
+2 // -- [] Party Exp Settings
+//===================================================================================================
+//
+// PartyPlayer2				: Porcentagem de Experiencia adquiria em Party com 2 Membros
+// PartyPlayer3				: Porcentagem de Experiencia adquiria em Party com 3 Membros
+// PartyPlayer4				: Porcentagem de Experiencia adquiria em Party com 4 Membros
+// PartyPlayer5				: Porcentagem de Experiencia adquiria em Party com 5 Membros
+//
+//===================================================================================================
+//	PartyPlayer2		PartyPlayer3		PartyPlayer4		PartyPlayer5
+//===================================================================================================
+	110			120			130			150
+
+//===================================================================================================
+//
+// PartySpecialPlayer3			: Porcentagem de Experiencia adquiria em Party com 3 Classes Diferentes
+// PartySpecialPlayer4			: Porcentagem de Experiencia adquiria em Party com 4 Classes Diferentes
+// PartySpecialPlayer5			: Porcentagem de Experiencia adquiria em Party com 5 Classes Diferentes
+//
+//===================================================================================================
+//	PartySpecialPlayer3		PartySpecialPlayer4		PartySpecialPlayer5
+//===================================================================================================
+	110				120				130
+end

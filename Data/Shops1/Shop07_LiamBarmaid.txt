@@ -1,0 +1,33 @@
+//Type	Index	Level	Dur	Skill	Luck	Option	Exc	Anc	||
+//==============================================================================================================================||									
+7	10	7	0	1	1	0	0	0	//Vine helm
+7	11	7	0	1	1	0	0	0	//Silk helm
+4	8	3	0	1	1	0	0	0	//bow
+									
+8	10	7	0	1	1	0	0	0	//Vine armor
+8	11	7	0	1	1	0	0	0	//Silk armor
+4	8	7	0	1	1	0	0	0	//bow
+									
+9	10	7	0	1	1	0	0	0	//Vine pants
+9	11	7	0	1	1	0	0	0	//Silk pants
+4	9	3	0	1	1	0	0	0	//gold crossbolbow
+									
+10	10	7	0	1	1	0	0	0	//Vine gloves
+10	11	7	0	1	1	0	0	0	//Silk gloves
+4	9	7	0	1	1	0	0	0	//gold crossbolbow
+									
+11	10	7	0	1	1	0	0	0	//Vine boots
+11	11	7	0	1	1	0	0	0	//Silk boots
+									
+//munição flaxas									
+4	15	7	250	0	0	0	0	0	//Bolts
+4	7	7	250	0	0	0	0	0	//Arrows
+									
+4	0	7	0	1	1	0	0	0	//arco
+									
+//armas sumoner									
+5	0	7	0	1	1	0	0	0	//
+5	14	7	0	1	1	0	0	0	//
+									
+14	0	0	6	0	0	0	0	0	//"maça Potion"
+end

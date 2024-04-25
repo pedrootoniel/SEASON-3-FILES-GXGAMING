@@ -1,0 +1,18 @@
+//==============================================================================||
+//	Type	Index	Level	Dur	Skill	Luck	Option	Exc	Anc	||
+//==============================================================================||
+	14	9	0	255	0	0	0	0	0	// Alcohol
+	14	9	1	255	0	0	0	0	0	// Olive
+	14	10	0	255	0	0	0	0	0	// Town Portal Scroll
+	14	0	0	100	0	0	0	0	0	// Apple
+	14	1	13	255	0	0	0	0	0	// Small Healing Potion
+	14	2	13	255	0	0	0	0	0	// Medium Healing Potion
+	14	4	13	255	0	0	0	0	0	// Small Mana Potion
+	14	5	13	255	0	0	0	0	0	// Medium Mana Potion
+	14	8	0	100	0	0	0	0	0	// Antidote
+	13	0	0	255	0	0	0	0	0	// Angel
+	13	1	0	255	0	0	0	0	0	// Satan
+	4	15	9	150	0	0	0	0	0	// Arrows
+	4	7	9	150	0	0	0	0	0	// Bolts
+
+end

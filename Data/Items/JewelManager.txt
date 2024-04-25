@@ -1,0 +1,147 @@
+[CommonJewel]
+ItemWithLuckAddRate				= 70;		# Rate de Sucesso adicional para items com luck
+AddExtraRateFromVip1				= 100;		# Rate de Sucesso adicional para Players Vip1
+AddExtraRateFromVip2				= 0;		# Rate de Sucesso adicional para Players Vip2
+AddExtraRateFromVip3				= 0;		# Rate de Sucesso adicional para Players Vip3
+AddExtraRateFromVip4				= 0;		# Rate de Sucesso adicional para Players Vip4
+AddExtraRateFromVip5				= 0;		# Rate de Sucesso adicional para Players Vip5
+
+[JewelOfBless]
+//==============================================================================||
+// -- [] Jewel of Bless								||
+//==============================================================================||
+Enable						= 1;		# Ativa / Desativa a Jewel
+SuccessRate					= 100;		# Chance de Sucesso
+PenalityType					= 3;		# [0: Nada Acontece] [1: Deleta o Item][2: Reseta o Level do Item][3: Diminui 1 Level do Item] 
+AllowMinLevel					= 0;		# Level minimo do item que pode ser utilizado
+AllowMaxLevel					= 5;		# Level maximo do item que pode ser utilizado
+
+
+[JewelOfSoul]
+//==============================================================================||
+// -- [] Jewel of Soul								||
+//==============================================================================||
+Enable						= 1;		# Ativa / Desativa a Jewel
+SuccessRate					= 100;		# Chance de Sucesso
+PenalityType					= 2;		# [0: Nada Acontece] [1: Deleta o Item][2: Reseta o Level do Item][3: Diminui 1 Level do Item] 
+AllowMinLevel					= 0;		# Level minimo do item que pode ser utilizado
+AllowMaxLevel					= 8;		# Level maximo do item que pode ser utilizado
+
+
+[JewelOfLife]
+//==============================================================================||
+// -- [] Jewel of Life									||
+//==============================================================================||
+Enable						= 1;		# Ativa / Desativa a Jewel
+SuccessRate					= 100;		# Chance de Sucesso
+PenalityType					= 0;		# [0: Nada Acontece] [1: Deleta o Item][2: Reseta as Opções AddLife] [3: Diminui 1 AddOption do Item] 
+AllowAccessory					= 1;		# Ativa / Desativa o uso em acessorios
+AllowWings					= 1;		# Ativa / Desativa o uso em wings
+
+
+[JewelOfExcellent]
+//==============================================================================||
+// -- [] Jewel of Excellent							||
+//==============================================================================||
+Enable						= 1;		# Ativa / Desativa a Jewel
+SuccessRate					= 100;		# Chance de Sucesso
+PenalityType					= 0;		# [0: Nada Acontece] [1: Deleta o Item] [2: Reseta as Opções Excellent] 
+AllowAccessory					= 1;		# Ativa / Desativa o uso em acessorios
+AllowWings					= 1;		# Ativa / Desativa o uso em wings
+AllowMaxOption					= 6;		# Numero maximo de opções excellent que ela permite o uso
+UseType						= 0;		# [0: Vai adicionando os add execellent de 1 em 1] [1: Altera aleatoriamente os add execellent][2: Adiciona um valor fixo ao item]
+AddOptionFixed					= 63;		# Opções Excellent a ser adicionado caso o "UseType" esteja marcado "Fixed"
+AddOptionMax					= 4;		# Numero maximo de opções que a Joia pode adicionar
+
+
+[JewelOfAncient]
+//==============================================================================||
+// -- [] Jewel of Ancient							||
+//==============================================================================||
+Enable						= 1;		# Ativa / Desativa a Jewel
+SuccessRate					= 100;		# Chance de Sucesso
+PenalityType					= 0;		# [0: Nada Acontece] [1: Deleta o Item]
+AllowAccessory					= 1;		# Ativa / Desativa o uso em acessorios
+
+
+[JewelOfLuck]
+//==============================================================================||
+// -- [] Jewel of Luck								||
+//==============================================================================||
+Enable						= 1;		# Ativa / Desativa a Jewel
+SuccessRate					= 100;		# Chance de Sucesso
+PenalityType					= 0;		# [0: Nada Acontece] [1: Deleta o Item]
+AllowAccessory					= 1;		# Ativa / Desativa o uso em acessorios
+AllowWings					= 1;		# Ativa / Desativa o uso em wings
+
+
+[JewelOfSkill]
+//==============================================================================||
+// -- [] Jewel of Skill								||
+//==============================================================================||
+Enable						= 1;		# Ativa / Desativa a Jewel
+SuccessRate					= 100;		# Chance de Sucesso
+PenalityType					= 0;		# [0: Nada Acontece] [1: Deleta o Item]
+
+
+[JewelOfLevel]
+//==============================================================================||
+// -- [] Jewel of Level								||
+//==============================================================================||
+Enable						= 1;		# Ativa / Desativa a Jewel
+SuccessRate					= 100;		# Chance de Sucesso
+PenalityType					= 0;		# [0: Nada Acontece] [1: Deleta o Item][2: Reseta o Level do item] 
+AllowAccessory					= 1;		# Ativa / Desativa o uso em acessorios
+AllowWings					= 1;		# Ativa / Desativa o uso em wings
+AllowMinLevel					= 0;		# Level minimo do item que pode ser utilizado
+AllowMaxLevel					= 15;		# Level maximo do item que pode ser utilizado
+
+
+[JewelOfSDOption]
+//==============================================================================||
+// -- [] Jewel of SD Option							||
+//==============================================================================||
+Enable						= 1;		# Ativa / Desativa a Jewel
+SuccessRate					= 100;		# Chance de Sucesso
+PenalityType					= 0;		# [0: Nada Acontece] [1: Deleta o Item]
+
+
+[JewelOfWingLv1]
+//==============================================================================||
+// -- [] Jewel of Wing Level 1							||
+//==============================================================================||
+Enable						= 1;		# Ativa / Desativa a Jewel
+SuccessRate					= 100;		# Chance de Sucesso
+PenalityType					= 0;		# [0: Nada Acontece] [1: Deleta o Item]
+
+
+[JewelOfWingLv2]
+//==============================================================================||
+// -- [] Jewel of Wing Level 2							||
+//==============================================================================||
+Enable						= 1;		# Ativa / Desativa a Jewel
+SuccessRate					= 100;		# Chance de Sucesso
+PenalityType					= 0;		# [0: Nada Acontece] [1: Deleta o Item]
+
+
+[JewelOfSupremeOption]
+//==============================================================================||
+// -- [] Jewel of Supreme Option						||
+//==============================================================================||
+Enable						= 1;		# Ativa / Desativa a Jewel
+SuccessRate					= 100;		# Chance de Sucesso
+PenalityType					= 0;		# [0: Nada Acontece] [1: Deleta o Item][2: Reseta as Opções AddLife]
+AllowAccessory					= 1;		# Ativa / Desativa o uso em acessorios
+AllowWings					= 1;		# Ativa / Desativa o uso em wings
+AddOption					= 7;		# AddOption que item ira diretamente
+
+[JewelOfSupremeLevel]
+//==============================================================================||
+// -- [] Jewel of Supreme Level							||
+//==============================================================================||
+Enable						= 1;		# Ativa / Desativa a Jewel
+SuccessRate					= 100;		# Chance de Sucesso
+PenalityType					= 0;		# [0: Nada Acontece] [1: Deleta o Item][2: Reseta o Level do item] 
+AllowAccessory					= 1;		# Ativa / Desativa o uso em acessorios
+AllowWings					= 1;		# Ativa / Desativa o uso em wings
+AddLevel					= 15;		# Level que item ira diretamente

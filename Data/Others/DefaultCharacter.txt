@@ -1,0 +1,33 @@
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------
+//	-- [] Default Character
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------
+//
+// [0]		: Class do Personagem (Não altere)
+// [1]		: Level Up Points por Level
+// [2]		: Level Up Points Extra (Quest Marlon)
+// [3]		: Strength minimo do personagem
+// [4]		: Dexterity minimo do personagem
+// [5]		: Vitality minimo do personagem
+// [6]		: Energy minimo do personagem
+// [7]		: Leadership minimo do personagem
+// [8]		: Strength maximo do personagem
+// [9]		: Dexterity maximo do personagem
+// [10]		: Vitality maximo do personagem
+// [11]		: Energy maximo do personagem
+// [12]		: Leadership maximo do personagem
+// [13]		: Life default do personagem
+// [14]		: Mana default do personagem
+// [15]		: Quantidade de pontos em Life obtido por cada levelup
+// [16]		: Quantidade de pontos em Mana obtido por cada levelup
+// [17]		: Quantidade de pontos em Life obtido por cada ponto em vitality
+// [18]		: Quantidade de pontos em Mana obtido por cada ponto em energy
+//
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------
+//	[0]	[1]	[2]	[3]	[4]	[5]	[6]	[7]	[8]	[9]	[10]	[11]	[12]	[13]	[14]	[15]	[16]	[17]	[18]
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------
+	0	5	1	30	30	30	30	0	32000	32000	32000	32000	32000	110.0	60.0	2.0	2.0	3.0	2.0	// Dark Wizard
+	1	5	1	30	30	30	30	0	32000	32000	32000	32000	32000	110.0	60.0	2.0	2.0	3.0	2.0	// Dark Knight
+	2	5	1	30	30	30	30	0	32000	32000	32000	32000	32000	110.0	60.0	2.0	2.0	3.0	2.0	// Fairy Elf
+	3	5	1	30	30	30	30	0	32000	32000	32000	32000	32000	110.0	60.0	2.0	2.0	3.0	2.0	// Magic Gladiator
+	4	5	1	30	30	30	30	30	32000	32000	32000	32000	32000	110.0	60.0	2.0	2.0	3.0	2.0	// Dark Lord
+end

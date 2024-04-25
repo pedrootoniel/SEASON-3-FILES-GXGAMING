@@ -1,0 +1,601 @@
+[11:29:56] [..\data\gate.txt] Gate information data load complete.
+[11:29:56] [..\data\Skills\Skill.txt] Skill information data load complete
+[11:29:56] [Quest] (Scroll of Emperor) Load : Index 0, SubInfoCount 2
+[11:29:56] [Quest] (Three Treasures of Mu) Load : Index 1, SubInfoCount 4
+[11:29:56] [Quest] (Hero Status) Load : Index 2, SubInfoCount 2
+[11:29:56] [Quest] (Secret 'Dark Stone) Load : Index 3, SubInfoCount 1
+[11:29:56] [Quest] (Certificate of Strength!) Load : Index 4, SubInfoCount 9
+[11:29:56] [Quest] (Infiltration of Barracks of Ballgass!) Load : Index 5, SubInfoCount 3
+[11:29:56] [Quest] (Infiltration of Barracks of Refuge!) Load : Index 6, SubInfoCount 1
+[11:29:56] [Quest] [SetQuestItem] Scroll of Emperor
+[11:29:56] [Quest] [SetQuestItem] Scroll of Emperor
+[11:29:56] [Quest] [SetQuestItem] Broken Sword
+[11:29:56] [Quest] [SetQuestItem] Tear of Elf
+[11:29:56] [Quest] [SetQuestItem] Soul Shard of Wizard
+[11:29:56] [Quest] [SetQuestItem] 
+[11:29:56] [Quest] [SetQuestItem] Scroll of Emperor
+[11:29:56] [Quest] [SetQuestItem] Scroll of Emperor
+[11:29:56] [Quest] [SetQuestItem] Broken Sword
+[11:29:56] [Quest] [SetQuestItem] Flame of Death Beam Knight
+[11:29:56] [Quest] [SetQuestItem] Horn of Hell Maine
+[11:29:56] [Quest] [SetQuestItem] Feather of Phoenix of Darkness
+[11:29:56] [Quest] [SetQuestItem] Flame of Death Beam Knight
+[11:29:56] [Quest] [SetQuestItem] Horn of Hell Maine
+[11:29:56] [Quest] [SetQuestItem] Feather of Phoenix of Darkness
+[11:29:56] [Quest] [SetQuestItem] Flame of Death Beam Knight
+[11:29:56] [Quest] [SetQuestItem] Horn of Hell Maine
+[11:29:56] [Quest] [SetQuestItem] Feather of Phoenix of Darkness
+[11:29:56] [Monster Element] - ..\data\Monsters\MonsterSkillElement.txt file is Loaded
+[11:29:56] [Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (14)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (11)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (23)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (16)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (13)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (4)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (24)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (25)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (26)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (27)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (28)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (29)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (30)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (31)(Monster Skill Elemen)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (32)(Monster Skill Elemen )
+[11:29:56] [Monster Skill Unit] - Found SkillElement (33)(Monster Skill Elemen!)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (34)(Monster Skill Elemen")
+[11:29:56] [Monster Skill Unit] - Found SkillElement (35)(Monster Skill Elemen#)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (36)(Monster Skill Elemen$)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (37)(Monster Skill Elemen%)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (38)(Monster Skill Elemen&)
+[11:29:56] [Monster Skill Unit] - Found SkillElement (39)(Monster Skill Elemen')
+[11:29:56] [Monster Skill Unit] - Found SkillElement (40)(Monster Skill Elemen()
+[11:29:56] [Monster Skill Unit] - Found SkillElement (41)(Monster Skill Elemen))
+[11:29:56] [Monster Skill Unit] - Found SkillElement (42)(Monster Skill Elemen*)
+[11:29:56] [Monster Skill Unit] - ..\data\Monsters\MonsterSkillUnit.txt file is Loaded
+[11:29:56] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[11:29:56] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[11:29:56] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/388)
+[11:29:56] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[11:29:56] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[11:29:56] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/391)
+[11:29:56] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[11:29:56] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[11:29:56] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/394)
+[11:29:56] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[11:29:56] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[11:29:56] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/397)
+[11:29:56] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[11:29:56] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[11:29:56] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/400)
+[11:29:56] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[11:29:56] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[11:29:56] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/403)
+[11:29:56] [Monster AI Element] - ..\data\Monsters\MonsterAIElement.txt file is Loaded
+[11:29:56] [Monster AI MovePath ] - ..\data\MovePath_35.dat file is Loaded
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Treatment ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Treatment ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 1 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 2 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 3 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Summon -> General 1 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Summon -> General 2 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Summon -> General 3 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 3 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 1 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 2 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 3 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[11:29:56] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[11:29:56] [Monster AI Automata] - ..\data\Monsters\MonsterAutomata.txt file is Loaded
+[11:29:56] [Monster AI Unit] - ..\data\Monsters\MonsterAIUnit.txt file is Loaded
+[11:29:56] [Monster AI Rule ] - ..\data\Monsters\MonsterAIRule.txt file is Loaded
+[11:29:56] [Monster AI Group ] - ..\data\Monsters\MonsterAIGroup.txt file is Loaded
+[11:29:56] [SkillAdditionalInfo] File Loaded Successfully
+[11:29:56] [ KANTURU ] - ..\data\Events\Kanturu.dat file is Loaded
+[11:29:57] [ KANTURU ][ BattleStanby ] ..\data\Events\Kanturu.dat file is Loaded
+[11:29:57] [ KANTURU ][ BattleOfMaya ] IceStorm Using Rate Load: 60
+[11:29:57] [ KANTURU ][ BattleOfMaya ] ..\data\Events\Kanturu.dat file is Loaded
+[11:29:57] [ KANTURU ][ BattleOfNightmare ]  ..\data\Events\Kanturu.dat file is Loaded
+[11:29:57] [ KANTURU ][ TowerOfRefinement ] ..\data\Events\Kanturu.dat file is Loaded
+[11:29:57] [ KANTURU ][ MonsterSetBase ] - ..\data\Monsters\KanturuMonsterSetBase.txt file is Loaded
+[11:29:57] [Option] Required time to decrease Murderer-level : 1(s)
+[11:29:57] [Option] Monster HP 20% Down
+[11:29:57] [Option] Auto Looting Time Set : 3
+[11:29:57] [Option] Dropping item when killed by Murderer
+[11:29:57] [Option] Item drop rate : 10 %
+[11:29:57] [DevilSquare] Close
+[11:29:57] ..\data\Events\IllusionTemple.dat file load!
+[11:29:57] User Object Size = 4544
+[11:29:57] [ItemEventBag][Box Of Luck] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Star Of XMas] File Load Sucessfully!
+[11:29:57] [ItemEventBag][FireCracker] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Heart of Love] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Silver Medal] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Gold Medal] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Box Of Heaven] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Box of Kundun +1] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Box of Kundun +2] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Box Of Kundun +3] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Box Of Kundun +4] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Box Of Kundun +5] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Heart of Dark Lord] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Ribbon Red] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Ribbon Green] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Ribbon Blue] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Chocolate Pink] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Chocolate Red] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Chocolate Blue] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Death King] File Load Sucessfully!
+[11:29:57] [ItemEventBag][0] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Halloween] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Warrior Ring 40] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Warrior Ring 80] File Load Sucessfully!
+[11:29:57] [ItemEventBag][GameMaster Box] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Fortune Pounch Event Bag] File Load Sucessfully!
+[11:29:57] [ItemEventBag][DarkElf Event Bag] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Balgass Event Bag] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Chaos Card] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Medusa Box] File Load Sucessfully!
+[11:29:57] [ItemEventBag][HellMine Box] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Nix Box] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Ferea Box] File Load Sucessfully!
+[11:29:57] [ItemEventBag][LordSilver Box] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Magriffy Box] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Bronze Box] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Silver Box] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Gold Box] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Diamond Box] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Maya Hand Event Bag] File Load Sucessfully!
+[11:29:57] [ItemEventBag][NightMare Event Bag] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Drop Automatico] File Load Sucessfully!
+[11:29:57] [ItemEventBag][Kundun Event Bag] File Load Sucessfully!
+[11:29:57] [ItemEventBagEx][BloodCastle 1] File Load Sucessfully!
+[11:29:57] [ItemEventBagEx][ChaosCastle 1] File Load Sucessfully!
+[11:29:57] [ItemEventBagEx][IllusionTemple 1] File Load Sucessfully!
+[11:29:57] [ItemEventBagEx][IllusionTemple 1 - MOB] File Load Sucessfully!
+[11:29:57] [ItemEventBagEx][DevilSquare 1] File Load Sucessfully!
+[11:29:57] [EventBags] Files Loadeds Successfully
+[11:29:57] ..\data\Events\DevilSquare.dat file load!
+[11:29:57] ..\data\Events\ChaosCastle.dat file load!
+[11:29:57] [CASHSHOP] Discount File loaded successfully!
+[11:29:57] Load: Category: 0, Count: 0 | 3 7238 0 0 0 0 0 0 1 3600 255 5
+[11:29:57] Load: Category: 0, Count: 1 | 3 7239 0 0 0 0 0 0 1 3600 255 5
+[11:29:57] Load: Category: 0, Count: 2 | 3 7240 0 0 0 0 0 0 1 3600 255 5
+[11:29:57] Load: Category: 0, Count: 3 | 3 7241 0 0 0 0 0 0 1 3600 255 5
+[11:29:57] Load: Category: 0, Count: 4 | 3 7242 0 0 0 0 0 0 1 3600 255 5
+[11:29:57] Load: Category: 0, Count: 5 | 3 7243 0 0 0 0 0 0 1 3600 255 5
+[11:29:57] Load: Category: 0, Count: 6 | 3 7244 0 0 0 0 0 0 1 3600 255 5
+[11:29:57] Load: Category: 0, Count: 7 | 3 7245 0 0 0 0 0 0 1 3600 255 5
+[11:29:57] Load: Category: 0, Count: 8 | 3 7246 0 0 0 0 0 0 1 3600 255 5
+[11:29:57] Load: Category: 0, Count: 9 | 3 7247 0 0 0 0 0 0 1 3600 255 5
+[11:29:57] Load: Category: 0, Count: 10 | 3 7248 0 0 0 0 0 0 1 3600 255 5
+[11:29:57] Load: Category: 0, Count: 11 | 3 7249 0 0 0 0 0 0 1 3600 255 5
+[11:29:57] Load: Category: 0, Count: 12 | 3 7250 0 0 0 0 0 0 1 3600 255 5
+[11:29:57] Load: Category: 0, Count: 13 | 3 7251 0 0 0 0 0 0 1 3600 255 5
+[11:29:57] Load: Category: 0, Count: 14 | 3 7221 0 0 0 0 0 0 1 3600 255 20
+[11:29:57] Load: Category: 0, Count: 15 | 3 7222 0 0 0 0 0 0 1 3600 255 10
+[11:29:57] Load: Category: 0, Count: 16 | 3 6699 0 0 0 0 0 0 0 3600 255 30
+[11:29:57] Load: Category: 0, Count: 17 | 3 6700 0 0 0 0 0 0 0 3600 255 50
+[11:29:57] Load: Category: 0, Count: 18 | 3 6702 0 0 0 0 0 0 10 3600 255 5
+[11:29:57] Load: Category: 0, Count: 19 | 3 6703 0 0 0 0 0 0 10 3600 255 5
+[11:29:57] Load: Category: 0, Count: 20 | 3 6704 0 0 0 0 0 0 10 3600 255 5
+[11:29:57] Load: Category: 0, Count: 21 | 3 6717 0 0 0 0 0 0 10 3600 255 5
+[11:29:57] Load: Category: 0, Count: 22 | 3 6710 0 0 0 0 0 0 0 3600 255 10
+[11:29:57] Load: Category: 0, Count: 23 | 3 6711 0 0 0 0 0 0 100 3600 255 10
+[11:29:57] Load: Category: 0, Count: 24 | 3 6712 0 0 0 0 0 0 100 3600 255 10
+[11:29:57] Load: Category: 0, Count: 25 | 3 6713 0 0 0 0 0 0 100 3600 255 10
+[11:29:57] Load: Category: 0, Count: 26 | 3 6714 0 0 0 0 0 0 100 3600 255 10
+[11:29:57] Load: Category: 0, Count: 27 | 3 7262 0 0 0 0 0 0 1 3600 255 50
+[11:29:57] Load: Category: 1, Count: 512 | 1 0 15 0 0 7 63 0 80 0 255 130
+[11:29:57] Load: Category: 1, Count: 513 | 1 1 15 0 1 7 63 0 77 0 255 130
+[11:29:57] Load: Category: 1, Count: 514 | 1 2 15 0 1 7 63 0 78 0 255 130
+[11:29:57] Load: Category: 1, Count: 515 | 1 3 15 1 1 7 63 0 82 0 255 130
+[11:29:57] Load: Category: 1, Count: 516 | 1 4 15 1 1 7 63 0 79 0 255 130
+[11:29:57] Load: Category: 1, Count: 517 | 1 5 15 1 1 7 63 0 94 0 255 130
+[11:29:57] Load: Category: 1, Count: 518 | 1 6 15 1 1 7 63 0 85 0 255 130
+[11:29:57] Load: Category: 1, Count: 519 | 1 7 15 1 1 7 63 0 89 0 255 130
+[11:29:57] Load: Category: 1, Count: 520 | 1 8 15 1 1 7 63 0 91 0 255 130
+[11:29:57] Load: Category: 1, Count: 521 | 1 9 15 1 1 7 63 0 95 0 255 130
+[11:29:57] Load: Category: 1, Count: 522 | 1 512 15 0 1 7 63 0 73 0 255 130
+[11:29:57] Load: Category: 1, Count: 523 | 1 513 15 0 1 7 63 0 75 0 255 130
+[11:29:57] Load: Category: 1, Count: 524 | 1 514 15 1 1 7 63 0 81 0 255 130
+[11:29:57] Load: Category: 1, Count: 525 | 1 515 15 1 1 7 63 0 83 0 255 130
+[11:29:57] Load: Category: 1, Count: 526 | 1 516 15 0 1 7 63 0 87 0 255 130
+[11:29:57] Load: Category: 1, Count: 527 | 1 517 15 1 1 7 63 0 91 0 255 130
+[11:29:57] Load: Category: 1, Count: 528 | 1 518 15 1 1 7 63 0 99 0 255 130
+[11:29:57] Load: Category: 1, Count: 529 | 1 519 15 1 1 7 63 0 110 0 255 130
+[11:29:57] Load: Category: 1, Count: 530 | 1 520 15 1 1 7 63 0 120 0 255 130
+[11:29:57] Load: Category: 1, Count: 531 | 1 1024 15 0 1 1 63 0 76 0 255 130
+[11:29:57] Load: Category: 1, Count: 532 | 1 1025 15 1 1 1 63 0 80 0 255 130
+[11:29:57] Load: Category: 1, Count: 533 | 1 1026 15 0 1 1 63 0 87 0 255 130
+[11:29:57] Load: Category: 1, Count: 534 | 1 1027 15 1 1 1 63 0 105 0 255 130
+[11:29:57] Load: Category: 1, Count: 535 | 1 1028 15 1 1 1 63 0 127 0 255 130
+[11:29:57] Load: Category: 1, Count: 536 | 1 1029 15 1 1 1 63 0 131 0 255 130
+[11:29:57] Load: Category: 1, Count: 537 | 1 1030 15 1 1 1 63 0 135 0 255 130
+[11:29:57] Load: Category: 1, Count: 538 | 1 1031 15 0 1 1 63 0 105 0 255 130
+[11:29:57] Load: Category: 1, Count: 539 | 1 1032 15 1 1 1 63 0 95 0 255 130
+[11:29:57] Load: Category: 1, Count: 540 | 1 1033 15 1 1 1 63 0 100 0 255 130
+[11:29:57] Load: Category: 1, Count: 541 | 1 1536 15 1 1 1 63 0 111 0 255 130
+[11:29:57] Load: Category: 1, Count: 542 | 1 1537 15 0 1 1 63 0 97 0 255 130
+[11:29:57] Load: Category: 1, Count: 543 | 1 1538 15 0 1 1 63 0 89 0 255 130
+[11:29:57] Load: Category: 1, Count: 544 | 1 1539 15 0 1 1 63 0 99 0 255 130
+[11:29:57] Load: Category: 2, Count: 1024 | 1 2048 15 1 1 1 63 0 75 0 255 130
+[11:29:57] Load: Category: 2, Count: 1025 | 1 2049 15 1 1 1 63 0 79 0 255 130
+[11:29:57] Load: Category: 2, Count: 1026 | 1 2050 15 1 1 1 63 0 83 0 255 130
+[11:29:57] Load: Category: 2, Count: 1027 | 1 2051 15 1 1 1 63 0 91 0 255 130
+[11:29:57] Load: Category: 2, Count: 1028 | 1 2052 15 1 1 1 63 0 98 0 255 130
+[11:29:57] Load: Category: 2, Count: 1029 | 1 2053 15 1 1 1 63 0 103 0 255 130
+[11:29:57] Load: Category: 2, Count: 1030 | 1 2054 15 1 1 1 63 0 123 0 255 130
+[11:29:57] Load: Category: 2, Count: 1031 | 1 2055 15 0 1 1 63 0 255 0 255 130
+[11:29:57] Load: Category: 2, Count: 1032 | 1 2056 15 1 1 1 63 0 77 0 255 130
+[11:29:57] Load: Category: 2, Count: 1033 | 1 2057 15 1 1 1 63 0 81 0 255 130
+[11:29:57] Load: Category: 3, Count: 1536 | 1 2560 15 0 1 1 63 0 75 0 255 130
+[11:29:57] Load: Category: 3, Count: 1537 | 1 2561 15 0 1 1 63 0 93 0 255 130
+[11:29:57] Load: Category: 3, Count: 1538 | 1 2562 15 0 1 1 63 0 105 0 255 130
+[11:29:57] Load: Category: 3, Count: 1539 | 1 2563 15 0 1 1 63 0 115 0 255 130
+[11:29:57] Load: Category: 3, Count: 1540 | 1 2564 15 0 1 1 63 0 120 0 255 130
+[11:29:57] Load: Category: 3, Count: 1541 | 1 2565 15 0 1 1 63 0 121 0 255 130
+[11:29:57] Load: Category: 4, Count: 2048 | 1 3072 15 0 1 1 63 0 77 0 255 130
+[11:29:57] Load: Category: 4, Count: 2049 | 1 3073 15 0 1 1 63 0 83 0 255 130
+[11:29:57] Load: Category: 4, Count: 2050 | 1 3074 15 0 1 1 63 0 87 0 255 130
+[11:29:57] Load: Category: 4, Count: 2051 | 1 3075 15 0 1 1 63 0 91 0 255 130
+[11:29:57] Load: Category: 4, Count: 2052 | 1 3076 15 1 1 1 63 0 79 0 255 130
+[11:29:57] Load: Category: 4, Count: 2053 | 1 3077 15 1 1 1 63 0 99 0 255 130
+[11:29:57] Load: Category: 4, Count: 2054 | 1 3078 15 1 1 1 63 0 89 0 255 130
+[11:29:57] Load: Category: 5, Count: 2560 | 1 3585 13 0 1 1 63 0 115 0 255 130
+[11:29:57] Load: Category: 5, Count: 2561 | 1 3586 13 0 1 1 63 0 75 0 255 130
+[11:29:57] Load: Category: 5, Count: 2562 | 1 3587 13 0 1 1 63 0 89 0 255 130
+[11:29:57] Load: Category: 5, Count: 2563 | 1 3588 13 0 1 1 63 0 77 0 255 130
+[11:29:57] Load: Category: 5, Count: 2564 | 1 3589 13 0 1 1 63 0 77 0 255 130
+[11:29:57] Load: Category: 5, Count: 2565 | 1 3590 13 0 1 1 63 0 87 0 255 130
+[11:29:57] Load: Category: 5, Count: 2566 | 1 3591 13 0 1 1 63 0 83 0 255 130
+[11:29:57] Load: Category: 5, Count: 2567 | 1 3592 13 0 1 1 63 0 91 0 255 130
+[11:29:57] Load: Category: 5, Count: 2568 | 1 3593 13 0 1 1 63 0 97 0 255 130
+[11:29:57] Load: Category: 5, Count: 2569 | 1 3594 13 0 1 1 63 0 69 0 255 130
+[11:29:57] Load: Category: 5, Count: 2570 | 1 3595 13 0 1 1 63 0 73 0 255 130
+[11:29:57] Load: Category: 5, Count: 2571 | 1 3596 13 0 1 1 63 0 79 0 255 130
+[11:29:57] Load: Category: 5, Count: 2572 | 1 3597 13 0 1 1 63 0 85 0 255 130
+[11:29:57] Load: Category: 5, Count: 2573 | 1 3598 13 0 1 1 63 0 92 0 255 130
+[11:29:57] Load: Category: 6, Count: 3072 | 1 4096 13 0 1 1 63 0 81 0 255 130
+[11:29:57] Load: Category: 6, Count: 3073 | 1 4097 13 0 1 1 63 0 115 0 255 130
+[11:29:57] Load: Category: 6, Count: 3074 | 1 4098 13 0 1 1 63 0 75 0 255 130
+[11:29:57] Load: Category: 6, Count: 3075 | 1 4099 13 0 1 1 63 0 89 0 255 130
+[11:29:57] Load: Category: 6, Count: 3076 | 1 4100 13 0 1 1 63 0 77 0 255 130
+[11:29:57] Load: Category: 6, Count: 3077 | 1 4101 13 0 1 1 63 0 77 0 255 130
+[11:29:57] Load: Category: 6, Count: 3078 | 1 4102 13 0 1 1 63 0 87 0 255 130
+[11:29:57] Load: Category: 6, Count: 3079 | 1 4103 13 0 1 1 63 0 83 0 255 130
+[11:29:57] Load: Category: 6, Count: 3080 | 1 4104 13 0 1 1 63 0 91 0 255 130
+[11:29:57] Load: Category: 6, Count: 3081 | 1 4105 13 0 1 1 63 0 97 0 255 130
+[11:29:57] Load: Category: 6, Count: 3082 | 1 4106 13 0 1 1 63 0 69 0 255 130
+[11:29:57] Load: Category: 6, Count: 3083 | 1 4107 13 0 1 1 63 0 73 0 255 130
+[11:29:57] Load: Category: 6, Count: 3084 | 1 4108 13 0 1 1 63 0 79 0 255 130
+[11:29:57] Load: Category: 6, Count: 3085 | 1 4109 13 0 1 1 63 0 85 0 255 130
+[11:29:57] Load: Category: 6, Count: 3086 | 1 4110 13 0 1 1 63 0 92 0 255 130
+[11:29:57] Load: Category: 7, Count: 3584 | 1 4608 13 0 1 1 63 0 81 0 255 130
+[11:29:57] Load: Category: 7, Count: 3585 | 1 4609 13 0 1 1 63 0 115 0 255 130
+[11:29:57] Load: Category: 7, Count: 3586 | 1 4610 13 0 1 1 63 0 75 0 255 130
+[11:29:57] Load: Category: 7, Count: 3587 | 1 4611 13 0 1 1 63 0 89 0 255 130
+[11:29:57] Load: Category: 7, Count: 3588 | 1 4612 13 0 1 1 63 0 77 0 255 130
+[11:29:57] Load: Category: 7, Count: 3589 | 1 4613 13 0 1 1 63 0 77 0 255 130
+[11:29:57] Load: Category: 7, Count: 3590 | 1 4614 13 0 1 1 63 0 87 0 255 130
+[11:29:57] Load: Category: 7, Count: 3591 | 1 4615 13 0 1 1 63 0 83 0 255 130
+[11:29:57] Load: Category: 7, Count: 3592 | 1 4616 13 0 1 1 63 0 91 0 255 130
+[11:29:57] Load: Category: 7, Count: 3593 | 1 4617 13 0 1 1 63 0 97 0 255 130
+[11:29:57] Load: Category: 7, Count: 3594 | 1 4618 13 0 1 1 63 0 69 0 255 130
+[11:29:57] Load: Category: 7, Count: 3595 | 1 4619 13 0 1 1 63 0 73 0 255 130
+[11:29:57] Load: Category: 7, Count: 3596 | 1 4620 13 0 1 1 63 0 79 0 255 130
+[11:29:57] Load: Category: 7, Count: 3597 | 1 4621 13 0 1 1 63 0 85 0 255 130
+[11:29:57] Load: Category: 7, Count: 3598 | 1 4622 13 0 1 1 63 0 92 0 255 130
+[11:29:57] Load: Category: 8, Count: 4096 | 1 5120 13 0 1 1 63 0 81 0 255 130
+[11:29:57] Load: Category: 8, Count: 4097 | 1 5121 13 0 1 1 63 0 115 0 255 130
+[11:29:57] Load: Category: 8, Count: 4098 | 1 5122 13 0 1 1 63 0 75 0 255 130
+[11:29:57] Load: Category: 8, Count: 4099 | 1 5123 13 0 1 1 63 0 89 0 255 130
+[11:29:57] Load: Category: 8, Count: 4100 | 1 5124 13 0 1 1 63 0 77 0 255 130
+[11:29:57] Load: Category: 8, Count: 4101 | 1 5125 13 0 1 1 63 0 77 0 255 130
+[11:29:57] Load: Category: 8, Count: 4102 | 1 5126 13 0 1 1 63 0 87 0 255 130
+[11:29:57] Load: Category: 8, Count: 4103 | 1 5127 13 0 1 1 63 0 83 0 255 130
+[11:29:57] Load: Category: 8, Count: 4104 | 1 5128 13 0 1 1 63 0 91 0 255 130
+[11:29:57] Load: Category: 8, Count: 4105 | 1 5129 13 0 1 1 63 0 97 0 255 130
+[11:29:57] Load: Category: 8, Count: 4106 | 1 5130 13 0 1 1 63 0 69 0 255 130
+[11:29:57] Load: Category: 8, Count: 4107 | 1 5131 13 0 1 1 63 0 73 0 255 130
+[11:29:57] Load: Category: 8, Count: 4108 | 1 5132 13 0 1 1 63 0 79 0 255 130
+[11:29:57] Load: Category: 8, Count: 4109 | 1 5133 13 0 1 1 63 0 85 0 255 130
+[11:29:57] Load: Category: 8, Count: 4110 | 1 5134 13 0 1 1 63 0 92 0 255 130
+[11:29:57] Load: Category: 9, Count: 4608 | 1 5632 13 0 1 1 63 0 81 0 255 130
+[11:29:57] Load: Category: 9, Count: 4609 | 1 5633 13 0 1 1 63 0 115 0 255 130
+[11:29:57] Load: Category: 9, Count: 4610 | 1 5634 13 0 1 1 63 0 75 0 255 130
+[11:29:57] Load: Category: 9, Count: 4611 | 1 5635 13 0 1 1 63 0 89 0 255 130
+[11:29:57] Load: Category: 9, Count: 4612 | 1 5636 13 0 1 1 63 0 77 0 255 130
+[11:29:57] Load: Category: 9, Count: 4613 | 1 5637 13 0 1 1 63 0 77 0 255 130
+[11:29:57] Load: Category: 9, Count: 4614 | 1 5638 13 0 1 1 63 0 87 0 255 130
+[11:29:57] Load: Category: 9, Count: 4615 | 1 5639 13 0 1 1 63 0 83 0 255 130
+[11:29:57] Load: Category: 9, Count: 4616 | 1 5640 13 0 1 1 63 0 91 0 255 130
+[11:29:57] Load: Category: 9, Count: 4617 | 1 5641 13 0 1 1 63 0 97 0 255 130
+[11:29:57] Load: Category: 9, Count: 4618 | 1 5642 13 0 1 1 63 0 69 0 255 130
+[11:29:57] Load: Category: 9, Count: 4619 | 1 5643 13 0 1 1 63 0 73 0 255 130
+[11:29:57] Load: Category: 9, Count: 4620 | 1 5644 13 0 1 1 63 0 79 0 255 130
+[11:29:57] Load: Category: 9, Count: 4621 | 1 5645 13 0 1 1 63 0 85 0 255 130
+[11:29:57] Load: Category: 9, Count: 4622 | 1 5646 13 0 1 1 63 0 92 0 255 130
+[11:29:57] Load: Category: 10, Count: 5120 | 1 6144 13 0 1 7 63 0 252 0 255 130
+[11:29:57] Load: Category: 10, Count: 5121 | 1 6145 13 0 1 7 63 0 252 0 255 130
+[11:29:57] Load: Category: 10, Count: 5122 | 1 6146 13 0 1 7 63 0 252 0 255 130
+[11:29:57] Load: Category: 10, Count: 5123 | 1 6147 13 0 1 7 63 0 232 0 255 130
+[11:29:57] Load: Category: 10, Count: 5124 | 1 6148 13 0 1 7 63 0 232 0 255 130
+[11:29:57] Load: Category: 10, Count: 5125 | 1 6149 13 0 1 7 63 0 232 0 255 130
+[11:29:57] Load: Category: 10, Count: 5126 | 1 6150 13 0 1 7 63 0 232 0 255 130
+[11:29:57] Load: Category: 10, Count: 5127 | 1 6686 13 0 1 7 63 0 232 0 255 130
+[11:29:57] Load: Category: 11, Count: 5632 | 1 6664 13 0 2 7 63 0 97 0 255 130
+[11:29:57] Load: Category: 11, Count: 5633 | 1 6665 13 0 1 7 63 0 97 0 255 130
+[11:29:57] Load: Category: 11, Count: 5634 | 1 6668 13 0 1 7 63 0 97 0 255 130
+[11:29:57] Load: Category: 11, Count: 5635 | 1 6669 13 0 1 7 63 0 97 0 255 130
+[11:29:57] [CASHSHOP] Discount File loaded successfully!
+[11:29:57] [CalCharacter] File loaded successfully!
+[11:29:57] [CommandManager] File Loaded Successfully
+[11:29:57] [BlackList] Loaded Successfull!
+[11:29:57] [NPC Buffer] File loaded successfully!
+[11:29:57] [Damage Balance] File loaded successfully!
+[11:29:57] [CommandReset] File Loaded Successfully
+[11:29:57] [CommandMasterReset] File Loaded Successfully
+[11:29:57] [Jewel Upgrade] File loaded successfully!
+[11:29:57] [DropManager] File Loaded Successfully
+[11:29:57] [ChatCensure] File Loaded Successfully
+[11:29:57] [Command Auto Attack] File Loaded Successfully.
+[11:29:57] [NPC Shop] Reload Data Successfully!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Monster Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Monster Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Monster Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Monster Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Monster Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Shield Setting!!
+[11:29:57] SkyLand Boss Monster Setting!!
+[11:29:57] error : Monster location setting error user.cpp 2769
+[11:29:57] error-L2 : 468 class : 0
+[11:29:57] error : Monster location setting error user.cpp 2769
+[11:29:57] error-L2 : 474 class : 0
+[11:29:57] error : Monster location setting error user.cpp 2769
+[11:29:57] error-L2 : 3330 class : 0
+[11:29:57] error : Monster location setting error user.cpp 2769
+[11:29:57] error-L2 : 3331 class : 0
+[11:29:57] error : Monster location setting error user.cpp 2769
+[11:29:57] error-L2 : 3332 class : 0
+[11:29:57] error : Monster location setting error user.cpp 2769
+[11:29:57] error-L2 : 3333 class : 0
+[11:29:57] error : Monster location setting error user.cpp 2769
+[11:29:57] error-L2 : 3334 class : 0
+[11:29:57] error : Monster location setting error user.cpp 2769
+[11:29:57] error-L2 : 3335 class : 0
+[11:29:57] error : Monster location setting error user.cpp 2769
+[11:29:57] error-L2 : 3336 class : 0
+[11:29:57] error : Monster location setting error user.cpp 2769
+[11:29:57] error-L2 : 3337 class : 0
+[11:29:57] error : Monster location setting error user.cpp 2769
+[11:29:57] error-L2 : 3338 class : 0
+[11:29:57] error : Monster location setting error user.cpp 2769
+[11:29:57] error-L2 : 3339 class : 0
+[11:29:58] [DevilSquare] Close
+[11:29:58] [DevilSquare] Sync Open Time. [26]min remain
+[11:29:58] [Chaos Castle] (1) Sync Start Time. [30] min remain
+[11:29:58] [Chaos Castle] (1) SetState CLOSED
+[11:29:58] [Chaos Castle] (2) Sync Start Time. [30] min remain
+[11:29:58] [Chaos Castle] (2) SetState CLOSED
+[11:29:58] [Chaos Castle] (3) Sync Start Time. [30] min remain
+[11:29:58] [Chaos Castle] (3) SetState CLOSED
+[11:29:58] [Chaos Castle] (4) Sync Start Time. [30] min remain
+[11:29:58] [Chaos Castle] (4) SetState CLOSED
+[11:29:58] [Chaos Castle] (5) Sync Start Time. [30] min remain
+[11:29:58] [Chaos Castle] (5) SetState CLOSED
+[11:29:58] [Chaos Castle] (6) Sync Start Time. [30] min remain
+[11:29:58] [Chaos Castle] (6) SetState CLOSED
+[11:29:58] [Illusion Temple] (1) Sync Open Time. [151]min remain
+[11:29:58] [Illusion Temple] (2) Sync Open Time. [151]min remain
+[11:29:58] [Illusion Temple] (3) Sync Open Time. [151]min remain
+[11:29:58] [Illusion Temple] (4) Sync Open Time. [151]min remain
+[11:29:58] [Illusion Temple] (5) Sync Open Time. [151]min remain
+[11:29:58] [Illusion Temple] (6) Sync Open Time. [151]min remain
+[11:29:58] [Virtual Drop] Sync Start Time. [30] min remain
+[11:29:58] [Virtual Drop] SetState EMPTY
+[11:29:58] [Hide and Seek] Sync Start Time. [150] min remain
+[11:29:58] [Hide and Seek] SetState EMPTY
+[11:29:58] [Moss Merchant] Sync Start Time. [206] min remain
+[11:29:58] [Moss Merchant] SetState EMPTY
+[11:29:58] ..\data\Iplist.dat arquivo carregado!
+[11:29:58] [Invasion Manager][ White Wizard ] State END
+[11:29:58] [Invasion Manager][ Golden Invasion ] State END
+[11:29:58] [Invasion Manager][ Red Dragon ] State END
+[11:29:58] [Invasion Manager][ Skeleton King ] State END
+[11:29:58] [Invasion Manager][ Golden Invasion ] State END
+[11:29:58] [Invasion Manager][ Golden Invasion ] State END
+[11:29:58] [Invasion Manager][ Golden Invasion ] State END
+[11:29:58] [Invasion Manager][ Medusa em Dungeon ] State END
+[11:29:58] [Invasion Manager][ Golden Invasion ] State END
+[11:29:58] [Invasion Manager][ Golden Invasion ] State END
+[11:29:58] [Invasion Manager][ Golden Invasion ] State END
+[11:29:58] [Invasion Manager][ Golden Invasion ] State END
+[11:29:58] [Invasion Manager][ MegaTrix ] State END
+[11:29:58] [Invasion Manager][ MegaDum Invasion ] State END
+[11:29:58] [Invasion Manager][ Boss em Lorencia ] State END
+[11:30:00] [Connection] connect() failed with error: 10061
+[11:30:05] Whole connection closed

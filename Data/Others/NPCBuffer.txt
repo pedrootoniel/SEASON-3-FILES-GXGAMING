@@ -1,0 +1,180 @@
+//======================================================================================||
+// -- [ ] NPC Buff [Life]								||
+//======================================================================================||
+//											||
+// [0]		: Ativa / Desativa o Sistema						||
+// [1]		: Vip necessario para usar o NPC					||
+// [2]		: Level Minimo para usar o NPC						||
+// [3]		: Level Maximo para usar o NPC						||
+// [4]		: Reset Maximo para usar o NPC			[-1 : Desativa]		||
+// [5]		: Money necessario para usar o NPC					||
+//											||
+// [6]		: Status para buff [1: Usa o status do NPC] [2: Usa o Status do Player]	||
+// [7]		: Pontos em VIT do NPC							||
+// [8]		: Pontos em ENE do NPC							||
+//											||
+// [9]		: [Formula] Valor Base 				[Default: 12]		||
+// [10]		: [Formula] Divisor da Vitalidade		[Default: 100]		||
+// [11]		: [Formula] Divisor da Energia			[Default 20]		||
+//											||
+// [12]		: Duração do buff em Segundos						||
+//											||
+// [13]		: Adicinal do buff para pessoas Vip #1					||
+// [14]		: Adicinal do buff para pessoas Vip #2					||
+// [15]		: Adicinal do buff para pessoas Vip #3					||
+// [16]		: Adicinal do buff para pessoas Vip #4					||
+// [17]		: Adicinal do buff para pessoas Vip #5					||
+//											||
+//======================================================================================||
+0
+//==============================================================================================||
+//	[0]	[1]	[2]	[3]	[4]	[5]		[6]	[7]	[8]		||
+//==============================================================================================||
+	1	0	1	400	-1	100000		1	15000	15000
+
+//==============================================================================================||
+//	[9]	[10]	[11]		[12]		[13]	[14]	[15]	[16]	[17]	||
+//==============================================================================================||
+	12	100	20		1800		0	0	0	0	0
+end
+
+
+//======================================================================================||
+// -- [ ] NPC Buff [Shield]								||
+//======================================================================================||
+//											||
+// [0]		: Ativa / Desativa o Sistema						||
+// [1]		: Vip necessario para usar o NPC					||
+// [2]		: Level Minimo para usar o NPC						||
+// [3]		: Level Maximo para usar o NPC						||
+// [4]		: Reset Maximo para usar o NPC			[-1 : Desativa]		||
+// [5]		: Money necessario para usar o NPC					||
+//											||
+// [6]		: Status para buff [1: Usa o status do NPC] [2: Usa o Status do Player]	||
+// [7]		: Pontos em DEX do NPC							||
+// [8]		: Pontos em ENE do NPC							||
+//											||
+// [9]		: [Formula] Valor Base 				[Default: 10]		||
+// [10]		: [Formula] Divisor da Vitality			[Default: 50]		||
+// [11]		: [Formula] Divisor da Energia			[Default 200]		||
+//											||
+// [12]		: Duração do buff em Segundos						||
+//											||
+// [13]		: Adicinal do buff para pessoas Vip #1					||
+// [14]		: Adicinal do buff para pessoas Vip #2					||
+// [15]		: Adicinal do buff para pessoas Vip #3					||
+// [16]		: Adicinal do buff para pessoas Vip #4					||
+// [17]		: Adicinal do buff para pessoas Vip #5					||
+//											||
+//======================================================================================||
+1
+//==============================================================================================||
+//	[0]	[1]	[2]	[3]	[4]	[5]		[6]	[7]	[8]		||
+//==============================================================================================||
+	1	0	1	400	-1	100000		1	15000	15000
+
+//==============================================================================================||
+//	[9]	[10]	[11]		[12]		[13]	[14]	[15]	[16]	[17]	||
+//==============================================================================================||
+	10	50	200		1800		0	0	0	0	0
+end
+
+
+//======================================================================================||
+// -- [ ] NPC Buff [Critical]								||
+//======================================================================================||
+//											||
+// [0]		: Ativa / Desativa o Sistema						||
+// [1]		: Vip necessario para usar o NPC					||
+// [2]		: Level Minimo para usar o NPC						||
+// [3]		: Level Maximo para usar o NPC						||
+// [4]		: Reset Maximo para usar o NPC			[-1 : Desativa]		||
+// [5]		: Money necessario para usar o NPC					||
+//											||
+// [6]		: Status para buff [1: Usa o status do NPC] [2: Usa o Status do Player]	||
+// [7]		: Pontos em CMD do NPC							||
+// [8]		: Pontos em ENE do NPC							||
+//											||
+// [9]		: [Formula] Valor Base 				[Default: 0]		||
+// [10]		: [Formula] Divisor da LeaderShip		[Default: 25]		||
+// [11]		: [Formula] Divisor da Energia			[Default 30]		||
+//											||
+// [12]		: Duração do buff em Segundos						||
+//											||
+// [13]		: Adicinal do buff para pessoas Vip #1					||
+// [14]		: Adicinal do buff para pessoas Vip #2					||
+// [15]		: Adicinal do buff para pessoas Vip #3					||
+// [16]		: Adicinal do buff para pessoas Vip #4					||
+// [17]		: Adicinal do buff para pessoas Vip #5					||
+//											||
+//======================================================================================||
+2
+//==============================================================================================||
+//	[0]	[1]	[2]	[3]	[4]	[5]		[6]	[7]	[8]		||
+//==============================================================================================||
+	1	0	1	400	-1	100000		1	15000	15000
+
+//==============================================================================================||
+//	[9]	[10]	[11]		[12]		[13]	[14]	[15]	[16]	[17]	||
+//==============================================================================================||
+	0	25	30		1800		0	0	0	0	0
+end
+
+//======================================================================================||
+// -- [ ] NPC Buff [Attack]								||
+//======================================================================================||
+//											||
+// [0]		: Ativa / Desativa o Sistema						||
+// [1]		: Vip necessario para usar o NPC					||
+// [2]		: Level Minimo para usar o NPC						||
+// [3]		: Level Maximo para usar o NPC						||
+// [4]		: Reset Maximo para usar o NPC			[-1 : Desativa]		||
+// [5]		: Money necessario para usar o NPC					||
+//											||
+// [6]		: Status para buff [1: Usa o status do NPC] [2: Usa o Status do Player]	||
+// [7]		: Pontos em DEX do NPC							||
+// [8]		: Pontos em ENE do NPC							||
+//											||
+// [9]		: [Formula] Valor Base 				[Default: 3]		||
+// [10]		: [Formula] Divisor da Dextreza			[Default: 1]		||
+// [11]		: [Formula] Divisor da Energia			[Default 7]		||
+//											||
+// [12]		: Duração do buff em Segundos						||
+//											||
+// [13]		: Adicinal do buff para pessoas Vip #1					||
+// [14]		: Adicinal do buff para pessoas Vip #2					||
+// [15]		: Adicinal do buff para pessoas Vip #3					||
+// [16]		: Adicinal do buff para pessoas Vip #4					||
+// [17]		: Adicinal do buff para pessoas Vip #5					||
+//											||
+//======================================================================================||
+3
+//==============================================================================================||
+//	[0]	[1]	[2]	[3]	[4]	[5]		[6]	[7]	[8]		||
+//==============================================================================================||
+	1	0	1	400	-1	100000		1	15000	15000
+
+//==============================================================================================||
+//	[9]	[10]	[11]		[12]		[13]	[14]	[15]	[16]	[17]	||
+//==============================================================================================||
+	3	1	7		1800		0	0	0	0	0
+end
+
+//======================================================================================||
+// -- [ ] NPC Buff [HP/MP]								||
+//======================================================================================||
+//											||
+// [0]		: Ativa / Desativa o Sistema						||
+// [1]		: Vip necessario para usar o NPC					||
+// [2]		: Level Minimo para usar o NPC						||
+// [3]		: Level Maximo para usar o NPC						||
+// [4]		: Reset Maximo para usar o NPC			[-1 : Desativa]		||
+// [5]		: Money necessario para usar o NPC					||
+//											||
+//======================================================================================||
+4
+//==============================================================================================||
+//	[0]	[1]	[2]	[3]	[4]	[5]						||
+//==============================================================================================||
+	1	0	1	400	-1	100000
+end

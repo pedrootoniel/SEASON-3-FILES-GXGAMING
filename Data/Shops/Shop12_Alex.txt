@@ -1,0 +1,16 @@
+//==============================================================================||
+//	Type	Index	Level	Dur	Skill	Luck	Option	Exc	Anc	||
+//==============================================================================||
+
+	7	25	9	255	1	1	0	0	0	// Light Plate Helm
+	8	25	9	255	1	1	0	0	0	// Light Plate Armor
+	9	25	9	255	1	1	0	0	0	// Light Plate Pants
+	10	25	9	255	1	1	0	0	0	// Light Plate Gloves
+	11	25	9	255	1	1	0	0	0	// Light Plate Boots
+	2 	8 	9 	255 	0 	1 	0 	0 	0	//Battle Scepter
+	12 	21 	0 	255 	0 	0 	0 	0 	0	//Scroll of FireBurst
+	12 	22 	0 	255 	0 	0 	0 	0 	0	//Scroll of Summon
+	12 	23 	0 	255 	0 	0 	0 	0 	0	//Scroll of Critical Damage
+	12 	24 	0 	255 	0 	0 	0 	0 	0	//Scroll of Electric Spark
+	12	35	0	255	0	0	0	0	0	// Fire Scream Scroll
+end

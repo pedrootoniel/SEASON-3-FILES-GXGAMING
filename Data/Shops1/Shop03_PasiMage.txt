@@ -1,0 +1,39 @@
+//Group	Index	Level	Dur	Skill	Luck	Opt	ExeOpt	Anc	Info	
+/////////////////////////////////////////////////////////////////////////////										
+//										
+15	0	0	0	0	0	0	0	0	//Scroll of Poison	
+15	1	0	0	0	0	0	0	0	//Scroll of Meteorite	
+15	2	0	0	0	0	0	0	0	//Scroll of Lighting	
+15	3	0	0	0	0	0	0	0	//Scroll of Fire Ball	
+15	4	0	0	0	0	0	0	0	//Scroll of Flame	
+15	5	0	0	0	0	0	0	0	//Scroll of Teleport	
+15	6	0	0	0	0	0	0	0	//Scroll of Ice	
+15	7	0	0	0	0	0	0	0	//Scroll of Twister	
+15	8	0	0	0	0	0	0	0	//Scroll of Evil Spirit	Retirar
+15	9	0	0	0	0	0	0	0	//Scroll of Hellfire	
+15	10	0	0	0	0	0	0	0	//Scroll of Power Wave	
+15	11	0	0	0	0	0	0	0	//Scroll of Aqua Beam	
+15	12	0	0	0	0	0	0	0	//Scroll of Cometfall	
+15	13	0	0	0	0	0	0	0	//Scroll of Inferno	
+15	14	0	0	0	0	0	0	0	//Scroll of Teleport Ally	
+15	15	0	0	0	0	0	0	0	//Scroll of Soul Barrier	Retirar
+15	16	0	0	0	0	0	0	0	//Scroll of Decay	Retirar
+15	17	0	0	0	0	0	0	0	//Scroll of Ice Storm	Retirar
+15	18	0	0	0	0	0	0	0	//Scroll of Nova	Retirar
+
+//DL
+12	21	0	0	0	0	0	0	0	//Scroll of FireBurst	Retirar DL
+12	22	0	0	0	0	0	0	0	//Scroll of Summon	
+12	23	0	0	0	0	0	0	0	//Scroll of Critical Damage	Retirar DL
+12	24	0	0	0	0	0	0	0	//Scroll of Electric Spark	
+12	35	0	0	0	0	0	0	0	//Scroll of Fire Scream	Retirar DL
+
+//BK
+12	7	0	0	0	0	0	0	0	//Orb of Twisting Slash	Retirar BK
+12	12	0	0	0	0	0	0	0	//Orb of Rageful Blow	
+12	13	0	0	0	0	0	0	0	//Orb of Impale	
+12	14	0	0	0	0	0	0	0	//Orb of Greater Fortitude	Retirar BK
+12	16	0	0	0	0	0	0	0	//Orb of Fire Slash	
+12	19	0	0	0	0	0	0	0	//Orb of Death Stab	
+
+end

@@ -1,0 +1,434 @@
+13:14:32  [Blood Castle] (1) Sync Start Time. [45] min remain
+13:14:32  [Blood Castle] (1) SetState EMPTY
+13:14:32  [Blood Castle] (2) Sync Start Time. [45] min remain
+13:14:32  [Blood Castle] (2) SetState EMPTY
+13:14:32  [Blood Castle] (3) Sync Start Time. [45] min remain
+13:14:32  [Blood Castle] (3) SetState EMPTY
+13:14:32  [Blood Castle] (4) Sync Start Time. [45] min remain
+13:14:32  [Blood Castle] (4) SetState EMPTY
+13:14:32  [Blood Castle] (5) Sync Start Time. [45] min remain
+13:14:32  [Blood Castle] (5) SetState EMPTY
+13:14:32  [Blood Castle] (6) Sync Start Time. [45] min remain
+13:14:32  [Blood Castle] (6) SetState EMPTY
+13:14:32  [Blood Castle] (7) Sync Start Time. [45] min remain
+13:14:32  [Blood Castle] (7) SetState EMPTY
+13:15:38  [Blood Castle] (1) Sync Start Time. [44] min remain
+13:15:38  [Blood Castle] (1) SetState EMPTY
+13:15:38  [Blood Castle] (2) Sync Start Time. [44] min remain
+13:15:38  [Blood Castle] (2) SetState EMPTY
+13:15:38  [Blood Castle] (3) Sync Start Time. [44] min remain
+13:15:38  [Blood Castle] (3) SetState EMPTY
+13:15:38  [Blood Castle] (4) Sync Start Time. [44] min remain
+13:15:38  [Blood Castle] (4) SetState EMPTY
+13:15:38  [Blood Castle] (5) Sync Start Time. [44] min remain
+13:15:38  [Blood Castle] (5) SetState EMPTY
+13:15:38  [Blood Castle] (6) Sync Start Time. [44] min remain
+13:15:38  [Blood Castle] (6) SetState EMPTY
+13:15:38  [Blood Castle] (7) Sync Start Time. [44] min remain
+13:15:38  [Blood Castle] (7) SetState EMPTY
+13:16:35  [Blood Castle] (1) Sync Start Time. [43] min remain
+13:16:35  [Blood Castle] (1) SetState EMPTY
+13:16:35  [Blood Castle] (2) Sync Start Time. [43] min remain
+13:16:35  [Blood Castle] (2) SetState EMPTY
+13:16:35  [Blood Castle] (3) Sync Start Time. [43] min remain
+13:16:35  [Blood Castle] (3) SetState EMPTY
+13:16:35  [Blood Castle] (4) Sync Start Time. [43] min remain
+13:16:35  [Blood Castle] (4) SetState EMPTY
+13:16:35  [Blood Castle] (5) Sync Start Time. [43] min remain
+13:16:35  [Blood Castle] (5) SetState EMPTY
+13:16:35  [Blood Castle] (6) Sync Start Time. [43] min remain
+13:16:35  [Blood Castle] (6) SetState EMPTY
+13:16:36  [Blood Castle] (7) Sync Start Time. [43] min remain
+13:16:36  [Blood Castle] (7) SetState EMPTY
+13:18:45  [Blood Castle] (1) Sync Start Time. [41] min remain
+13:18:45  [Blood Castle] (1) SetState EMPTY
+13:18:45  [Blood Castle] (2) Sync Start Time. [41] min remain
+13:18:45  [Blood Castle] (2) SetState EMPTY
+13:18:45  [Blood Castle] (3) Sync Start Time. [41] min remain
+13:18:45  [Blood Castle] (3) SetState EMPTY
+13:18:45  [Blood Castle] (4) Sync Start Time. [41] min remain
+13:18:45  [Blood Castle] (4) SetState EMPTY
+13:18:45  [Blood Castle] (5) Sync Start Time. [41] min remain
+13:18:45  [Blood Castle] (5) SetState EMPTY
+13:18:45  [Blood Castle] (6) Sync Start Time. [41] min remain
+13:18:45  [Blood Castle] (6) SetState EMPTY
+13:18:45  [Blood Castle] (7) Sync Start Time. [41] min remain
+13:18:45  [Blood Castle] (7) SetState EMPTY
+13:24:34  [Blood Castle] (1) Sync Start Time. [35] min remain
+13:24:34  [Blood Castle] (1) SetState EMPTY
+13:24:34  [Blood Castle] (2) Sync Start Time. [35] min remain
+13:24:34  [Blood Castle] (2) SetState EMPTY
+13:24:34  [Blood Castle] (3) Sync Start Time. [35] min remain
+13:24:34  [Blood Castle] (3) SetState EMPTY
+13:24:34  [Blood Castle] (4) Sync Start Time. [35] min remain
+13:24:34  [Blood Castle] (4) SetState EMPTY
+13:24:34  [Blood Castle] (5) Sync Start Time. [35] min remain
+13:24:34  [Blood Castle] (5) SetState EMPTY
+13:24:34  [Blood Castle] (6) Sync Start Time. [35] min remain
+13:24:34  [Blood Castle] (6) SetState EMPTY
+13:24:34  [Blood Castle] (7) Sync Start Time. [35] min remain
+13:24:34  [Blood Castle] (7) SetState EMPTY
+13:26:0  [Blood Castle] (1) Sync Start Time. [34] min remain
+13:26:0  [Blood Castle] (1) SetState EMPTY
+13:26:0  [Blood Castle] (2) Sync Start Time. [34] min remain
+13:26:0  [Blood Castle] (2) SetState EMPTY
+13:26:0  [Blood Castle] (3) Sync Start Time. [34] min remain
+13:26:0  [Blood Castle] (3) SetState EMPTY
+13:26:0  [Blood Castle] (4) Sync Start Time. [34] min remain
+13:26:0  [Blood Castle] (4) SetState EMPTY
+13:26:0  [Blood Castle] (5) Sync Start Time. [34] min remain
+13:26:0  [Blood Castle] (5) SetState EMPTY
+13:26:0  [Blood Castle] (6) Sync Start Time. [34] min remain
+13:26:0  [Blood Castle] (6) SetState EMPTY
+13:26:0  [Blood Castle] (7) Sync Start Time. [34] min remain
+13:26:0  [Blood Castle] (7) SetState EMPTY
+13:30:33  [Blood Castle] (1) Sync Start Time. [29] min remain
+13:30:33  [Blood Castle] (1) SetState EMPTY
+13:30:33  [Blood Castle] (2) Sync Start Time. [29] min remain
+13:30:33  [Blood Castle] (2) SetState EMPTY
+13:30:33  [Blood Castle] (3) Sync Start Time. [29] min remain
+13:30:33  [Blood Castle] (3) SetState EMPTY
+13:30:33  [Blood Castle] (4) Sync Start Time. [29] min remain
+13:30:33  [Blood Castle] (4) SetState EMPTY
+13:30:33  [Blood Castle] (5) Sync Start Time. [29] min remain
+13:30:33  [Blood Castle] (5) SetState EMPTY
+13:30:33  [Blood Castle] (6) Sync Start Time. [29] min remain
+13:30:33  [Blood Castle] (6) SetState EMPTY
+13:30:33  [Blood Castle] (7) Sync Start Time. [29] min remain
+13:30:33  [Blood Castle] (7) SetState EMPTY
+13:32:52  [Blood Castle] (1) Sync Start Time. [27] min remain
+13:32:52  [Blood Castle] (1) SetState EMPTY
+13:32:52  [Blood Castle] (2) Sync Start Time. [27] min remain
+13:32:52  [Blood Castle] (2) SetState EMPTY
+13:32:52  [Blood Castle] (3) Sync Start Time. [27] min remain
+13:32:52  [Blood Castle] (3) SetState EMPTY
+13:32:52  [Blood Castle] (4) Sync Start Time. [27] min remain
+13:32:52  [Blood Castle] (4) SetState EMPTY
+13:32:52  [Blood Castle] (5) Sync Start Time. [27] min remain
+13:32:52  [Blood Castle] (5) SetState EMPTY
+13:32:52  [Blood Castle] (6) Sync Start Time. [27] min remain
+13:32:52  [Blood Castle] (6) SetState EMPTY
+13:32:52  [Blood Castle] (7) Sync Start Time. [27] min remain
+13:32:52  [Blood Castle] (7) SetState EMPTY
+13:34:3  [Blood Castle] (1) Sync Start Time. [25] min remain
+13:34:3  [Blood Castle] (1) SetState EMPTY
+13:34:3  [Blood Castle] (2) Sync Start Time. [25] min remain
+13:34:3  [Blood Castle] (2) SetState EMPTY
+13:34:3  [Blood Castle] (3) Sync Start Time. [25] min remain
+13:34:3  [Blood Castle] (3) SetState EMPTY
+13:34:3  [Blood Castle] (4) Sync Start Time. [25] min remain
+13:34:3  [Blood Castle] (4) SetState EMPTY
+13:34:3  [Blood Castle] (5) Sync Start Time. [25] min remain
+13:34:3  [Blood Castle] (5) SetState EMPTY
+13:34:3  [Blood Castle] (6) Sync Start Time. [25] min remain
+13:34:3  [Blood Castle] (6) SetState EMPTY
+13:34:3  [Blood Castle] (7) Sync Start Time. [25] min remain
+13:34:3  [Blood Castle] (7) SetState EMPTY
+13:36:0  [Blood Castle] (1) Sync Start Time. [24] min remain
+13:36:0  [Blood Castle] (1) SetState EMPTY
+13:36:0  [Blood Castle] (2) Sync Start Time. [24] min remain
+13:36:0  [Blood Castle] (2) SetState EMPTY
+13:36:0  [Blood Castle] (3) Sync Start Time. [24] min remain
+13:36:0  [Blood Castle] (3) SetState EMPTY
+13:36:0  [Blood Castle] (4) Sync Start Time. [24] min remain
+13:36:0  [Blood Castle] (4) SetState EMPTY
+13:36:0  [Blood Castle] (5) Sync Start Time. [24] min remain
+13:36:0  [Blood Castle] (5) SetState EMPTY
+13:36:0  [Blood Castle] (6) Sync Start Time. [24] min remain
+13:36:0  [Blood Castle] (6) SetState EMPTY
+13:36:0  [Blood Castle] (7) Sync Start Time. [24] min remain
+13:36:0  [Blood Castle] (7) SetState EMPTY
+13:43:3  [Blood Castle] (1) Sync Start Time. [16] min remain
+13:43:3  [Blood Castle] (1) SetState EMPTY
+13:43:3  [Blood Castle] (2) Sync Start Time. [16] min remain
+13:43:3  [Blood Castle] (2) SetState EMPTY
+13:43:3  [Blood Castle] (3) Sync Start Time. [16] min remain
+13:43:3  [Blood Castle] (3) SetState EMPTY
+13:43:3  [Blood Castle] (4) Sync Start Time. [16] min remain
+13:43:3  [Blood Castle] (4) SetState EMPTY
+13:43:3  [Blood Castle] (5) Sync Start Time. [16] min remain
+13:43:3  [Blood Castle] (5) SetState EMPTY
+13:43:3  [Blood Castle] (6) Sync Start Time. [16] min remain
+13:43:3  [Blood Castle] (6) SetState EMPTY
+13:43:3  [Blood Castle] (7) Sync Start Time. [16] min remain
+13:43:3  [Blood Castle] (7) SetState EMPTY
+13:44:19  [Blood Castle] (1) Sync Start Time. [15] min remain
+13:44:19  [Blood Castle] (1) SetState EMPTY
+13:44:19  [Blood Castle] (2) Sync Start Time. [15] min remain
+13:44:19  [Blood Castle] (2) SetState EMPTY
+13:44:19  [Blood Castle] (3) Sync Start Time. [15] min remain
+13:44:19  [Blood Castle] (3) SetState EMPTY
+13:44:19  [Blood Castle] (4) Sync Start Time. [15] min remain
+13:44:19  [Blood Castle] (4) SetState EMPTY
+13:44:19  [Blood Castle] (5) Sync Start Time. [15] min remain
+13:44:19  [Blood Castle] (5) SetState EMPTY
+13:44:19  [Blood Castle] (6) Sync Start Time. [15] min remain
+13:44:19  [Blood Castle] (6) SetState EMPTY
+13:44:19  [Blood Castle] (7) Sync Start Time. [15] min remain
+13:44:19  [Blood Castle] (7) SetState EMPTY
+13:50:24  [Blood Castle] (1) Sync Start Time. [9] min remain
+13:50:24  [Blood Castle] (1) SetState EMPTY
+13:50:24  [Blood Castle] (2) Sync Start Time. [9] min remain
+13:50:24  [Blood Castle] (2) SetState EMPTY
+13:50:24  [Blood Castle] (3) Sync Start Time. [9] min remain
+13:50:24  [Blood Castle] (3) SetState EMPTY
+13:50:24  [Blood Castle] (4) Sync Start Time. [9] min remain
+13:50:24  [Blood Castle] (4) SetState EMPTY
+13:50:24  [Blood Castle] (5) Sync Start Time. [9] min remain
+13:50:24  [Blood Castle] (5) SetState EMPTY
+13:50:24  [Blood Castle] (6) Sync Start Time. [9] min remain
+13:50:24  [Blood Castle] (6) SetState EMPTY
+13:50:24  [Blood Castle] (7) Sync Start Time. [9] min remain
+13:50:24  [Blood Castle] (7) SetState EMPTY
+13:51:24  [Blood Castle] (1) Sync Start Time. [8] min remain
+13:51:24  [Blood Castle] (1) SetState EMPTY
+13:51:24  [Blood Castle] (2) Sync Start Time. [8] min remain
+13:51:24  [Blood Castle] (2) SetState EMPTY
+13:51:24  [Blood Castle] (3) Sync Start Time. [8] min remain
+13:51:24  [Blood Castle] (3) SetState EMPTY
+13:51:24  [Blood Castle] (4) Sync Start Time. [8] min remain
+13:51:24  [Blood Castle] (4) SetState EMPTY
+13:51:24  [Blood Castle] (5) Sync Start Time. [8] min remain
+13:51:24  [Blood Castle] (5) SetState EMPTY
+13:51:24  [Blood Castle] (6) Sync Start Time. [8] min remain
+13:51:24  [Blood Castle] (6) SetState EMPTY
+13:51:24  [Blood Castle] (7) Sync Start Time. [8] min remain
+13:51:24  [Blood Castle] (7) SetState EMPTY
+13:53:47  [Blood Castle] (1) Sync Start Time. [6] min remain
+13:53:47  [Blood Castle] (1) SetState EMPTY
+13:53:47  [Blood Castle] (2) Sync Start Time. [6] min remain
+13:53:47  [Blood Castle] (2) SetState EMPTY
+13:53:47  [Blood Castle] (3) Sync Start Time. [6] min remain
+13:53:47  [Blood Castle] (3) SetState EMPTY
+13:53:47  [Blood Castle] (4) Sync Start Time. [6] min remain
+13:53:47  [Blood Castle] (4) SetState EMPTY
+13:53:47  [Blood Castle] (5) Sync Start Time. [6] min remain
+13:53:47  [Blood Castle] (5) SetState EMPTY
+13:53:47  [Blood Castle] (6) Sync Start Time. [6] min remain
+13:53:47  [Blood Castle] (6) SetState EMPTY
+13:53:47  [Blood Castle] (7) Sync Start Time. [6] min remain
+13:53:47  [Blood Castle] (7) SetState EMPTY
+13:56:35  [Blood Castle] (1) Sync Start Time. [3] min remain
+13:56:35  [Blood Castle] (1) SetState EMPTY
+13:56:35  [Blood Castle] (2) Sync Start Time. [3] min remain
+13:56:35  [Blood Castle] (2) SetState EMPTY
+13:56:35  [Blood Castle] (3) Sync Start Time. [3] min remain
+13:56:35  [Blood Castle] (3) SetState EMPTY
+13:56:35  [Blood Castle] (4) Sync Start Time. [3] min remain
+13:56:35  [Blood Castle] (4) SetState EMPTY
+13:56:35  [Blood Castle] (5) Sync Start Time. [3] min remain
+13:56:35  [Blood Castle] (5) SetState EMPTY
+13:56:35  [Blood Castle] (6) Sync Start Time. [3] min remain
+13:56:35  [Blood Castle] (6) SetState EMPTY
+13:56:35  [Blood Castle] (7) Sync Start Time. [3] min remain
+13:56:35  [Blood Castle] (7) SetState EMPTY
+14:0:0  [Blood Castle] (1) SetState STAND
+14:0:0  [Blood Castle] (2) SetState STAND
+14:0:0  [Blood Castle] (3) SetState STAND
+14:0:0  [Blood Castle] (4) SetState STAND
+14:0:0  [Blood Castle] (5) SetState STAND
+14:0:0  [Blood Castle] (6) SetState STAND
+14:0:0  [Blood Castle] (7) SetState STAND
+14:0:2  [Blood Castle] (1) Not enough users
+14:0:2  [Blood Castle] (1) Sync Start Time. [119] min remain
+14:0:2  [Blood Castle] (1) SetState EMPTY
+14:0:2  [Blood Castle] (2) Not enough users
+14:0:2  [Blood Castle] (2) Sync Start Time. [119] min remain
+14:0:2  [Blood Castle] (2) SetState EMPTY
+14:0:2  [Blood Castle] (3) Not enough users
+14:0:2  [Blood Castle] (3) Sync Start Time. [119] min remain
+14:0:2  [Blood Castle] (3) SetState EMPTY
+14:0:2  [Blood Castle] (4) Not enough users
+14:0:2  [Blood Castle] (4) Sync Start Time. [119] min remain
+14:0:2  [Blood Castle] (4) SetState EMPTY
+14:0:2  [Blood Castle] (5) Not enough users
+14:0:2  [Blood Castle] (5) Sync Start Time. [119] min remain
+14:0:2  [Blood Castle] (5) SetState EMPTY
+14:0:2  [Blood Castle] (6) Not enough users
+14:0:2  [Blood Castle] (6) Sync Start Time. [119] min remain
+14:0:2  [Blood Castle] (6) SetState EMPTY
+14:0:2  [Blood Castle] (7) Not enough users
+14:0:2  [Blood Castle] (7) Sync Start Time. [119] min remain
+14:0:2  [Blood Castle] (7) SetState EMPTY
+16:0:0  [Blood Castle] (1) SetState STAND
+16:0:0  [Blood Castle] (2) SetState STAND
+16:0:0  [Blood Castle] (3) SetState STAND
+16:0:0  [Blood Castle] (4) SetState STAND
+16:0:0  [Blood Castle] (5) SetState STAND
+16:0:0  [Blood Castle] (6) SetState STAND
+16:0:0  [Blood Castle] (7) SetState STAND
+16:0:1  [Blood Castle] (1) Not enough users
+16:0:1  [Blood Castle] (1) Sync Start Time. [119] min remain
+16:0:1  [Blood Castle] (1) SetState EMPTY
+16:0:1  [Blood Castle] (2) Not enough users
+16:0:1  [Blood Castle] (2) Sync Start Time. [119] min remain
+16:0:1  [Blood Castle] (2) SetState EMPTY
+16:0:1  [Blood Castle] (3) Not enough users
+16:0:1  [Blood Castle] (3) Sync Start Time. [119] min remain
+16:0:1  [Blood Castle] (3) SetState EMPTY
+16:0:1  [Blood Castle] (4) Not enough users
+16:0:1  [Blood Castle] (4) Sync Start Time. [119] min remain
+16:0:1  [Blood Castle] (4) SetState EMPTY
+16:0:1  [Blood Castle] (5) Not enough users
+16:0:1  [Blood Castle] (5) Sync Start Time. [119] min remain
+16:0:1  [Blood Castle] (5) SetState EMPTY
+16:0:1  [Blood Castle] (6) Not enough users
+16:0:1  [Blood Castle] (6) Sync Start Time. [119] min remain
+16:0:1  [Blood Castle] (6) SetState EMPTY
+16:0:1  [Blood Castle] (7) Not enough users
+16:0:1  [Blood Castle] (7) Sync Start Time. [119] min remain
+16:0:1  [Blood Castle] (7) SetState EMPTY
+17:33:45  [Blood Castle] (1) Sync Start Time. [26] min remain
+17:33:45  [Blood Castle] (1) SetState EMPTY
+17:33:45  [Blood Castle] (2) Sync Start Time. [26] min remain
+17:33:45  [Blood Castle] (2) SetState EMPTY
+17:33:45  [Blood Castle] (3) Sync Start Time. [26] min remain
+17:33:45  [Blood Castle] (3) SetState EMPTY
+17:33:45  [Blood Castle] (4) Sync Start Time. [26] min remain
+17:33:45  [Blood Castle] (4) SetState EMPTY
+17:33:45  [Blood Castle] (5) Sync Start Time. [26] min remain
+17:33:45  [Blood Castle] (5) SetState EMPTY
+17:33:45  [Blood Castle] (6) Sync Start Time. [26] min remain
+17:33:45  [Blood Castle] (6) SetState EMPTY
+17:33:45  [Blood Castle] (7) Sync Start Time. [26] min remain
+17:33:45  [Blood Castle] (7) SetState EMPTY
+17:37:44  [Blood Castle] (1) Sync Start Time. [22] min remain
+17:37:44  [Blood Castle] (1) SetState EMPTY
+17:37:44  [Blood Castle] (2) Sync Start Time. [22] min remain
+17:37:44  [Blood Castle] (2) SetState EMPTY
+17:37:44  [Blood Castle] (3) Sync Start Time. [22] min remain
+17:37:44  [Blood Castle] (3) SetState EMPTY
+17:37:44  [Blood Castle] (4) Sync Start Time. [22] min remain
+17:37:44  [Blood Castle] (4) SetState EMPTY
+17:37:44  [Blood Castle] (5) Sync Start Time. [22] min remain
+17:37:44  [Blood Castle] (5) SetState EMPTY
+17:37:44  [Blood Castle] (6) Sync Start Time. [22] min remain
+17:37:44  [Blood Castle] (6) SetState EMPTY
+17:37:44  [Blood Castle] (7) Sync Start Time. [22] min remain
+17:37:44  [Blood Castle] (7) SetState EMPTY
+18:5:59  [Blood Castle] (1) Sync Start Time. [114] min remain
+18:5:59  [Blood Castle] (1) SetState EMPTY
+18:5:59  [Blood Castle] (2) Sync Start Time. [114] min remain
+18:5:59  [Blood Castle] (2) SetState EMPTY
+18:5:59  [Blood Castle] (3) Sync Start Time. [114] min remain
+18:5:59  [Blood Castle] (3) SetState EMPTY
+18:5:59  [Blood Castle] (4) Sync Start Time. [114] min remain
+18:5:59  [Blood Castle] (4) SetState EMPTY
+18:5:59  [Blood Castle] (5) Sync Start Time. [114] min remain
+18:5:59  [Blood Castle] (5) SetState EMPTY
+18:5:59  [Blood Castle] (6) Sync Start Time. [114] min remain
+18:5:59  [Blood Castle] (6) SetState EMPTY
+18:5:59  [Blood Castle] (7) Sync Start Time. [114] min remain
+18:5:59  [Blood Castle] (7) SetState EMPTY
+18:38:1  [Blood Castle] (1) Sync Start Time. [81] min remain
+18:38:1  [Blood Castle] (1) SetState EMPTY
+18:38:1  [Blood Castle] (2) Sync Start Time. [81] min remain
+18:38:1  [Blood Castle] (2) SetState EMPTY
+18:38:1  [Blood Castle] (3) Sync Start Time. [81] min remain
+18:38:1  [Blood Castle] (3) SetState EMPTY
+18:38:1  [Blood Castle] (4) Sync Start Time. [81] min remain
+18:38:1  [Blood Castle] (4) SetState EMPTY
+18:38:1  [Blood Castle] (5) Sync Start Time. [81] min remain
+18:38:1  [Blood Castle] (5) SetState EMPTY
+18:38:1  [Blood Castle] (6) Sync Start Time. [81] min remain
+18:38:1  [Blood Castle] (6) SetState EMPTY
+18:38:1  [Blood Castle] (7) Sync Start Time. [81] min remain
+18:38:1  [Blood Castle] (7) SetState EMPTY
+19:17:1  [Blood Castle] (1) Sync Start Time. [42] min remain
+19:17:1  [Blood Castle] (1) SetState EMPTY
+19:17:1  [Blood Castle] (2) Sync Start Time. [42] min remain
+19:17:1  [Blood Castle] (2) SetState EMPTY
+19:17:1  [Blood Castle] (3) Sync Start Time. [42] min remain
+19:17:1  [Blood Castle] (3) SetState EMPTY
+19:17:1  [Blood Castle] (4) Sync Start Time. [42] min remain
+19:17:1  [Blood Castle] (4) SetState EMPTY
+19:17:1  [Blood Castle] (5) Sync Start Time. [42] min remain
+19:17:1  [Blood Castle] (5) SetState EMPTY
+19:17:1  [Blood Castle] (6) Sync Start Time. [42] min remain
+19:17:1  [Blood Castle] (6) SetState EMPTY
+19:17:1  [Blood Castle] (7) Sync Start Time. [42] min remain
+19:17:1  [Blood Castle] (7) SetState EMPTY
+20:0:0  [Blood Castle] (1) SetState STAND
+20:0:0  [Blood Castle] (2) SetState STAND
+20:0:0  [Blood Castle] (3) SetState STAND
+20:0:0  [Blood Castle] (4) SetState STAND
+20:0:0  [Blood Castle] (5) SetState STAND
+20:0:0  [Blood Castle] (6) SetState STAND
+20:0:0  [Blood Castle] (7) SetState STAND
+20:0:1  [Blood Castle] (1) Not enough users
+20:0:1  [Blood Castle] (1) Sync Start Time. [119] min remain
+20:0:1  [Blood Castle] (1) SetState EMPTY
+20:0:1  [Blood Castle] (2) Not enough users
+20:0:1  [Blood Castle] (2) Sync Start Time. [119] min remain
+20:0:1  [Blood Castle] (2) SetState EMPTY
+20:0:1  [Blood Castle] (3) Not enough users
+20:0:1  [Blood Castle] (3) Sync Start Time. [119] min remain
+20:0:1  [Blood Castle] (3) SetState EMPTY
+20:0:1  [Blood Castle] (4) Not enough users
+20:0:1  [Blood Castle] (4) Sync Start Time. [119] min remain
+20:0:1  [Blood Castle] (4) SetState EMPTY
+20:0:1  [Blood Castle] (5) Not enough users
+20:0:1  [Blood Castle] (5) Sync Start Time. [119] min remain
+20:0:1  [Blood Castle] (5) SetState EMPTY
+20:0:1  [Blood Castle] (6) Not enough users
+20:0:1  [Blood Castle] (6) Sync Start Time. [119] min remain
+20:0:1  [Blood Castle] (6) SetState EMPTY
+20:0:1  [Blood Castle] (7) Not enough users
+20:0:1  [Blood Castle] (7) Sync Start Time. [119] min remain
+20:0:1  [Blood Castle] (7) SetState EMPTY
+21:43:15  [Blood Castle] (1) Sync Start Time. [16] min remain
+21:43:15  [Blood Castle] (1) SetState EMPTY
+21:43:15  [Blood Castle] (2) Sync Start Time. [16] min remain
+21:43:15  [Blood Castle] (2) SetState EMPTY
+21:43:15  [Blood Castle] (3) Sync Start Time. [16] min remain
+21:43:15  [Blood Castle] (3) SetState EMPTY
+21:43:15  [Blood Castle] (4) Sync Start Time. [16] min remain
+21:43:15  [Blood Castle] (4) SetState EMPTY
+21:43:15  [Blood Castle] (5) Sync Start Time. [16] min remain
+21:43:15  [Blood Castle] (5) SetState EMPTY
+21:43:15  [Blood Castle] (6) Sync Start Time. [16] min remain
+21:43:15  [Blood Castle] (6) SetState EMPTY
+21:43:15  [Blood Castle] (7) Sync Start Time. [16] min remain
+21:43:15  [Blood Castle] (7) SetState EMPTY
+21:47:5  [Blood Castle] (1) Sync Start Time. [12] min remain
+21:47:5  [Blood Castle] (1) SetState EMPTY
+21:47:5  [Blood Castle] (2) Sync Start Time. [12] min remain
+21:47:5  [Blood Castle] (2) SetState EMPTY
+21:47:5  [Blood Castle] (3) Sync Start Time. [12] min remain
+21:47:5  [Blood Castle] (3) SetState EMPTY
+21:47:5  [Blood Castle] (4) Sync Start Time. [12] min remain
+21:47:5  [Blood Castle] (4) SetState EMPTY
+21:47:5  [Blood Castle] (5) Sync Start Time. [12] min remain
+21:47:5  [Blood Castle] (5) SetState EMPTY
+21:47:5  [Blood Castle] (6) Sync Start Time. [12] min remain
+21:47:5  [Blood Castle] (6) SetState EMPTY
+21:47:5  [Blood Castle] (7) Sync Start Time. [12] min remain
+21:47:5  [Blood Castle] (7) SetState EMPTY
+22:0:0  [Blood Castle] (1) SetState STAND
+22:0:0  [Blood Castle] (2) SetState STAND
+22:0:0  [Blood Castle] (3) SetState STAND
+22:0:0  [Blood Castle] (4) SetState STAND
+22:0:0  [Blood Castle] (5) SetState STAND
+22:0:0  [Blood Castle] (6) SetState STAND
+22:0:0  [Blood Castle] (7) SetState STAND
+22:0:1  [Blood Castle] (1) Not enough users
+22:0:1  [Blood Castle] (1) Sync Start Time. [119] min remain
+22:0:1  [Blood Castle] (1) SetState EMPTY
+22:0:1  [Blood Castle] (2) Not enough users
+22:0:1  [Blood Castle] (2) Sync Start Time. [119] min remain
+22:0:1  [Blood Castle] (2) SetState EMPTY
+22:0:1  [Blood Castle] (3) Not enough users
+22:0:1  [Blood Castle] (3) Sync Start Time. [119] min remain
+22:0:1  [Blood Castle] (3) SetState EMPTY
+22:0:1  [Blood Castle] (4) Not enough users
+22:0:1  [Blood Castle] (4) Sync Start Time. [119] min remain
+22:0:1  [Blood Castle] (4) SetState EMPTY
+22:0:1  [Blood Castle] (5) Not enough users
+22:0:1  [Blood Castle] (5) Sync Start Time. [119] min remain
+22:0:1  [Blood Castle] (5) SetState EMPTY
+22:0:1  [Blood Castle] (6) Not enough users
+22:0:1  [Blood Castle] (6) Sync Start Time. [119] min remain
+22:0:1  [Blood Castle] (6) SetState EMPTY
+22:0:1  [Blood Castle] (7) Not enough users
+22:0:1  [Blood Castle] (7) Sync Start Time. [119] min remain
+22:0:1  [Blood Castle] (7) SetState EMPTY
