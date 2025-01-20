@@ -1,0 +1,28 @@
+//==============================================================================||
+//	Type	Index	Level	Dur	Skill	Luck	Option	Exc	Anc	||
+//==============================================================================||
+	6	0	7	255	1	1	1	0	0	// Small Shield
+	6	4	7	255	1	1	1	0	0	// Buckler
+	6	1	7	255	1	1	1	0	0	// Horn Shield
+	6	2	7	255	1	1	1	0	0	// Kite Shield
+	6	6	7	255	1	1	1	0	0	// Skull Shield
+	6	10	7	255	1	1	1	0	0	// Large Round Shield
+	6	9	7	255	1	1	1	0	0	// Plate Shield
+	6	7	7	255	1	1	1	0	0	// Spike Shield
+	0	1	7	255	1	1	1	0	0	// Short Sword
+	0	2	7	255	1	1	1	0	0	// Rapier
+	0	4	7	255	1	1	1	0	0	// Sword Of Assassin
+	0	3	7	255	1	1	1	0	0	// Katana
+	0	6	7	255	1	1	1	0	0	// Gladius
+	0	7	7	255	1	1	1	0	0	// Falchion
+	0	5	7	255	1	1	1	0	0	// Blade
+	0	13	7	255	1	1	1	0	0	// Double Blade
+	1	0	7	255	1	1	1	0	0	// Small Axe
+	1	1	7	255	1	1	1	0	0	// Hand Axe
+	1	2	7	255	1	1	1	0	0	// Double Axe
+	1	3	7	255	1	1	1	0	0	// Tomahawk
+	1	4	7	255	1	1	1	0	0	// Fairy Axe
+	2	0	7	255	1	1	1	0	0	// Mace
+	2	1	7	255	1	1	1	0	0	// Morning Star
+	2	2	7	255	1	1	1	0	0	// Flail
+end

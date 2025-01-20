@@ -1,0 +1,14 @@
+//----------------------------------------------------------------------------
+//	Authority code :
+// 	- Personagem com Autoridade entre 100 ~ 150 é considerado um Player Especial
+//	- Personagem com Autoridade entre 150 ~ 200 é considerado um GameMaster e Adquire Balão de GM
+//	- Personagem com Autoridade entre 200 ~ 250 é considerado um Adminstrador e Adquire Balão de GM
+// 	- Valores entre 4 ~100 Tornam o Personagem FREE Impossibilitando o mesmo de adquirir Vip
+// 	- Personagem com Valores entre 0 ~4 Emulam o Vip Eterno no personagem Impossibilitando o mesmo de adquirir Vip
+// 	
+//
+//----------------------------------------------------------------------------
+//	Character Name			Authority Code
+//----------------------------------------------------------------------------
+	"SupremoDev"				250
+end

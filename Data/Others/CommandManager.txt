@@ -1,0 +1,86 @@
+0
+//=======================================================================================================================================================
+//
+// [0]			: Index do Comando
+// [1]			: Sintax de chamada do comando 
+// [2]			: Sintax de chamada do comando
+// [3]			: Ativa / Desativa o comando
+// [4]			: Nivel de Acesso requerido para usar o comando [0-4 : Account Level] [100-250 : GM Acess Level]
+// [5]			: Level Necessario para usar o comando [Level Acima de 400 será somado o master level]
+// [6]			: Money Necessario para usar o comando
+// [7]			: Resets Necessario para usar o comando
+// [8]			: Master Resets Necessario para usar o comando
+// [9]			: Permite PK Usar o Comando
+// [10]			: Ativa / Desativa a Verificação do self defense para usar o comando
+//
+//=======================================================================================================================================================
+//	[0]		[1]			[2]			[3]	[4]	[5]	[6]		[7]	[8]	[9]	[10]	
+//=======================================================================================================================================================
+	0		"/post"			"/post"			1	0	1	10000000		0	0	1	1	// -- [] Envia uma mensagem global
+	1		"/global"		"/global"		1	0	1	10000000		0	0	1	1	// -- [] Envia uma mensagem global entre servidores
+	2		"/addstr"		"/f"			1	0	1	10000000		0	0	1	0	// -- [] Adiciona pontos em Strength
+	3		"/adddex"		"/a"			1	0	1	10000000		0	0	1	0	// -- [] Adiciona pontos em Dexterity
+	4		"/addvit"		"/v"			1	0	1	10000000		0	0	1	0	// -- [] Adiciona pontos em Vitality
+	5		"/addene"		"/e"			1	0	1	10000000		0	0	1	0	// -- [] Adiciona pontos em Energy
+	6		"/addcmd"		"/c"			1	0	1	10000000		0	0	1	0	// -- [] Adiciona pontos em LeaderShip
+	7		"/resetpoints"		"/readd"		1	1	1	10000000		0	0	1	1	// -- [] Reseta os pontos adicionado
+	8		"/pkclear"		"/pkclear"		1	1	1	10000000		0	0	1	1	// -- [] Limpa os pontos e o tempo de PK
+	9		"/addzen"		"/zen"			1	1	1	10000000		0	0	1	0	// -- [] Adiciona zen ao jogador
+	10		"/sair"			"/sair"			1	0	1	10000000		0	0	1	1	// -- [] Sai do jogo
+	11		"/skin"			"/transform"		1	1	1	10000000		0	0	1	1	// -- [] Altera a skin do jogador
+	12		"/clearinv"		"/limparinv"		1	1	1	10000000		0	0	1	1	// -- [] Limpa todos os itens do inventario
+	14		"/online"		"/on"			1	1	1	100000000		0	0	1	0	// -- [] Exibe as estatisticas de players on
+	15		"/gmonline"		"/gmon"			1	1	1	100000000		0	0	1	0	// -- [] Exibe quantos GM Estão online
+	16		"/myinfo"		"/showinfo"		1	1	1	100000000		0	0	1	0	// -- [] Exibe as informações do personagem
+	17		"/reset"		"/rr"			1	0	1	100000000		0	0	1	0	// -- [] Executa a Job de Reset
+	18		"/masterreset"		"/mr"			1	0	1	100000000		0	0	1	1	// -- [] Executa a job de MasterReset
+	19		"/autopotion"		"/atpotion"		1	1	1	100000000		0	0	1	1	// -- [] Ativa / desativa auto potion <on|off>
+	20		"/autoadd"		"/atadd"		1	1	1	100000000		0	0	1	1	// -- [] Ativa / desativa auto add [/command <str> <dex> <vit> <ene> <cmd>] [Caso nenhum parametro seja passado ele desativa]
+	13		"/autoreset"		"/atrr"			1	0	1	100000000		0	0	1	1	// -- [] Ativa / desativa auto reset <on|off>
+	21		"/abrirbau"		"/openvault"		1	1	1	100000000		0	0	1	1	// -- [] Abre o Warehouse [/command <vault number>]
+	22		"/bau"  		"/changevault"		1	1	1	100000000		0	0	1	1	// -- [] Altera o Warehouse em uso [/command <vault number>]
+	23		"/class"		"/changeclass"		1	1	400	2000000000	100	0	1	1	// -- [] Altera a Classe do Personagem	
+	24		"/evolution"		"/evo"			1	1	1	100000000		0	0	1	1	// -- [] Evolui a Classe do Personagem
+	25		"/offtrade"		"/offstore"		1	1	1	100000000		0	0	1	1	// -- [] Deixa o personagem em modo de Venda Offline
+	26		"/pack"			"/jewelpack"		1	0	1	10000000		0	0	1	1	// -- [] Enpacota suas joias [/command sintax <qtd>]
+	27		"/unpack"		"/jewelunpack"		1	0	1	10000000		0	0	1	1	// -- [] Denpacota suas joias [/command sintax <qtd>]
+	28		"/pshop"		"/pshopchange"		1	1	1	10000000		0	0	1	1	// -- [] Altera a moeda de venda no personal store [/command sintax]
+
+	29		"/autopick"		"/atpick"		1	1	1	1000000		0	0	1	1	// -- [] Ativa / Desativa auto pick <on|off> [Options: 1 Jewels, 2: Excellent. 3 Ancient, 4: Boxs, 5 Zen]
+
+	30		"/autoparty"		"/autopt"		1	1	1	1000000		0	0	1	0	// -- [] Ativa / desativa o auto party <on|off> [/command <password>] Obs.: Password é opcional
+	31		"/joinparty"		"/joinpt"		1	1	1	1000000		0	0	1	0	// -- [] Entra em uma pt automatica com senha [/command <party leader> <password>]
+	32		"/autobuff"		"/autobf"		1	1	1	1000000		0	0	1	0	// -- [] Ativa / desativa auto buff <on|off>
+
+	33		"/autoattack"		"/autoat"		1	1	1	1000000		0	0	1	0	// -- [] Ativa / desativa auto attack <on|off> [/command <on|off> <autobuff 0|1> <autopick 1~5>] Obs.: autobuff e autopick é opcional
+	34		"/offlinemode"		"/offmode"		1	1	1	1000000		0	0	1	0	// -- [] Entra em modo Offline [/command <on|off>] (Funciona apenas em conjunto com o autoattack)
+	35		"/partyaccept"		"/ptaccept"		1	1	1	1000000		0	0	1	0	// -- [] Ativa / desativa auto aceitar party [/command <on|off>]
+	36		"/autopost"		"/atpost"		1	0	1	1000000		0	0	1	0	// -- [] Envia uma mensagem global (Repete a cada X Segundos, configurado no commonserver.cfg)
+
+//==========================================
+//	-- [] Staff Commands
+//=======================================================================================================================================================
+//	[0]		[1]			[2]			[3]	[4]	[5]	[6]		[7]	[8]	[9]	[10]	
+//=======================================================================================================================================================
+	50		"/makezen"		"/setzen"		1	100	1	0		0	0	1	0	// -- [] Adiciona Zen ao Player Target [/command <player name> <zen>]
+	51		"/skingm"		"/setskin"		1	100	1	0		0	0	1	0	// -- [] Altera a Skin ao Player Target [/command <player name> <skin index>]
+	52		"/drop" 		"/createitem"		1	250	1	0		0	0	1	0	// -- [] cria um novo item [/command <*create type [0: inventory 1: drop]> <*item type [-1: Complete Set]> <*item index> <item level> <item skill> <item luck> <item add life> <item dur> <item add exc> <item add anc> <item socket slot count> <item duration> <item qtd>]
+	53		"/makestatus"		"/setstatus"		1	250	1	0		0	0	1	0	// -- [] Altera o Status ao Player Target [/command <player name> <str> <dex> <vit> <ene> <cmd>]
+	54		"/makelevel"		"/setlevel"		1	250	1	0		0	0	1	0	// -- [] Altera o Level ao Player Target [/command <player name> <level>]
+	55		"/makeuppoints"		"/setuppoints"		1	250	1	0		0	0	1	0	// -- [] Altera o LeveLUpPoints ao Player Target [/command <player name> <points>]
+	56		"/ir"   		"/goto"			1	100	1	0		0	0	1	0	// -- [] Teleporta o GM ate o Player Target [/command <player name>]
+	57		"/puxar"		"/push"			1	100	1	0		0	0	1	0	// -- [] Teleporta o Player Target ate o GM [/command <player name>]
+	58		"/gmmove"		"/gmove"		1	150	1	0		0	0	1	0	// -- [] Teleporta o Player ao Destino  [/command <player name> <map> <cordx> <cordy>]
+	59		"/moveall"		"/gmoveall"		1	150	1	0		0	0	1	0	// -- [] Teleporta Todos os players ao Destino  [/command <map> <cordx> <cordy>]
+	60		"/moveguild"		"/gmoveguild"		1	150	1	0		0	0	1	0	// -- [] Teleporta Todos os membros da guild Destino  [/command <guild name> <map> <cordx> <cordy>]
+	61		"/fireworks"		"/fireshow"		1	150	1	0		0	0	1	0	// -- [] Cria Fireworks [/command <type : [0 ~4>]
+	62		"/chatblock"		""			1	150	1	0		0	0	1	0	// -- [] Bloqueia o chat do personagem target [/command <playername> <time>]
+	63		"/chatunblock"		""			1	150	1	0		0	0	1	0	// -- [] Desbloqueia o chat do personagem target [/command <playername>]
+	65		"/invull"		"/imortal"		1	150	1	0		0	0	1	0	// -- [] Torna o Personagem invuneravel a Dano
+	66		"/inviss"		"/hide"			1	100	1	0		0	0	1	0	// -- [] Torna o Personagem Invisivel [/command <on|off>]
+	68		"/disconnect"		"/dc"			1	150	1	0		0	0	1	0	// -- [] Disconnecta o Player Target [/command <playername>]
+	69		"/verin"		"/playerinfo"		1	100	1	0		0	0	1	0	// -- [] Libera informações do Player Target [/command <playername>]
+	70		"/reload"		""			1	250	1	0		0	0	1	0	// -- [] Reload [/command <0: Shop |1: Monster | 2: Exp Files | 3: PvP Files> | 4: DropFiles]
+	71		"/makecoin"		"/addcoin"		1	250	1	0		0	0	1	0	// 
+	72		"/makecoinall"		"/addcoinall"		1	250	1	0		0	0	1	0	// 
+end

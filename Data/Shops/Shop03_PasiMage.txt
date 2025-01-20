@@ -1,0 +1,32 @@
+//==============================================================================||
+//	Type	Index	Level	Dur	Skill	Luck	Option	Exc	Anc	||
+//==============================================================================||
+	7	2	9	255	0	1	1	0	0	// Pad Helm
+	7	4	8	255	0	1	1	0	0	// Bone Helm
+	7	7	7	255	0	1	1	0	0	// Sphinx Helm
+	15	3	0	255	0	0	0	0	0	// Fireball Spell
+	15	10	0	255	0	0	0	0	0	// Power Wave Spell
+	8	2	9	255	0	1	1	0	0	// Pad Armor
+	8	4	8	255	0	1	1	0	0	// Bone Armor
+	8	7	7	255	0	1	1	0	0	// Sphinx Armor
+	15	1	0	255	0	0	0	0	0	// Meteorite Spell
+	15	2	0	255	0	0	0	0	0	// Lightning Spell
+	9	2	9	255	0	1	1	0	0	// Pad Pants
+	9	4	8	255	0	1	1	0	0	// Bone Pants
+	15	6	0	255	0	0	0	0	0	// Ice Spell
+	15	0	0	255	0	0	0	0	0	// Poison Spell
+	9	7	7	255	0	1	1	0	0	// Sphinx Pants
+	10	2	9	255	0	1	1	0	0	// Pad Gloves
+	10	4	8	255	0	1	1	0	0	// Bone Gloves
+	15	7	0	255	0	0	0	0	0	// Twister Spell
+	15	4	0	255	0	0	0	0	0	// Flame Spell
+	10	7	7	255	0	1	1	0	0	// Sphinx Gloves
+	11	2	9	255	0	1	1	0	0	// Pad Boots
+	11	4	8	255	0	1	1	0	0	// Bone Boots
+	5	3	7	255	0	1	1	0	0	// Lightning Staff
+	11	7	7	255	0	1	1	0	0	// Sphinx Boots
+	5	1	7	255	0	1	1	0	0	// Angelic Staff
+	5	2	7	255	0	1	1	0	0	// Serpent Staff
+	15	8	0	255	0	0	0	0	0	// Evil Spirits Spell
+	15	9	0	255	0	0	0	0	0	// Hell Fire Spell
+end

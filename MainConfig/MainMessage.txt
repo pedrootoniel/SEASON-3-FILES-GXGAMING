@@ -1,0 +1,124 @@
+//======================================================================||
+//	Id		Message						||
+//======================================================================||
+	
+	2		"You are short of  %s"
+	3		"Zen"
+	4		"Jewel of Bless"
+	5		"Jewel of Soul"
+	6		"Jewel of Chaos"
+	7		"Jewel of Life"
+	8		"Jewel of Creation"
+	9		"Jewel of Guardian"
+	10		"Jewel of Harmony"
+
+	11		"Loja GxGaming (%s)"
+	12		"Player Online"
+	13		"Modo OffStore"
+	14		"Non Player (BOT)"
+	15		"Para Alterar a Moeda de Venda Digite:"
+	16		"/pshop bless"
+	17		"/pshop soul"
+	18		"/pshop chaos"
+	19		"/pshop life"
+	20		"/pshop creation"
+	21		"/pshop guardian"
+	22		"/pshop harmony"
+	23		"/pshop zen"
+	24		"Moeda Selecionada: %s"
+	25		"Atenção, todos os items desta loja"
+	26		"Estão sendo vendidos por:"
+	27		"Confira bem o item antes de comprar"
+	28		"A Compra não pode ser desfeita"
+	29		"depois de concluida!"
+	30		"Custom Jewels"
+	31		"Pode ser utilizada para adicionar opções excellent ao seu item"
+	32		"Pode ser utilizada para adicionar opções ancient ao seu item"
+	33		"Pode ser utilizada para aumentar o nivel do seu item"
+	34		"Pode ser utilizada para adicionar a opção Luck ao seu item"
+	35		"Pode ser utilizada para adicionar a Skill ao seu item"
+	36		"Pode ser utilizada para adicionar Option SD 380 ao seu item"
+	37		"Pode ser utilizada para dar upgrade em sua Wing Level 1"
+	38		"Pode ser utilizada para dar upgrade em sua Wing Level 2"
+	39		"Pode ser utilizado para deixar seu item level 13"
+	40		"Pode ser utilizado para deixar seu item +28 Add Option"
+	41		"[Reune as mais poderosas magias do continente de MuOnline]"
+	42		"Sua recompensa por sua grandiosa batalha na arena dos deuses..."
+	43		"Drop para abri-la, pode conter zen ou items!"
+	44		"Planos Vips são status agregados a sua Account"
+	45		"que lhe concede beneficios extras, dentre outras"
+	46		"vantagens no Game! Note que cada plano tem suas "
+	47		"vantagens diferenciados, consulte o site e saiba mais"
+	48		"sobre cada uma delas!"
+	49		"NOTE: Caso o seu plano vip seja inferior ao que esta box"
+	50		"forneçe você perderá os dados do seu plano atual!"
+	51		"CUSTOM VIP"
+	52		"Validade: %d dias"
+	53		"Click com o botao direito para usar!"
+
+	54		"Talisman magico que aumenta a capacidade de armazenamento do"
+	55		"so seu Banco (Warehouse)"
+	56		"Para mais informações digite /wareinfo"
+
+	57		"%d %s is combined"
+	58		"Can be usedafter dismanting"
+	59		"Reset: %d"
+	60		" "
+	61		"Selling Price: %s %s"
+	62		"PurchasePrice: %s %s"
+
+	63		"Você não possui %s suficiente!"
+
+// -- Mu Announce Chat
+	65		"MuBella Season 2.9  CUSTOM "
+	66		"VISITE GXGAMING.COM.BR"
+	67		" ESTAMOS TBM NA OUTLETCOUTINHN.COM.BR"
+	68		"PRODUTOS COM ATÉ 50% OFF"
+	69		"CUPOM: PRIMEIRA1 10% OFF"
+// -- Fim Mu Announce Chat
+
+// -- New Box
+	71		"Medusa's Box"
+	72		"Jogue no chão para receber seu prêmio!"
+
+	73		"Hell Mine's Box"
+	74		"Jogue no chão para receber seu prêmio!"
+
+	75		"Nix's Box"
+	76		"Jogue no chão para receber seu prêmio!"
+
+	77		"Ferea's Box"
+	78		"Jogue no chão para receber seu prêmio!"
+
+	79		"Lord Silver's Box"
+	80		"Jogue no chão para receber seu prêmio!"
+
+	81		"Magriffy's Box"
+	82		"Jogue no chão para receber seu prêmio!"
+
+	83		"Bronze's Box"
+	84		"Jogue no chão para receber seu prêmio!"
+
+	85		"Silver's Box"
+	86		"Jogue no chão para receber seu prêmio!"
+
+	87		"Gold's Box"
+	88		"Jogue no chão para receber seu prêmio!"
+
+	89		"Diamond's Box"
+	90		"Jogue no chão para receber seu prêmio!"
+// -- Fim New Box
+
+	91		"Gosta de jogar? teste sua sorte!!!"
+	92		"Tenho certeza que você ganhará um(a) incrivel"
+	93		" - Sword - "
+	94		" - Axe - "
+	95		" - Scepter - "
+	96		" - Spear - "
+	97		" - Bow - "
+	98		" - Staff - "
+	99		" - Shield - "
+	100		" - Peça de Armadura - "
+	101		" - Item Aleatorio - "
+	102		" Gamble Item "
+end

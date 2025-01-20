@@ -1,0 +1,168 @@
+//########################################################################################################
+//## MAIN ITEM MODELS SETTINGS										##
+//########################################################################################################
+//##													##
+//## [VERSION]		GAMESERVER SEASON 2.5 KOREANO							##
+//## [BUILD]  		2.0.0.1	(Season 3.1 FULL)							##
+//## [DEVELOPER]  	Allan Felix <NewGate>								##
+//## [TEAM]		@GxGaming [Allan Felix <NewGate>, Leonardo <Sheik>]				##
+//##													##
+//########################################################################################################
+
+
+0 // Sword
+//========================================================================================================
+//	Index	Folder1				Folder2				ModelName
+//========================================================================================================
+
+end
+1 //Axe
+//========================================================================================================
+//	Index	Folder1				Folder2				ModelName
+//========================================================================================================
+
+end
+
+2 //Mace & Scepter
+//========================================================================================================
+//	Index	Folder1				Folder2				ModelName
+//========================================================================================================
+
+end
+
+3 //Spear
+//========================================================================================================
+//	Index	Folder1				Folder2				ModelName
+//========================================================================================================
+
+end
+
+4 //Bow & Crossbow
+//========================================================================================================
+//	Index	Folder1				Folder2				ModelName
+//========================================================================================================
+
+end
+
+5 //Staff
+//========================================================================================================
+//	Index	Folder1				Folder2				ModelName
+//========================================================================================================
+
+end
+
+6 //Shield
+//========================================================================================================
+//	Index	Folder1				Folder2				ModelName
+//========================================================================================================
+
+end
+
+7 //Helm
+//========================================================================================================
+//	Index	Folder1				Folder2				ModelName
+//========================================================================================================
+
+end
+
+8 //Armor
+//========================================================================================================
+//	Index	Folder1				Folder2				ModelName
+//========================================================================================================
+
+end
+
+9 //Pants
+//========================================================================================================
+//	Index	Folder1				Folder2				ModelName
+//========================================================================================================
+
+end
+
+10 //Gloves
+//========================================================================================================
+//	Index	Folder1				Folder2				ModelName
+//========================================================================================================
+
+end
+
+11 //Boots
+//========================================================================================================
+//	Index	Folder1				Folder2				ModelName
+//========================================================================================================
+
+end
+
+12 //Wing
+//========================================================================================================
+//	Index	Folder1				Folder2				ModelName
+//========================================================================================================
+	50	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Wing50"
+	51	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Wing51"
+	52	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Wing52"
+	53	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Wing53"
+	54	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Wing54"
+
+	55	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Wing55"
+	56	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Wing56"
+	57	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Wing57"
+	58	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Wing58"
+	59	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Wing59"
+	60	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Wing60"
+end
+
+14 //Jewels
+//========================================================================================================
+//	Index	Folder1				Folder2				ModelName
+//========================================================================================================
+
+	84	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"JewelExcellent"
+	85	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"JewelAncient"
+	86	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"JewelLuck"
+	87	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"JewelSkill"
+	88	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"JewelLevel"
+	89	"Data\\Item\\"			"Item\\"			"godesteel"
+	90	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"FeatherWingTh1"
+	91	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"FeatherWingTh2"
+	92	"Data\\Item\\"			"Item\\"			"Jewel03"
+	93	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"JewelLevel"
+	
+	94	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"VipBox001"
+	95	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"VipBox002"
+	96	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"VipBox003"
+	97	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"VipBox004"
+	98	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"VipBox005"
+
+	99	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"VaultTick"
+
+	100	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"BundledChaos"
+	101	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"BundledLife"
+	102	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"BundledHarmony"
+	103	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"BundledGuardian"
+	104	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"BundledCreation"
+
+	105	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"MedusaBox"
+	106	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"HellMineBox"
+	107	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"NixBox"
+	108	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"FereaBox"
+	109	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"LordSilverBox"
+	110	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"MagriffyBox"
+	111	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"BronzeBox"
+	112	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"SilverBox"
+	113	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"GoldBox"
+	114	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"DiamondBox"
+
+	115	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Gamble_Sword"
+	116	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Gamble_Axe"
+	117	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Gamble_Scepter"
+	118	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Gamble_Spear"
+	119	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Gamble_Bow"
+	120	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Gamble_Staff"
+	121	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Gamble_Shield"
+	122	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Gamble_HDK01"
+	123	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Gamble_HDK02"
+	124	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Gamble_HDK03"
+	125	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Gamble_HDK04"
+	126	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Gamble_HDK05"
+	127	"Data\\GXGData\\Item\\"		"GXGData\\Item\\"		"Gamble_Misc"
+end

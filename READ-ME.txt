@@ -1,0 +1,10 @@
+Muitos arquivos mudaram, caso nao queria perder suas configurações compare os 2 arquivos e
+adicione apenas oque foi alterado.
+
+Quanto ao Arquivo BotShop foi alterado apenas a Descrição das colunas. (Não é obrigatorio alterar).
+
+
+-- IMPORTANTE.: Muitas coisa foi alterada, por gentileza qualquer anomalia no GameServer, 
+DataServer ou JoinServer entre em contato imediatamente com  nossa equipe.
+
+Skype: studiowebmark

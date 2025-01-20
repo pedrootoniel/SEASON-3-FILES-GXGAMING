@@ -1,0 +1,7 @@
+Adicionar
+------------------------------------------
+Tabela: MEMB_PREMIUM
+Coluna: DaysExpire
+Type: INT
+Allow Null: Desmarcado
+Default Value: 0

@@ -1,0 +1,26 @@
+//==============================================================================||
+//	Type	Index	Level	Dur	Skill	Luck	Option	Exc	Anc	||
+//==============================================================================||
+	15	3	0	255	0	0	0	0	0	// Fireball Spell
+	15	10	0	255	0	0	0	0	0	// Power Wave Spell
+	15	1	0	255	0	0	0	0	0	// Meteorite Spell
+	15	2	0	255	0	0	0	0	0	// Lightning Spell
+	15	6	0	255	0	0	0	0	0	// Ice Spell
+	15	0	0	255	0	0	0	0	0	// Poison Spell
+	15	8	0	255	0	0	0	0	0	// Evil Spirits Spell
+	15	9	0	255	0	0	0	0	0	// Hell Fire Spell
+	13	8	0	255	0	0	0	0	0	// Ring of Ice
+	13	9	0	255	0	0	0	0	0	// Ring of Poison
+	13	21	0	255	0	0	0	0	0	// Ring of Fire
+	13	22	0	255	0	0	0	0	0	// Ring of Earth
+	13	23	0	255	0	0	0	0	0	// Ring of Wind
+	13	24	0	255	0	0	0	0	0	// Ring of Magic
+	14	9	0	255	0	0	0	0	0	// Alcohol
+	14	10	0	255	0	0	0	0	0	// Town Portal Scroll
+	13	12	0	255	0	0	0	0	0	// Pendant of Lightning
+	13	13	0	255	0	0	0	0	0	// Pendant of Fire
+	13	25	0	255	0	0	0	0	0	// Pendant of Ice
+	13	26	0	255	0	0	0	0	0	// Pendant of Wind
+	13	27	0	255	0	0	0	0	0	// Pendant of Water
+	13	28	0	255	0	0	0	0	0	// Pendant of Ability
+end

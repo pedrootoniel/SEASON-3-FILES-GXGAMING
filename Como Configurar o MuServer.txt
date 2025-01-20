@@ -1,0 +1,52 @@
+1º Passo Configurando os arquivos do MuServer
+
+-Arquivos necessario adicionar o IP:
+
+-MuServer\Bin\ConnectServer\Settings\GameServerList.dat
+-MuServer\Data\MapServerInfo.dat
+
+-Arquivos necessario adicionar a Senha do SQL:
+
+- MuServer\Bin\DataServer1\Settings\Settings.ini
+-MuServer\Bin\DataServer2\Settings\Settings.ini
+-MuServer\Bin\JoinServer\config.ini
+
+
+2º Passo Configurando os arquivos do Cliente
+
+- Acesse os arquivos da pasta "MuServer\MainConfig", 90% das configurações
+  relacionadas ao cliente é feito nessa pasta. Concluido toda a configuração
+  execute o arquivo: "GXGMainConfig.exe", que ira compilar suas configurações.
+
+- Copie os arquivos gerados na pasta "MuServer\MainConfig\Output" para a pasta
+  do seu cliente "MuClient\Data\GXGData\Data"
+
+3º Passo configurando os CRC32 do Cliente
+
+- Execute o CRCGenerator na pasta "Setup\CRCGenerator"
+- Arraste os seguintes arquivos para a janela do CRC
+  MuClient\main.exe
+  MuClient\GXMain.dll
+  MuClient\Data\Player\Player.bmd
+- Após arrastar os arquivos citados acima, pressiona [ENTER]. para serem
+  gerados os CRC32 dos arquivos
+- Copie os CRC e configure os campos correspodentes no arquivo:
+  "MuServer\Data\Commonserver.cfg"
+- No mesmo arquivo "Commonserver.cfg", configure o nome do seu main no campo
+  "MainNameEXE"
+
+4º Passo gerando a Licença
+
+- Acesse seu Painel GX: www.gxgaming.com.br
+- Va no seu produto, e escolha a aba de licensa.
+- Copie o arquivo "Setup\License Setup\License.exe" para a pasta principal do seu
+  MuServer. Execute o arquivo.
+- Abra o arquivo. License.GX como bloco de notas, copie todo o conteudo do arquivo e
+  cole no campo do painel,  clique em gerar licença.
+- O Site ira gerar um "Serial" copie o serial
+- Vá até a pasta dos GameServer, acesse o arquivo "GameServerInfo.ini"
+  Altere as Linhas com seu email e o serial gerado:
+
+  CustomerGXEmail			= "license@gxgaming.com"
+  CustomerGXSerial			= "GX000L000-XXXXXXX-XXXXXXX-XXXXXXX-XXXXXXX"
+

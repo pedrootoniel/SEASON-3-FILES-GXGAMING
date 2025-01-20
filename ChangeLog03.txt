@@ -1,0 +1,30 @@
+// -- Novo JoinServer Adicionado
+// -- Fixado Ver o proprio target no main
+// -- Adicionado novo sistema de Effeitos para Wings
+// -- Adicionado Sistema de interação na tela de Select Char [SelectCharAnimate] (Mais uma Brincadeira)
+// -- Removido Sistema de Resolução do Main (Não estava funcionando bem)
+// -- Fixado Desconexão com o DataServer
+// -- Fixado Skill do Castle Siege (Não Aparecia)
+// -- Adicionado a Configuração para habilitar as Skill Siege em todos os mapas : "SkillAdditionalInfo.dat"
+// -- Adicionado a Configuração para Remover o Efeito de empurrar do reflect : "CommonServer.cfg"
+// -- Adicionado a configuração para Verificação de CRC32 dos componentes importantes do cliente: "Commonserver.cfg"
+// -- Adicionado proteção do arquivo de configuração: "MainSecurityKey" : CommonServer.cfg
+// -- Removido cor custom da experiencia Obtida
+// -- Removido Cor Custom do Item Pick UP
+// -- Removida Cor Custom do Chat de GM
+// -- Fixado Bundle Jewels 150 e 160 (Voltava para +0 Caso os Items +15 fossem desativados)
+// -- Fixado Salvar as Enumerações da Skill, Posição do Chat e demais configuraçoes do tipo
+// -- Calculo do Attack Speed / Magic Speed Aplicado no main [CalCharacter] (Agora alterar o attack speed no server tem efeito no main
+// -- Adicionado Controle maximo de Attack Speed
+// -- Adicionado Novo Sistema HOT de configução da Chaos Maxine
+// -- Adicionado Novo Sistema HOT de drop de items Custom
+// -- Adicionado Controle de Duração que o Item/Zen fica no cão
+// -- Adicionado Controle de Duração que  demora para dar PickUP em Item/Zen de outro Player
+// -- IOCP do Servidor foi refeito, isso deve melhorar os Disconnect causado por muitos pacotes simuntaneos., 
+// -- Removido Pasta GameGuard/.des do Cliente
+// -- Fixado Novas Capas no Main
+// -- Adicionado o sistema de registro de Tempo online para Personagem (Não funciona em offline mode)
+// -- Adicionado sistema de bonus por tempo online (Não funciona em offline mode)
+// -- Ranking de PK e Hero agora estão funcionando
+// -- Fixado Guild Notice Crash
+// -- Fixado GuildName Crash no ExDB

@@ -1,0 +1,39 @@
+//-------------------------------------------------------------------------------------------------------
+//
+// [0]	: Item Type
+// [1]	: Item Index
+// [2]	: Adicional Excellent Type [0: Desativa os Adicionais Excellent][1: Wing Level 2][2: Wing Level 3]
+// [3]	: Adicional Life Type [0: Phisic] [1: Magic]
+// [4]	: Absorb Damage Formule A
+// [5] 	: Absorb Damage Formule B
+// [6]	: Abosrb Damage Formule C
+// [7]	: Increase Damage Formule A
+// [8]	: Increase Damage Formule B
+// [9]	: Increase Damage Formule C
+// [10]	: Wing Type [0: Normal] [1: Cape]
+//
+//
+// Formula Increase Damage
+// Damage * (WingLevel * Increase Damage Formule B + Increase Damage Formule A) / Increase Damage Formule C
+//
+// Formula Absorb Damage
+// (Damage * (Absorb Damage Formule A - (level * Absorb Damage Formule B)) / Absorb Damage Formule C;
+//-------------------------------------------------------------------------------------------------------
+//	[0]	[1]	[2]	[3]	[4]	[5]	[6]	[7]	[8]	[9]	[10]
+//-------------------------------------------------------------------------------------------------------
+	12	0	1	0	61	2	100	139	2	100	0
+	12	1	1	0	61	2	100	139	2	100	0
+	12	2	1	0	61	2	100	139	2	100	0
+	12	50	2	0	61	2	100	139	2	100	0
+	12	51	2	0	61	2	100	139	2	100	0
+	12	52	2	0	61	2	100	139	2	100	0
+	12	53	2	0	61	2	100	139	2	100	0
+	12	54	2	0	61	2	100	139	2	100	1
+	12	55	2	0	61	2	100	139	2	100	0
+	12	56	2	0	61	2	100	139	2	100	0
+	12	57	2	0	61	2	100	139	2	100	0
+	12	58	2	0	61	2	100	139	2	100	0
+	12	59	2	0	61	2	100	139	2	100	0
+	12	60	2	0	61	2	100	139	2	100	0
+	12	61	2	0	61	2	100	139	2	100	0
+end
