@@ -1,0 +1,20 @@
+[21:50:48]  ########## Start of work program! ##########
+[21:50:48]  Version: 1.0.10.1120; Build: 20.01.2012
+[21:50:48]  Unknown 64-bit
+[21:50:48]  CrashDump System! DbgHelp.dll 5.1 or later!
+[21:50:48]  CrashDump System! FolderPath: 'E:\GxGaming SRCS\MUServer_S3 JPN\Bin\ConnectServer\';
+[21:50:48]  CrashDump System - Successfully installed.
+[21:50:48]  'BoR_Config.ini' file successfully loaded.
+[21:50:48]  Protocol version: 20050502; (0.98.* - 1.05.*)
+[21:50:48]  Active Servers: 1
+[21:50:48]  'BoR_ServerList.dat' file successfully loaded.
+[21:50:48]  Data from file 'BoR_WZ_ServerInfo.ini' load success.
+[21:50:48]  TCP Recv Socket Initialize Success. Port: 44405;
+[21:50:48]  Run I/O Completion Port System. (32 working threads)
+[21:50:48]  UDP Recv Socket Initialize Success. Port: 55557;
+[21:50:48]  # Current settings:
+[21:50:48]  - PortTCP: 44405;
+[21:50:48]  - PortUDP: 55557;
+[21:50:48]  - WriteLog: Enabled;
+[21:50:48]  - ProtocolMode: 2;
+[21:50:48]  - MultipleConnections: Enabled;

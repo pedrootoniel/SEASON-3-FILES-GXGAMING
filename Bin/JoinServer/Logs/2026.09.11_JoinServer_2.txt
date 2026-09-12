@@ -1,0 +1,8 @@
+[21:20:10] Socket working on the port: 55970
+[21:20:10] Connected to ODBC driver (MuOnlineS3JPN).
+[21:20:10] [Settings] MD5: Off | AutoDC: On | CaseSensitive: On
+[21:20:14] A new connection was initiated by IP: 127.0.0.1
+[21:20:14] Server Request Authentication (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:20:14] GameServer_01, Authentication successfully completed.
+[21:20:38] [AccountManager] Account Connected (Account: admin, IpAddress: 192.168.100.40, GameServerCode: 0)
+[21:21:54] [AccountManager][admin] IpAddress: 192.168.100.40, GameServerCode: 0, Status: Disconnected

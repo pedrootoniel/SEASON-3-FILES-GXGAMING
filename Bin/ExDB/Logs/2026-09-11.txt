@@ -20,3 +20,105 @@
 [20:53:40] ReqDelPlayer: SuPreMo
 [20:53:40] ExDB Protocol Recv: 2
 [20:54:19] GameServer close connection (127.0.0.1)
+[21:13:38] Starting GxGaming ExDB Emulator...
+[21:13:38] GxGaming Data Emulator Started on Port: 55906
+[21:13:38] SELECT * FROM Guild
+[21:13:38] SELECT * FROM GuildMember
+[21:13:42] GameServer start connection (127.0.0.1)
+[21:13:42] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:13:44] GameServer start connection (127.0.0.1)
+[21:13:44] GameServer Autheticate Successfully. (Name: Chat Server Port: 55980 SrvCode: 52428)
+[21:19:00] GameServer close connection (127.0.0.1)
+[21:20:08] Starting GxGaming ExDB Emulator...
+[21:20:08] GxGaming Data Emulator Started on Port: 55906
+[21:20:08] SELECT * FROM Guild
+[21:20:08] SELECT * FROM GuildMember
+[21:20:13] GameServer start connection (127.0.0.1)
+[21:20:13] GameServer Autheticate Successfully. (Name: Chat Server Port: 55980 SrvCode: 52428)
+[21:20:14] GameServer start connection (127.0.0.1)
+[21:20:14] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:20:45] SELECT GUID FROM T_FriendMain WHERE Name='SuPreMo'
+[21:20:45] SELECT FriendName,Del FROM T_FriendList WHERE GUID=43
+[21:20:45] ExDB Protocol Recv: 35
+[21:20:45] Chat Protocol Recv: 60
+[21:20:45] WZ_UserGuidCreate 'SuPreMo'
+[21:20:45] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='SuPreMo'
+[21:20:45] SELECT FriendName,Del FROM T_FriendList WHERE GUID=43
+[21:20:45] SELECT FriendName FROM T_WaitFriend WHERE GUID=43
+[21:20:45] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=43
+[21:21:52] SELECT GUID FROM T_FriendMain WHERE Name='SuPreMo'
+[21:21:52] SELECT FriendName,Del FROM T_FriendList WHERE GUID=43
+[21:21:53] ReqDelPlayer: SuPreMo
+[21:21:53] ExDB Protocol Recv: 2
+[21:21:59] GameServer close connection (127.0.0.1)
+[21:39:27] Starting GxGaming ExDB Emulator...
+[21:39:27] GxGaming Data Emulator Started on Port: 55906
+[21:39:27] SELECT * FROM Guild
+[21:39:27] SELECT * FROM GuildMember
+[21:39:32] GameServer start connection (127.0.0.1)
+[21:39:32] GameServer Autheticate Successfully. (Name: Chat Server Port: 55980 SrvCode: 52428)
+[21:39:57] GameServer close connection (127.0.0.1)
+[21:41:38] Starting GxGaming ExDB Emulator...
+[21:41:38] GxGaming Data Emulator Started on Port: 55906
+[21:41:38] SELECT * FROM Guild
+[21:41:38] SELECT * FROM GuildMember
+[21:41:43] GameServer start connection (127.0.0.1)
+[21:41:43] GameServer Autheticate Successfully. (Name: Chat Server Port: 55980 SrvCode: 52428)
+[21:47:44] GameServer close connection (127.0.0.1)
+[21:50:52] Starting GxGaming ExDB Emulator...
+[21:50:52] GxGaming Data Emulator Started on Port: 55906
+[21:50:52] SELECT * FROM Guild
+[21:50:52] SELECT * FROM GuildMember
+[21:50:56] GameServer start connection (127.0.0.1)
+[21:50:56] GameServer Autheticate Successfully. (Name: Chat Server Port: 55980 SrvCode: 52428)
+[21:59:18] GameServer close connection (127.0.0.1)
+[21:59:28] Starting GxGaming ExDB Emulator...
+[21:59:28] GxGaming Data Emulator Started on Port: 55906
+[21:59:28] SELECT * FROM Guild
+[21:59:28] SELECT * FROM GuildMember
+[21:59:33] GameServer start connection (127.0.0.1)
+[21:59:33] GameServer Autheticate Successfully. (Name: Chat Server Port: 55980 SrvCode: 52428)
+[21:59:36] GameServer close connection (127.0.0.1)
+[22:12:50] Starting GxGaming ExDB Emulator...
+[22:12:50] GxGaming Data Emulator Started on Port: 55906
+[22:12:50] SELECT * FROM Guild
+[22:12:50] SELECT * FROM GuildMember
+[22:12:55] GameServer start connection (127.0.0.1)
+[22:12:55] GameServer Autheticate Successfully. (Name: Chat Server Port: 55980 SrvCode: 52428)
+[22:12:55] GameServer start connection (127.0.0.1)
+[22:12:55] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[22:13:37] SELECT GUID FROM T_FriendMain WHERE Name='SuPreMo'
+[22:13:37] SELECT FriendName,Del FROM T_FriendList WHERE GUID=43
+[22:13:37] ExDB Protocol Recv: 35
+[22:13:37] Chat Protocol Recv: 60
+[22:13:37] WZ_UserGuidCreate 'SuPreMo'
+[22:13:37] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='SuPreMo'
+[22:13:37] SELECT FriendName,Del FROM T_FriendList WHERE GUID=43
+[22:13:37] SELECT FriendName FROM T_WaitFriend WHERE GUID=43
+[22:13:37] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=43
+[22:13:46] GameServer close connection (127.0.0.1)
+[22:13:57] GameServer start connection (127.0.0.1)
+[22:13:57] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[22:14:41] SELECT GUID FROM T_FriendMain WHERE Name='SuPreMo'
+[22:14:41] SELECT FriendName,Del FROM T_FriendList WHERE GUID=43
+[22:14:41] ExDB Protocol Recv: 35
+[22:14:41] Chat Protocol Recv: 60
+[22:14:41] WZ_UserGuidCreate 'SuPreMo'
+[22:14:41] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='SuPreMo'
+[22:14:41] SELECT FriendName,Del FROM T_FriendList WHERE GUID=43
+[22:14:41] SELECT FriendName FROM T_WaitFriend WHERE GUID=43
+[22:14:41] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=43
+[22:15:00] SELECT GUID FROM T_FriendMain WHERE Name='SuPreMo'
+[22:15:00] SELECT FriendName,Del FROM T_FriendList WHERE GUID=43
+[22:15:00] ReqDelPlayer: SuPreMo
+[22:15:00] ExDB Protocol Recv: 2
+[22:15:15] SELECT GUID FROM T_FriendMain WHERE Name='SMTEST'
+[22:15:15] SELECT FriendName,Del FROM T_FriendList WHERE GUID=44
+[22:15:15] ExDB Protocol Recv: 35
+[22:15:15] Chat Protocol Recv: 60
+[22:15:15] WZ_UserGuidCreate 'SMTEST'
+[22:15:15] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='SMTEST'
+[22:15:15] SELECT FriendName,Del FROM T_FriendList WHERE GUID=44
+[22:15:15] SELECT FriendName FROM T_WaitFriend WHERE GUID=44
+[22:15:15] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=44
+[22:16:13] GameServer close connection (127.0.0.1)

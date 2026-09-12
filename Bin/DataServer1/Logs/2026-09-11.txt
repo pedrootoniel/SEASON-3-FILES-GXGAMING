@@ -22,3 +22,121 @@
 [20:53:39] UPDATE Character SET cLevel=400,Class=19,LevelUpPoint=190,Experience=0,Strength=32000,Dexterity=32000,Vitality=32000,Energy=32000,Leadership=0,Inventory=?,MagicList=?,Money=692544070,Life=115793.000000,MaxLife=96833.000000,Mana=77729.000000,MaxMana=64838.000000,BP=33950.000000,MaxBP=52800.000000,Shield=165937.000000,MaxShield=165937.000000,MapNumber=6,MapPosX=64,MapPosY=110,MapDir=5,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitPoint=0, Reset=100, MasterReset=0, PlayerKillCount=PlayerKillCount+0, PlayerHeroCount=PlayerHeroCount+0 WHERE AccountID='admin' AND Name='SuPreMo'
 [20:53:40] UPDATE warehouse SET WareCount=5, WareNumber=0  WHERE AccountID='admin'
 [20:53:40] EXEC WZ_QMK_InfoSave 'SuPreMo', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[21:13:36] Starting GxGaming Data Emulator...
+[21:13:36] GxGaming Data Emulator Started on Port: 55960
+[21:13:36] SELECT * FROM Guild
+[21:13:36] SELECT * FROM GuildMember
+[21:13:42] GameServer start connection (127.0.0.1)
+[21:13:42] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[21:13:42] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:20:06] Starting GxGaming Data Emulator...
+[21:20:06] GxGaming Data Emulator Started on Port: 55960
+[21:20:06] SELECT * FROM Guild
+[21:20:06] SELECT * FROM GuildMember
+[21:20:14] GameServer start connection (127.0.0.1)
+[21:20:14] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[21:20:14] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:20:38] SELECT Id FROM AccountCharacter WHERE Id='admin'
+[21:20:38] SELECT * FROM AccountCharacter WHERE Id='admin'
+[21:20:38] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='SuPreMo'
+[21:20:38] SELECT G_Status FROM GuildMember WHERE Name='SuPreMo'
+[21:20:38] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='SMTEST'
+[21:20:38] SELECT G_Status FROM GuildMember WHERE Name='SMTEST'
+[21:20:38] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='TESTE'
+[21:20:38] SELECT G_Status FROM GuildMember WHERE Name='TESTE'
+[21:20:45] SELECT * FROM Character WHERE AccountID='admin' AND Name='SuPreMo'
+[21:20:45] UPDATE AccountCharacter SET GameIDC='SuPreMo' WHERE Id='admin'
+[21:20:45] SELECT WareCount, WareNumber FROM warehouse WHERE AccountID='admin'
+[21:20:45] SELECT * FROM OptionData WHERE Name='SuPreMo'
+[21:20:45] EXEC WZ_PeriodItemSelect 15, 'SuPreMo'
+[21:20:45] EXEC WZ_QMK_InfoLoad 'SuPreMo'
+[21:21:36] UPDATE Character SET cLevel=400,Class=19,LevelUpPoint=190,Experience=0,Strength=32000,Dexterity=32000,Vitality=32000,Energy=32000,Leadership=0,Inventory=?,MagicList=?,Money=687144970,Life=115793.000000,MaxLife=96833.000000,Mana=77803.000000,MaxMana=64838.000000,BP=52800.000000,MaxBP=52800.000000,Shield=165937.000000,MaxShield=165937.000000,MapNumber=0,MapPosX=146,MapPosY=130,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitPoint=0, Reset=100, MasterReset=0, PlayerKillCount=PlayerKillCount+0, PlayerHeroCount=PlayerHeroCount+0 WHERE AccountID='admin' AND Name='SuPreMo'
+[21:21:36] UPDATE warehouse SET WareCount=5, WareNumber=0  WHERE AccountID='admin'
+[21:21:36] EXEC WZ_QMK_InfoSave 'SuPreMo', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[21:21:52] UPDATE Character SET cLevel=400,Class=19,LevelUpPoint=190,Experience=0,Strength=32000,Dexterity=32000,Vitality=32000,Energy=32000,Leadership=0,Inventory=?,MagicList=?,Money=687144970,Life=115793.000000,MaxLife=96833.000000,Mana=77803.000000,MaxMana=64838.000000,BP=52800.000000,MaxBP=52800.000000,Shield=165937.000000,MaxShield=165937.000000,MapNumber=0,MapPosX=132,MapPosY=141,MapDir=6,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitPoint=0, Reset=100, MasterReset=0, PlayerKillCount=PlayerKillCount+0, PlayerHeroCount=PlayerHeroCount+0 WHERE AccountID='admin' AND Name='SuPreMo'
+[21:21:53] UPDATE warehouse SET WareCount=5, WareNumber=0  WHERE AccountID='admin'
+[21:21:53] EXEC WZ_QMK_InfoSave 'SuPreMo', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[21:39:25] Starting GxGaming Data Emulator...
+[21:39:25] GxGaming Data Emulator Started on Port: 55960
+[21:39:25] SELECT * FROM Guild
+[21:39:25] SELECT * FROM GuildMember
+[21:41:36] Starting GxGaming Data Emulator...
+[21:41:36] GxGaming Data Emulator Started on Port: 55960
+[21:41:36] SELECT * FROM Guild
+[21:41:36] SELECT * FROM GuildMember
+[21:50:49] Starting GxGaming Data Emulator...
+[21:50:49] GxGaming Data Emulator Started on Port: 55960
+[21:50:49] SELECT * FROM Guild
+[21:50:49] SELECT * FROM GuildMember
+[21:55:00] GameServer start connection (127.0.0.1)
+[21:55:00] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[21:55:00] GameServer Autheticate Successfully. (Name: GameServer_CS Port: 55919 SrvCode: 19)
+[21:55:11] GameServer close connection (127.0.0.1)
+[21:59:25] Starting GxGaming Data Emulator...
+[21:59:25] GxGaming Data Emulator Started on Port: 55960
+[21:59:25] SELECT * FROM Guild
+[21:59:25] SELECT * FROM GuildMember
+[22:12:48] Starting GxGaming Data Emulator...
+[22:12:48] GxGaming Data Emulator Started on Port: 55960
+[22:12:48] SELECT * FROM Guild
+[22:12:48] SELECT * FROM GuildMember
+[22:12:55] GameServer start connection (127.0.0.1)
+[22:12:55] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[22:12:55] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[22:13:33] SELECT Id FROM AccountCharacter WHERE Id='admin'
+[22:13:33] SELECT * FROM AccountCharacter WHERE Id='admin'
+[22:13:33] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='SuPreMo'
+[22:13:33] SELECT G_Status FROM GuildMember WHERE Name='SuPreMo'
+[22:13:33] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='SMTEST'
+[22:13:33] SELECT G_Status FROM GuildMember WHERE Name='SMTEST'
+[22:13:33] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='TESTE'
+[22:13:33] SELECT G_Status FROM GuildMember WHERE Name='TESTE'
+[22:13:37] SELECT * FROM Character WHERE AccountID='admin' AND Name='SuPreMo'
+[22:13:37] UPDATE AccountCharacter SET GameIDC='SuPreMo' WHERE Id='admin'
+[22:13:37] SELECT WareCount, WareNumber FROM warehouse WHERE AccountID='admin'
+[22:13:37] SELECT * FROM OptionData WHERE Name='SuPreMo'
+[22:13:37] EXEC WZ_PeriodItemSelect 15, 'SuPreMo'
+[22:13:37] EXEC WZ_QMK_InfoLoad 'SuPreMo'
+[22:13:46] GameServer close connection (127.0.0.1)
+[22:13:57] GameServer start connection (127.0.0.1)
+[22:13:57] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[22:13:58] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[22:14:10] SELECT Id FROM AccountCharacter WHERE Id='admin'
+[22:14:10] SELECT * FROM AccountCharacter WHERE Id='admin'
+[22:14:10] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='SuPreMo'
+[22:14:10] SELECT G_Status FROM GuildMember WHERE Name='SuPreMo'
+[22:14:10] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='SMTEST'
+[22:14:10] SELECT G_Status FROM GuildMember WHERE Name='SMTEST'
+[22:14:10] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='TESTE'
+[22:14:10] SELECT G_Status FROM GuildMember WHERE Name='TESTE'
+[22:14:41] SELECT * FROM Character WHERE AccountID='admin' AND Name='SuPreMo'
+[22:14:41] UPDATE AccountCharacter SET GameIDC='SuPreMo' WHERE Id='admin'
+[22:14:41] SELECT WareCount, WareNumber FROM warehouse WHERE AccountID='admin'
+[22:14:41] SELECT * FROM OptionData WHERE Name='SuPreMo'
+[22:14:41] EXEC WZ_PeriodItemSelect 15, 'SuPreMo'
+[22:14:41] EXEC WZ_QMK_InfoLoad 'SuPreMo'
+[22:14:57] SELECT * FROM OptionData WHERE Name='SuPreMo'
+[22:14:57] UPDATE OptionData SET GameOption=10, Qkey=40, Wkey=6, Ekey=6, ChatWindow=15, SkillKey=? WHERE Name='SuPreMo'
+[22:15:00] UPDATE Character SET cLevel=400,Class=19,LevelUpPoint=190,Experience=0,Strength=32000,Dexterity=32000,Vitality=32000,Energy=32000,Leadership=0,Inventory=?,MagicList=?,Money=687144970,Life=115793.000000,MaxLife=96833.000000,Mana=77803.000000,MaxMana=64838.000000,BP=42270.000000,MaxBP=52800.000000,Shield=165846.000000,MaxShield=165937.000000,MapNumber=0,MapPosX=134,MapPosY=140,MapDir=7,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitPoint=0, Reset=100, MasterReset=0, PlayerKillCount=PlayerKillCount+0, PlayerHeroCount=PlayerHeroCount+0 WHERE AccountID='admin' AND Name='SuPreMo'
+[22:15:00] UPDATE warehouse SET WareCount=5, WareNumber=0  WHERE AccountID='admin'
+[22:15:00] EXEC WZ_QMK_InfoSave 'SuPreMo', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[22:15:00] SELECT Id FROM AccountCharacter WHERE Id='admin'
+[22:15:00] SELECT * FROM AccountCharacter WHERE Id='admin'
+[22:15:00] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='SuPreMo'
+[22:15:00] SELECT G_Status FROM GuildMember WHERE Name='SuPreMo'
+[22:15:00] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='SMTEST'
+[22:15:00] SELECT G_Status FROM GuildMember WHERE Name='SMTEST'
+[22:15:00] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='TESTE'
+[22:15:00] SELECT G_Status FROM GuildMember WHERE Name='TESTE'
+[22:15:15] SELECT * FROM Character WHERE AccountID='admin' AND Name='SMTEST'
+[22:15:15] UPDATE AccountCharacter SET GameIDC='SMTEST' WHERE Id='admin'
+[22:15:15] SELECT WareCount, WareNumber FROM warehouse WHERE AccountID='admin'
+[22:15:15] SELECT * FROM OptionData WHERE Name='SMTEST'
+[22:15:15] EXEC WZ_PeriodItemSelect 15, 'SMTEST'
+[22:15:15] EXEC WZ_QMK_InfoLoad 'SMTEST'
+[22:15:16] UPDATE Character SET cLevel=400,Class=3,LevelUpPoint=1610,Experience=3822148080,Strength=11025,Dexterity=18750,Vitality=1025,Energy=11285,Leadership=0,Inventory=?,MagicList=?,Money=1690983551,Life=5194.000000,MaxLife=3938.000000,Mana=30840.000000,MaxMana=23368.000000,BP=6134.000000,MaxBP=12269.000000,Shield=59004.000000,MaxShield=59004.000000,MapNumber=0,MapPosX=141,MapPosY=138,MapDir=0,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitPoint=0, Reset=128, MasterReset=0, PlayerKillCount=PlayerKillCount+0, PlayerHeroCount=PlayerHeroCount+0 WHERE AccountID='admin' AND Name='SMTEST'
+[22:15:16] UPDATE warehouse SET WareCount=5, WareNumber=0  WHERE AccountID='admin'
+[22:15:16] EXEC WZ_QMK_InfoSave 'SMTEST', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[22:16:08] GameServer start connection (127.0.0.1)
+[22:16:08] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[22:16:08] GameServer Autheticate Successfully. (Name: GameServer_CS Port: 55919 SrvCode: 19)

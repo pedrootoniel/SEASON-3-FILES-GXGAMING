@@ -1,0 +1,3 @@
+[21:41:39] Socket working on the port: 55970
+[21:41:39] Connected to ODBC driver (MuOnlineS3JPN).
+[21:41:39] [Settings] MD5: Off | AutoDC: On | CaseSensitive: On

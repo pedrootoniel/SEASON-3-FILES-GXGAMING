@@ -1,0 +1,6 @@
+[21:13:40] Socket working on the port: 55970
+[21:13:40] Connected to ODBC driver (MuOnlineS3JPN).
+[21:13:40] [Settings] MD5: Off | AutoDC: On | CaseSensitive: On
+[21:13:42] A new connection was initiated by IP: 127.0.0.1
+[21:13:42] Server Request Authentication (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:13:42] GameServer_01, Authentication successfully completed.

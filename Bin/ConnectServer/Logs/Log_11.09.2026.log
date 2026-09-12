@@ -1,20 +1,20 @@
-[20:53:09]  ########## Start of work program! ##########
-[20:53:09]  Version: 1.0.10.1120; Build: 20.01.2012
-[20:53:09]  Unknown 64-bit
-[20:53:09]  CrashDump System! DbgHelp.dll 5.1 or later!
-[20:53:09]  CrashDump System! FolderPath: 'E:\GxGaming SRCS\MUServer_S3 JPN\Bin\ConnectServer\';
-[20:53:09]  CrashDump System - Successfully installed.
-[20:53:09]  'BoR_Config.ini' file successfully loaded.
-[20:53:09]  Protocol version: 20050502; (0.98.* - 1.05.*)
-[20:53:09]  Active Servers: 1
-[20:53:09]  'BoR_ServerList.dat' file successfully loaded.
-[20:53:09]  Data from file 'BoR_WZ_ServerInfo.ini' load success.
-[20:53:09]  TCP Recv Socket Initialize Success. Port: 44405;
-[20:53:09]  Run I/O Completion Port System. (32 working threads)
-[20:53:09]  UDP Recv Socket Initialize Success. Port: 55557;
-[20:53:09]  # Current settings:
-[20:53:09]  - PortTCP: 44405;
-[20:53:09]  - PortUDP: 55557;
-[20:53:09]  - WriteLog: Enabled;
-[20:53:09]  - ProtocolMode: 2;
-[20:53:09]  - MultipleConnections: Enabled;
+[21:20:05]  ########## Start of work program! ##########
+[21:20:05]  Version: 1.0.10.1120; Build: 20.01.2012
+[21:20:05]  Unknown 64-bit
+[21:20:05]  CrashDump System! DbgHelp.dll 5.1 or later!
+[21:20:05]  CrashDump System! FolderPath: 'E:\GxGaming SRCS\MUServer_S3 JPN\Bin\ConnectServer\';
+[21:20:05]  CrashDump System - Successfully installed.
+[21:20:05]  'BoR_Config.ini' file successfully loaded.
+[21:20:05]  Protocol version: 20050502; (0.98.* - 1.05.*)
+[21:20:05]  Active Servers: 1
+[21:20:05]  'BoR_ServerList.dat' file successfully loaded.
+[21:20:05]  Data from file 'BoR_WZ_ServerInfo.ini' load success.
+[21:20:05]  TCP Recv Socket Initialize Success. Port: 44405;
+[21:20:05]  Run I/O Completion Port System. (32 working threads)
+[21:20:05]  UDP Recv Socket Initialize Success. Port: 55557;
+[21:20:05]  # Current settings:
+[21:20:05]  - PortTCP: 44405;
+[21:20:05]  - PortUDP: 55557;
+[21:20:05]  - WriteLog: Enabled;
+[21:20:05]  - ProtocolMode: 2;
+[21:20:05]  - MultipleConnections: Enabled;

@@ -1,0 +1,1585 @@
+[21:54:59] [..\data\gate.txt] Gate information data load complete.
+[21:54:59] [..\data\Skills\Skill.txt] Skill information data load complete
+[21:54:59] [Quest] (Scroll of Emperor) Load : Index 0, SubInfoCount 2
+[21:54:59] [Quest] (Three Treasures of Mu) Load : Index 1, SubInfoCount 4
+[21:54:59] [Quest] (Hero Status) Load : Index 2, SubInfoCount 2
+[21:54:59] [Quest] (Secret 'Dark Stone) Load : Index 3, SubInfoCount 1
+[21:54:59] [Quest] (Certificate of Strength!) Load : Index 4, SubInfoCount 9
+[21:54:59] [Quest] (Infiltration of Barracks of Ballgass!) Load : Index 5, SubInfoCount 3
+[21:54:59] [Quest] (Infiltration of Barracks of Refuge!) Load : Index 6, SubInfoCount 1
+[21:54:59] [Quest] [SetQuestItem] Scroll of Emperor
+[21:54:59] [Quest] [SetQuestItem] Scroll of Emperor
+[21:54:59] [Quest] [SetQuestItem] Broken Sword
+[21:54:59] [Quest] [SetQuestItem] Tear of Elf
+[21:54:59] [Quest] [SetQuestItem] Soul Shard of Wizard
+[21:54:59] [Quest] [SetQuestItem] 
+[21:54:59] [Quest] [SetQuestItem] Scroll of Emperor
+[21:54:59] [Quest] [SetQuestItem] Scroll of Emperor
+[21:54:59] [Quest] [SetQuestItem] Broken Sword
+[21:54:59] [Quest] [SetQuestItem] Death-beam Knight Flame
+[21:54:59] [Quest] [SetQuestItem] Hell-Miner Horn
+[21:54:59] [Quest] [SetQuestItem] Dark Phoenix Feather
+[21:54:59] [Quest] [SetQuestItem] Death-beam Knight Flame
+[21:54:59] [Quest] [SetQuestItem] Hell-Miner Horn
+[21:54:59] [Quest] [SetQuestItem] Dark Phoenix Feather
+[21:54:59] [Quest] [SetQuestItem] Death-beam Knight Flame
+[21:54:59] [Quest] [SetQuestItem] Hell-Miner Horn
+[21:54:59] [Quest] [SetQuestItem] Dark Phoenix Feather
+[21:54:59] [Monster Element] - ..\data\Monsters\MonsterSkillElement.txt file is Loaded
+[21:54:59] [Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (14)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (11)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (23)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (16)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (13)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (4)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (24)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (25)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (26)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (27)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (28)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (29)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (30)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (31)(Monster Skill Elemen)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (32)(Monster Skill Elemen )
+[21:54:59] [Monster Skill Unit] - Found SkillElement (33)(Monster Skill Elemen!)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (34)(Monster Skill Elemen")
+[21:54:59] [Monster Skill Unit] - Found SkillElement (35)(Monster Skill Elemen#)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (36)(Monster Skill Elemen$)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (37)(Monster Skill Elemen%)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (38)(Monster Skill Elemen&)
+[21:54:59] [Monster Skill Unit] - Found SkillElement (39)(Monster Skill Elemen')
+[21:54:59] [Monster Skill Unit] - Found SkillElement (40)(Monster Skill Elemen()
+[21:54:59] [Monster Skill Unit] - Found SkillElement (41)(Monster Skill Elemen))
+[21:54:59] [Monster Skill Unit] - Found SkillElement (42)(Monster Skill Elemen*)
+[21:54:59] [Monster Skill Unit] - ..\data\Monsters\MonsterSkillUnit.txt file is Loaded
+[21:54:59] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[21:54:59] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[21:54:59] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/388)
+[21:54:59] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[21:54:59] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[21:54:59] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/391)
+[21:54:59] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[21:54:59] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[21:54:59] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/394)
+[21:54:59] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[21:54:59] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[21:54:59] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/397)
+[21:54:59] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[21:54:59] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[21:54:59] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/400)
+[21:54:59] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[21:54:59] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[21:54:59] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/403)
+[21:54:59] [Monster AI Element] - ..\data\Monsters\MonsterAIElement.txt file is Loaded
+[21:54:59] [Monster AI MovePath ] - ..\data\MovePath_35.dat file is Loaded
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Treatment ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Treatment ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 1 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 2 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 3 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Summon -> General 1 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Summon -> General 2 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Summon -> General 3 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 3 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 1 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 2 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 3 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[21:54:59] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[21:54:59] [Monster AI Automata] - ..\data\Monsters\MonsterAutomata.txt file is Loaded
+[21:54:59] [Monster AI Automata] FindAutomata() Error - (AutomataNumber=13) 
+[21:54:59] [Monster AI Automata] FindAutomata() Error - (AutomataNumber=14) 
+[21:54:59] [Monster AI Unit] - ..\data\Monsters\MonsterAIUnit.txt file is Loaded
+[21:54:59] [Monster AI Rule ] - ..\data\Monsters\MonsterAIRule.txt file is Loaded
+[21:54:59] [Monster AI Group ] - ..\data\Monsters\MonsterAIGroup.txt file is Loaded
+[21:54:59] [ Crywolf ] State (0) -> NONE
+[21:54:59] [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+[21:54:59] [Crywolf Main Job] - ..\data\Events\Crywolf.dat file is Loaded
+[21:54:59] [SkillAdditionalInfo] File Loaded Successfully
+[21:54:59] [Option] Required time to decrease Murderer-level : 1(s)
+[21:54:59] [Option] Monster HP 30% Down
+[21:54:59] [Option] Auto Looting Time Set : 3
+[21:54:59] [Option] Item drop rate : 10 %
+[21:54:59] [DevilSquare] Close
+[21:54:59] User Object Size = 4816
+[21:54:59] [ItemEventBag][Box Of Luck] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Star Of XMas] File Load Sucessfully!
+[21:54:59] [ItemEventBag][FireCracker] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Heart of Love] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Silver Medal] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Gold Medal] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Box Of Heaven] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Box Of Kundun +1] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Box Of Kundun +2] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Box Of Kundun +3] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Box Of Kundun +4] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Box Of Kundun +5] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Heart of Dark Lord] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Ribbon Red] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Ribbon Green] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Ribbon Blue] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Chocolate Pink] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Chocolate Red] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Chocolate Blue] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Death King] File Load Sucessfully!
+[21:54:59] [ItemEventBag][0] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Halloween] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Warrior Ring 40] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Warrior Ring 80] File Load Sucessfully!
+[21:54:59] [ItemEventBag][GameMaster Box] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Fortune Pounch Event Bag] File Load Sucessfully!
+[21:54:59] [ItemEventBag][DarkElf Event Bag] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Balgass Event Bag] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Chaos Card] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Medusa Box] File Load Sucessfully!
+[21:54:59] [ItemEventBag][HellMine Box] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Nix Box] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Ferea Box] File Load Sucessfully!
+[21:54:59] [ItemEventBag][LordSilver Box] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Magriffy Box] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Bronze Box] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Silver Box] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Gold Box] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Diamond Box] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Erohim Event Bag] File Load Sucessfully!
+[21:54:59] [ItemEventBag][CastleSiege Mix] File Load Sucessfully!
+[21:54:59] [ItemEventBag][Kundun Event Bag] File Load Sucessfully!
+[21:54:59] [ItemEventBagEx][BloodCastle 1] File Load Sucessfully!
+[21:54:59] [ItemEventBagEx][ChaosCastle 1] File Load Sucessfully!
+[21:54:59] [ItemEventBagEx][IllusionTemple 1] File Load Sucessfully!
+[21:54:59] [ItemEventBagEx][IllusionTemple 1 - MOB] File Load Sucessfully!
+[21:54:59] [ItemEventBagEx][DevilSquare 1] File Load Sucessfully!
+[21:54:59] [EventBags] Files Loadeds Successfully
+[21:54:59] ..\data\Events\DevilSquare.dat file load!
+[21:54:59] ..\data\Events\CastleDeepEvent.dat file load!
+[21:54:59] ..\data\Events\ChaosCastle.dat file load!
+[21:54:59] [CASHSHOP] Discount File loaded successfully!
+[21:54:59] Load: Category: 0, Count: 0 | 3 7238 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 1 | 3 7239 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 2 | 3 7240 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 3 | 3 7241 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 4 | 3 7242 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 5 | 3 7243 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 6 | 3 7244 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 7 | 3 7245 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 8 | 3 7246 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 9 | 3 7247 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 10 | 3 7248 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 11 | 3 7249 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 12 | 3 7250 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 13 | 3 7251 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 14 | 3 7221 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 15 | 3 7222 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 16 | 3 6699 0 0 0 0 0 0 0 3600 255 50
+[21:54:59] Load: Category: 0, Count: 17 | 3 6700 0 0 0 0 0 0 0 3600 255 50
+[21:54:59] Load: Category: 0, Count: 18 | 3 6701 0 0 0 0 0 0 0 3600 255 50
+[21:54:59] Load: Category: 0, Count: 19 | 3 6702 0 0 0 0 0 0 10 3600 255 50
+[21:54:59] Load: Category: 0, Count: 20 | 3 6703 0 0 0 0 0 0 10 3600 255 50
+[21:54:59] Load: Category: 0, Count: 21 | 3 6704 0 0 0 0 0 0 10 3600 255 50
+[21:54:59] Load: Category: 0, Count: 22 | 3 6717 0 0 0 0 0 0 10 3600 255 50
+[21:54:59] Load: Category: 0, Count: 23 | 3 6710 0 0 0 0 0 0 0 3600 255 50
+[21:54:59] Load: Category: 0, Count: 24 | 3 6711 0 0 0 0 0 0 100 3600 255 50
+[21:54:59] Load: Category: 0, Count: 25 | 3 6712 0 0 0 0 0 0 100 3600 255 50
+[21:54:59] Load: Category: 0, Count: 26 | 3 6713 0 0 0 0 0 0 100 3600 255 50
+[21:54:59] Load: Category: 0, Count: 27 | 3 6714 0 0 0 0 0 0 100 3600 255 50
+[21:54:59] Load: Category: 0, Count: 28 | 3 7262 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 29 | 3 7263 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 30 | 3 7264 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 31 | 3 7265 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 0, Count: 32 | 3 7266 0 0 0 0 0 0 1 3600 255 50
+[21:54:59] Load: Category: 1, Count: 512 | 1 0 13 0 1 7 63 0 72 0 255 350
+[21:54:59] Load: Category: 1, Count: 513 | 1 1 13 0 1 7 63 0 74 0 255 350
+[21:54:59] Load: Category: 1, Count: 514 | 1 2 13 0 1 7 63 5 75 0 255 350
+[21:54:59] Load: Category: 1, Count: 515 | 1 3 13 1 1 7 63 0 79 0 255 350
+[21:54:59] Load: Category: 1, Count: 516 | 1 4 13 1 1 7 63 0 76 0 255 350
+[21:54:59] Load: Category: 1, Count: 517 | 1 5 13 1 1 7 63 0 91 0 255 350
+[21:54:59] Load: Category: 1, Count: 518 | 1 6 13 1 1 7 63 0 82 0 255 350
+[21:54:59] Load: Category: 1, Count: 519 | 1 7 13 1 1 7 63 0 86 0 255 350
+[21:54:59] Load: Category: 1, Count: 520 | 1 8 13 1 1 7 63 0 88 0 255 350
+[21:54:59] Load: Category: 1, Count: 521 | 1 9 13 1 1 7 63 0 92 0 255 350
+[21:54:59] Load: Category: 1, Count: 522 | 1 10 13 1 1 7 63 0 102 0 255 350
+[21:54:59] Load: Category: 1, Count: 523 | 1 11 13 1 1 7 63 0 106 0 255 350
+[21:54:59] Load: Category: 1, Count: 524 | 1 12 13 1 1 7 63 0 118 0 255 350
+[21:54:59] Load: Category: 1, Count: 525 | 1 13 13 1 1 7 63 0 95 0 255 350
+[21:54:59] Load: Category: 1, Count: 526 | 1 14 13 1 1 7 63 5 102 0 255 350
+[21:54:59] Load: Category: 1, Count: 527 | 1 15 13 1 1 7 63 0 112 0 255 350
+[21:54:59] Load: Category: 1, Count: 528 | 1 16 13 1 1 7 63 0 136 0 255 350
+[21:54:59] Load: Category: 1, Count: 529 | 1 17 13 1 1 7 63 0 141 0 255 350
+[21:54:59] Load: Category: 1, Count: 530 | 1 18 13 1 1 7 63 0 138 0 255 350
+[21:54:59] Load: Category: 1, Count: 531 | 1 19 13 1 1 7 63 0 200 0 255 350
+[21:54:59] Load: Category: 1, Count: 532 | 1 20 13 1 1 7 63 0 142 0 255 350
+[21:54:59] Load: Category: 1, Count: 533 | 1 21 13 1 1 7 63 0 152 0 255 350
+[21:54:59] Load: Category: 1, Count: 534 | 1 22 13 1 1 7 63 0 147 0 255 350
+[21:54:59] Load: Category: 1, Count: 535 | 1 23 13 1 1 7 63 0 162 0 255 350
+[21:54:59] Load: Category: 1, Count: 536 | 1 24 13 1 1 7 63 0 142 0 255 350
+[21:54:59] Load: Category: 1, Count: 537 | 1 25 13 1 1 7 63 0 142 0 255 350
+[21:54:59] Load: Category: 1, Count: 538 | 1 31 13 1 1 7 63 0 145 0 255 350
+[21:54:59] Load: Category: 1, Count: 539 | 1 512 13 0 1 7 63 0 70 0 255 350
+[21:54:59] Load: Category: 1, Count: 540 | 1 513 13 0 1 7 63 0 72 0 255 350
+[21:54:59] Load: Category: 1, Count: 541 | 1 514 13 1 1 7 63 0 78 0 255 350
+[21:54:59] Load: Category: 1, Count: 542 | 1 515 13 1 1 7 63 0 80 0 255 350
+[21:54:59] Load: Category: 1, Count: 543 | 1 516 13 0 1 7 63 0 84 0 255 350
+[21:54:59] Load: Category: 1, Count: 544 | 1 517 13 1 1 7 63 0 88 0 255 350
+[21:54:59] Load: Category: 1, Count: 545 | 1 518 13 1 1 7 63 0 96 0 255 350
+[21:54:59] Load: Category: 1, Count: 546 | 1 519 13 1 1 7 63 0 107 0 255 350
+[21:54:59] Load: Category: 1, Count: 547 | 1 520 13 1 1 7 63 0 117 0 255 350
+[21:54:59] Load: Category: 1, Count: 548 | 1 1024 13 0 1 1 63 0 73 0 255 350
+[21:54:59] Load: Category: 1, Count: 549 | 1 1025 13 1 1 1 63 5 77 0 255 350
+[21:54:59] Load: Category: 1, Count: 550 | 1 1026 13 0 1 1 63 0 84 0 255 350
+[21:54:59] Load: Category: 1, Count: 551 | 1 1027 13 1 1 1 63 0 102 0 255 350
+[21:54:59] Load: Category: 1, Count: 552 | 1 1028 13 1 1 1 63 0 124 0 255 350
+[21:54:59] Load: Category: 1, Count: 553 | 1 1029 13 1 1 1 63 0 128 0 255 350
+[21:54:59] Load: Category: 1, Count: 554 | 1 1030 13 1 1 1 63 0 132 0 255 350
+[21:54:59] Load: Category: 1, Count: 555 | 1 1031 13 0 1 1 63 0 102 0 255 350
+[21:54:59] Load: Category: 1, Count: 556 | 1 1032 13 1 1 1 63 0 92 0 255 350
+[21:54:59] Load: Category: 1, Count: 557 | 1 1033 13 1 1 1 63 0 97 0 255 350
+[21:54:59] Load: Category: 1, Count: 558 | 1 1034 13 1 1 1 63 0 117 0 255 350
+[21:54:59] Load: Category: 1, Count: 559 | 1 1035 13 1 1 1 63 0 124 0 255 350
+[21:54:59] Load: Category: 1, Count: 560 | 1 1036 13 1 1 1 63 0 136 0 255 350
+[21:54:59] Load: Category: 1, Count: 561 | 1 1037 13 1 1 1 63 0 122 0 255 350
+[21:54:59] Load: Category: 1, Count: 562 | 1 1038 13 1 1 1 63 0 147 0 255 350
+[21:54:59] Load: Category: 1, Count: 563 | 1 1039 13 1 1 1 63 0 147 0 255 350
+[21:54:59] Load: Category: 1, Count: 564 | 1 1536 13 1 1 1 63 0 108 0 255 350
+[21:54:59] Load: Category: 1, Count: 565 | 1 1537 13 0 1 1 63 0 94 0 255 350
+[21:54:59] Load: Category: 1, Count: 566 | 1 1538 13 0 1 1 63 0 86 0 255 350
+[21:54:59] Load: Category: 1, Count: 567 | 1 1539 13 0 1 1 63 0 96 0 255 350
+[21:54:59] Load: Category: 1, Count: 568 | 1 1540 13 1 1 1 63 0 110 0 255 350
+[21:54:59] Load: Category: 1, Count: 569 | 1 1541 13 0 1 1 63 0 90 0 255 350
+[21:54:59] Load: Category: 1, Count: 570 | 1 1542 13 0 1 1 63 0 92 0 255 350
+[21:54:59] Load: Category: 1, Count: 571 | 1 1543 13 1 1 1 63 0 106 0 255 350
+[21:54:59] Load: Category: 1, Count: 572 | 1 1544 13 1 1 1 63 0 120 0 255 350
+[21:54:59] Load: Category: 1, Count: 573 | 1 1545 13 1 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 1, Count: 574 | 1 1546 13 1 1 1 63 0 137 0 255 350
+[21:54:59] Load: Category: 2, Count: 1024 | 1 2048 13 1 1 1 63 0 72 0 255 350
+[21:54:59] Load: Category: 2, Count: 1025 | 1 2049 13 1 1 1 63 0 76 0 255 350
+[21:54:59] Load: Category: 2, Count: 1026 | 1 2050 13 1 1 1 63 0 80 0 255 350
+[21:54:59] Load: Category: 2, Count: 1027 | 1 2051 13 1 1 1 63 0 88 0 255 350
+[21:54:59] Load: Category: 2, Count: 1028 | 1 2052 13 1 1 1 63 0 95 0 255 350
+[21:54:59] Load: Category: 2, Count: 1029 | 1 2053 13 1 1 1 63 5 100 0 255 350
+[21:54:59] Load: Category: 2, Count: 1030 | 1 2054 13 1 1 1 63 0 120 0 255 350
+[21:54:59] Load: Category: 2, Count: 1031 | 1 2055 13 0 1 1 63 0 255 0 255 350
+[21:54:59] Load: Category: 2, Count: 1032 | 1 2056 13 1 1 1 63 0 74 0 255 350
+[21:54:59] Load: Category: 2, Count: 1033 | 1 2057 13 1 1 1 63 5 78 0 255 350
+[21:54:59] Load: Category: 2, Count: 1034 | 1 2058 13 1 1 1 63 0 83 0 255 350
+[21:54:59] Load: Category: 2, Count: 1035 | 1 2059 13 1 1 1 63 0 92 0 255 350
+[21:54:59] Load: Category: 2, Count: 1036 | 1 2060 13 1 1 1 63 0 97 0 255 350
+[21:54:59] Load: Category: 2, Count: 1037 | 1 2061 13 1 1 1 63 0 108 0 255 350
+[21:54:59] Load: Category: 2, Count: 1038 | 1 2062 13 1 1 1 63 0 112 0 255 350
+[21:54:59] Load: Category: 2, Count: 1039 | 1 2063 13 0 1 1 63 0 255 0 255 350
+[21:54:59] Load: Category: 2, Count: 1040 | 1 2064 13 1 1 1 63 0 124 0 255 350
+[21:54:59] Load: Category: 2, Count: 1041 | 1 2065 13 1 1 1 63 0 128 0 255 350
+[21:54:59] Load: Category: 2, Count: 1042 | 1 2066 13 1 1 1 63 0 232 0 255 350
+[21:54:59] Load: Category: 2, Count: 1043 | 1 2067 13 1 1 1 63 0 132 0 255 350
+[21:54:59] Load: Category: 2, Count: 1044 | 1 2068 13 1 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 2, Count: 1045 | 1 2069 13 1 1 1 63 0 255 0 255 350
+[21:54:59] Load: Category: 2, Count: 1046 | 1 2070 13 1 1 1 63 0 255 0 255 350
+[21:54:59] Load: Category: 3, Count: 1536 | 1 2560 13 0 1 1 63 5 72 0 255 350
+[21:54:59] Load: Category: 3, Count: 1537 | 1 2561 13 0 1 1 63 0 90 0 255 350
+[21:54:59] Load: Category: 3, Count: 1538 | 1 2562 13 0 1 1 63 0 102 0 255 350
+[21:54:59] Load: Category: 3, Count: 1539 | 1 2563 13 0 1 1 63 0 112 0 255 350
+[21:54:59] Load: Category: 3, Count: 1540 | 1 2564 13 0 1 1 63 0 117 0 255 350
+[21:54:59] Load: Category: 3, Count: 1541 | 1 2565 13 0 1 1 63 0 118 0 255 350
+[21:54:59] Load: Category: 3, Count: 1542 | 1 2566 13 0 1 1 63 0 122 0 255 350
+[21:54:59] Load: Category: 3, Count: 1543 | 1 2567 13 0 1 1 63 0 122 0 255 350
+[21:54:59] Load: Category: 3, Count: 1544 | 1 2568 13 0 1 1 63 0 137 0 255 350
+[21:54:59] Load: Category: 3, Count: 1545 | 1 2569 13 0 1 1 63 0 143 0 255 350
+[21:54:59] Load: Category: 3, Count: 1546 | 1 2570 13 0 1 1 63 0 214 0 255 350
+[21:54:59] Load: Category: 3, Count: 1547 | 1 2571 13 0 1 1 63 0 147 0 255 350
+[21:54:59] Load: Category: 3, Count: 1548 | 1 2572 13 0 1 1 63 0 152 0 255 350
+[21:54:59] Load: Category: 3, Count: 1549 | 1 2573 13 0 1 1 63 0 152 0 255 350
+[21:54:59] Load: Category: 4, Count: 2048 | 1 3072 13 0 1 1 63 0 74 0 255 350
+[21:54:59] Load: Category: 4, Count: 2049 | 1 3073 13 0 1 1 63 0 80 0 255 350
+[21:54:59] Load: Category: 4, Count: 2050 | 1 3074 13 0 1 1 63 0 84 0 255 350
+[21:54:59] Load: Category: 4, Count: 2051 | 1 3075 13 0 1 1 63 0 88 0 255 350
+[21:54:59] Load: Category: 4, Count: 2052 | 1 3076 13 1 1 1 63 0 76 0 255 350
+[21:54:59] Load: Category: 4, Count: 2053 | 1 3077 13 1 1 1 63 0 96 0 255 350
+[21:54:59] Load: Category: 4, Count: 2054 | 1 3078 13 1 1 1 63 5 86 0 255 350
+[21:54:59] Load: Category: 4, Count: 2055 | 1 3079 13 1 1 1 63 0 92 0 255 350
+[21:54:59] Load: Category: 4, Count: 2056 | 1 3080 13 1 1 1 63 0 98 0 255 350
+[21:54:59] Load: Category: 4, Count: 2057 | 1 3081 13 1 1 1 63 5 90 0 255 350
+[21:54:59] Load: Category: 4, Count: 2058 | 1 3082 13 1 1 1 63 0 87 0 255 350
+[21:54:59] Load: Category: 4, Count: 2059 | 1 3083 13 1 1 1 63 0 100 0 255 350
+[21:54:59] Load: Category: 4, Count: 2060 | 1 3084 13 1 1 1 63 0 104 0 255 350
+[21:54:59] Load: Category: 4, Count: 2061 | 1 3085 13 1 1 1 63 0 112 0 255 350
+[21:54:59] Load: Category: 4, Count: 2062 | 1 3086 13 0 1 1 63 0 102 0 255 350
+[21:54:59] Load: Category: 4, Count: 2063 | 1 3087 13 0 1 1 63 0 107 0 255 350
+[21:54:59] Load: Category: 4, Count: 2064 | 1 3088 13 0 1 1 63 0 103 0 255 350
+[21:54:59] Load: Category: 5, Count: 2560 | 1 3585 13 0 1 1 63 5 120 0 255 350
+[21:54:59] Load: Category: 5, Count: 2561 | 1 3586 13 0 1 1 63 5 80 0 255 350
+[21:54:59] Load: Category: 5, Count: 2562 | 1 3587 13 0 1 1 63 5 94 0 255 350
+[21:54:59] Load: Category: 5, Count: 2563 | 1 3588 13 0 1 1 63 0 82 0 255 350
+[21:54:59] Load: Category: 5, Count: 2564 | 1 3589 13 0 1 1 63 5 82 0 255 350
+[21:54:59] Load: Category: 5, Count: 2565 | 1 3590 13 0 1 1 63 5 92 0 255 350
+[21:54:59] Load: Category: 5, Count: 2566 | 1 3591 13 0 1 1 63 5 88 0 255 350
+[21:54:59] Load: Category: 5, Count: 2567 | 1 3592 13 0 1 1 63 0 96 0 255 350
+[21:54:59] Load: Category: 5, Count: 2568 | 1 3593 13 0 1 1 63 0 102 0 255 350
+[21:54:59] Load: Category: 5, Count: 2569 | 1 3594 13 0 1 1 63 5 74 0 255 350
+[21:54:59] Load: Category: 5, Count: 2570 | 1 3595 13 0 1 1 63 5 78 0 255 350
+[21:54:59] Load: Category: 5, Count: 2571 | 1 3596 13 0 1 1 63 5 84 0 255 350
+[21:54:59] Load: Category: 5, Count: 2572 | 1 3597 13 0 1 1 63 0 90 0 255 350
+[21:54:59] Load: Category: 5, Count: 2573 | 1 3598 13 0 1 1 63 0 97 0 255 350
+[21:54:59] Load: Category: 5, Count: 2574 | 1 3600 13 0 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 5, Count: 2575 | 1 3601 13 0 1 1 63 0 132 0 255 350
+[21:54:59] Load: Category: 5, Count: 2576 | 1 3602 13 0 1 1 63 0 119 0 255 350
+[21:54:59] Load: Category: 5, Count: 2577 | 1 3603 13 0 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 5, Count: 2578 | 1 3605 13 0 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 5, Count: 2579 | 1 3606 13 0 1 1 63 0 127 0 255 350
+[21:54:59] Load: Category: 5, Count: 2580 | 1 3608 13 0 1 1 63 0 132 0 255 350
+[21:54:59] Load: Category: 5, Count: 2581 | 1 3609 13 0 1 1 63 0 94 0 255 350
+[21:54:59] Load: Category: 5, Count: 2582 | 1 3610 13 0 1 1 63 0 108 0 255 350
+[21:54:59] Load: Category: 5, Count: 2583 | 1 3611 13 0 1 1 63 0 122 0 255 350
+[21:54:59] Load: Category: 5, Count: 2584 | 1 3612 13 0 1 1 63 0 130 0 255 350
+[21:54:59] Load: Category: 5, Count: 2585 | 1 3613 13 0 1 1 63 0 142 0 255 350
+[21:54:59] Load: Category: 5, Count: 2586 | 1 3614 13 0 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 5, Count: 2587 | 1 3615 13 0 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 5, Count: 2588 | 1 3617 13 0 1 1 63 0 134 0 255 350
+[21:54:59] Load: Category: 5, Count: 2589 | 1 3618 13 0 1 1 63 0 124 0 255 350
+[21:54:59] Load: Category: 5, Count: 2590 | 1 3619 13 0 1 1 63 0 106 0 255 350
+[21:54:59] Load: Category: 5, Count: 2591 | 1 3620 13 0 1 1 63 0 111 0 255 350
+[21:54:59] Load: Category: 5, Count: 2592 | 1 3622 13 0 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 6, Count: 3072 | 1 4096 13 0 1 1 63 9 86 0 255 350
+[21:54:59] Load: Category: 6, Count: 3073 | 1 4097 13 0 1 1 63 0 120 0 255 350
+[21:54:59] Load: Category: 6, Count: 3074 | 1 4098 13 0 1 1 63 9 80 0 255 350
+[21:54:59] Load: Category: 6, Count: 3075 | 1 4099 13 0 1 1 63 9 94 0 255 350
+[21:54:59] Load: Category: 6, Count: 3076 | 1 4100 13 0 1 1 63 9 82 0 255 350
+[21:54:59] Load: Category: 6, Count: 3077 | 1 4101 13 0 1 1 63 9 82 0 255 350
+[21:54:59] Load: Category: 6, Count: 3078 | 1 4102 13 0 1 1 63 9 92 0 255 350
+[21:54:59] Load: Category: 6, Count: 3079 | 1 4103 13 0 1 1 63 9 88 0 255 350
+[21:54:59] Load: Category: 6, Count: 3080 | 1 4104 13 0 1 1 63 9 96 0 255 350
+[21:54:59] Load: Category: 6, Count: 3081 | 1 4105 13 0 1 1 63 9 102 0 255 350
+[21:54:59] Load: Category: 6, Count: 3082 | 1 4106 13 0 1 1 63 0 74 0 255 350
+[21:54:59] Load: Category: 6, Count: 3083 | 1 4107 13 0 1 1 63 9 78 0 255 350
+[21:54:59] Load: Category: 6, Count: 3084 | 1 4108 13 0 1 1 63 9 84 0 255 350
+[21:54:59] Load: Category: 6, Count: 3085 | 1 4109 13 0 1 1 63 9 90 0 255 350
+[21:54:59] Load: Category: 6, Count: 3086 | 1 4110 13 0 1 1 63 9 97 0 255 350
+[21:54:59] Load: Category: 6, Count: 3087 | 1 4111 13 0 1 1 63 9 132 0 255 350
+[21:54:59] Load: Category: 6, Count: 3088 | 1 4112 13 0 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 6, Count: 3089 | 1 4113 13 0 1 1 63 0 132 0 255 350
+[21:54:59] Load: Category: 6, Count: 3090 | 1 4114 13 0 1 1 63 0 119 0 255 350
+[21:54:59] Load: Category: 6, Count: 3091 | 1 4115 13 0 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 6, Count: 3092 | 1 4116 13 0 1 1 63 0 134 0 255 350
+[21:54:59] Load: Category: 6, Count: 3093 | 1 4117 13 0 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 6, Count: 3094 | 1 4118 13 0 1 1 63 0 127 0 255 350
+[21:54:59] Load: Category: 6, Count: 3095 | 1 4119 13 0 1 1 63 0 142 0 255 350
+[21:54:59] Load: Category: 6, Count: 3096 | 1 4120 13 0 1 1 63 0 132 0 255 350
+[21:54:59] Load: Category: 6, Count: 3097 | 1 4121 13 0 1 1 63 0 94 0 255 350
+[21:54:59] Load: Category: 6, Count: 3098 | 1 4122 13 0 1 1 63 0 108 0 255 350
+[21:54:59] Load: Category: 6, Count: 3099 | 1 4123 13 0 1 1 63 0 122 0 255 350
+[21:54:59] Load: Category: 6, Count: 3100 | 1 4124 13 0 1 1 63 0 130 0 255 350
+[21:54:59] Load: Category: 6, Count: 3101 | 1 4125 13 0 1 1 63 0 142 0 255 350
+[21:54:59] Load: Category: 6, Count: 3102 | 1 4126 13 0 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 6, Count: 3103 | 1 4127 13 0 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 6, Count: 3104 | 1 4128 13 0 1 1 63 0 147 0 255 350
+[21:54:59] Load: Category: 6, Count: 3105 | 1 4129 13 0 1 1 63 0 134 0 255 350
+[21:54:59] Load: Category: 6, Count: 3106 | 1 4130 13 0 1 1 63 0 124 0 255 350
+[21:54:59] Load: Category: 6, Count: 3107 | 1 4131 13 0 1 1 63 0 106 0 255 350
+[21:54:59] Load: Category: 6, Count: 3108 | 1 4132 13 0 1 1 63 0 111 0 255 350
+[21:54:59] Load: Category: 6, Count: 3109 | 1 4133 13 0 1 1 63 0 133 0 255 350
+[21:54:59] Load: Category: 6, Count: 3110 | 1 4134 13 0 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 7, Count: 3584 | 1 4608 13 0 1 1 63 6 86 0 255 350
+[21:54:59] Load: Category: 7, Count: 3585 | 1 4609 13 0 1 1 63 0 120 0 255 350
+[21:54:59] Load: Category: 7, Count: 3586 | 1 4610 13 0 1 1 63 6 80 0 255 350
+[21:54:59] Load: Category: 7, Count: 3587 | 1 4611 13 0 1 1 63 0 94 0 255 350
+[21:54:59] Load: Category: 7, Count: 3588 | 1 4612 13 0 1 1 63 6 82 0 255 350
+[21:54:59] Load: Category: 7, Count: 3589 | 1 4613 13 0 1 1 63 6 82 0 255 350
+[21:54:59] Load: Category: 7, Count: 3590 | 1 4614 13 0 1 1 63 6 92 0 255 350
+[21:54:59] Load: Category: 7, Count: 3591 | 1 4615 13 0 1 1 63 6 88 0 255 350
+[21:54:59] Load: Category: 7, Count: 3592 | 1 4616 13 0 1 1 63 6 96 0 255 350
+[21:54:59] Load: Category: 7, Count: 3593 | 1 4617 13 0 1 1 63 0 102 0 255 350
+[21:54:59] Load: Category: 7, Count: 3594 | 1 4618 13 0 1 1 63 6 74 0 255 350
+[21:54:59] Load: Category: 7, Count: 3595 | 1 4619 13 0 1 1 63 6 78 0 255 350
+[21:54:59] Load: Category: 7, Count: 3596 | 1 4620 13 0 1 1 63 6 84 0 255 350
+[21:54:59] Load: Category: 7, Count: 3597 | 1 4621 13 0 1 1 63 6 90 0 255 350
+[21:54:59] Load: Category: 7, Count: 3598 | 1 4622 13 0 1 1 63 0 97 0 255 350
+[21:54:59] Load: Category: 7, Count: 3599 | 1 4621 13 0 1 1 63 6 90 0 255 350
+[21:54:59] Load: Category: 7, Count: 3600 | 1 4624 13 0 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 7, Count: 3601 | 1 4625 13 0 1 1 63 0 132 0 255 350
+[21:54:59] Load: Category: 7, Count: 3602 | 1 4626 13 0 1 1 63 0 119 0 255 350
+[21:54:59] Load: Category: 7, Count: 3603 | 1 4627 13 0 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 7, Count: 3604 | 1 4628 13 0 1 1 63 0 134 0 255 350
+[21:54:59] Load: Category: 7, Count: 3605 | 1 4629 13 0 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 7, Count: 3606 | 1 4630 13 0 1 1 63 0 127 0 255 350
+[21:54:59] Load: Category: 7, Count: 3607 | 1 4631 13 0 1 1 63 0 142 0 255 350
+[21:54:59] Load: Category: 7, Count: 3608 | 1 4632 13 0 1 1 63 0 132 0 255 350
+[21:54:59] Load: Category: 7, Count: 3609 | 1 4633 13 0 1 1 63 0 94 0 255 350
+[21:54:59] Load: Category: 7, Count: 3610 | 1 4634 13 0 1 1 63 0 108 0 255 350
+[21:54:59] Load: Category: 7, Count: 3611 | 1 4635 13 0 1 1 63 0 122 0 255 350
+[21:54:59] Load: Category: 7, Count: 3612 | 1 4636 13 0 1 1 63 0 130 0 255 350
+[21:54:59] Load: Category: 7, Count: 3613 | 1 4637 13 0 1 1 63 0 142 0 255 350
+[21:54:59] Load: Category: 7, Count: 3614 | 1 4638 13 0 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 7, Count: 3615 | 1 4639 13 0 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 7, Count: 3616 | 1 4640 13 0 1 1 63 0 147 0 255 350
+[21:54:59] Load: Category: 7, Count: 3617 | 1 4641 13 0 1 1 63 0 134 0 255 350
+[21:54:59] Load: Category: 7, Count: 3618 | 1 4642 13 0 1 1 63 0 124 0 255 350
+[21:54:59] Load: Category: 7, Count: 3619 | 1 4643 13 0 1 1 63 0 106 0 255 350
+[21:54:59] Load: Category: 7, Count: 3620 | 1 4644 13 0 1 1 63 0 111 0 255 350
+[21:54:59] Load: Category: 7, Count: 3621 | 1 4645 13 0 1 1 63 0 133 0 255 350
+[21:54:59] Load: Category: 7, Count: 3622 | 1 4646 13 0 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 8, Count: 4096 | 1 5120 13 0 1 1 63 0 86 0 255 350
+[21:54:59] Load: Category: 8, Count: 4097 | 1 5121 13 0 1 1 63 10 120 0 255 350
+[21:54:59] Load: Category: 8, Count: 4098 | 1 5122 13 0 1 1 63 10 80 0 255 350
+[21:54:59] Load: Category: 8, Count: 4099 | 1 5123 13 0 1 1 63 10 94 0 255 350
+[21:54:59] Load: Category: 8, Count: 4100 | 1 5124 13 0 1 1 63 0 82 0 255 350
+[21:54:59] Load: Category: 8, Count: 4101 | 1 5125 13 0 1 1 63 10 82 0 255 350
+[21:54:59] Load: Category: 8, Count: 4102 | 1 5126 13 0 1 1 63 0 92 0 255 350
+[21:54:59] Load: Category: 8, Count: 4103 | 1 5127 13 0 1 1 63 10 88 0 255 350
+[21:54:59] Load: Category: 8, Count: 4104 | 1 5128 13 0 1 1 63 10 96 0 255 350
+[21:54:59] Load: Category: 8, Count: 4105 | 1 5129 13 0 1 1 63 10 102 0 255 350
+[21:54:59] Load: Category: 8, Count: 4106 | 1 5130 13 0 1 1 63 10 74 0 255 350
+[21:54:59] Load: Category: 8, Count: 4107 | 1 5131 13 0 1 1 63 10 78 0 255 350
+[21:54:59] Load: Category: 8, Count: 4108 | 1 5132 13 0 1 1 63 10 84 0 255 350
+[21:54:59] Load: Category: 8, Count: 4109 | 1 5133 13 0 1 1 63 10 90 0 255 350
+[21:54:59] Load: Category: 8, Count: 4110 | 1 5134 13 0 1 1 63 10 97 0 255 350
+[21:54:59] Load: Category: 8, Count: 4111 | 1 5135 13 0 1 1 63 0 132 0 255 350
+[21:54:59] Load: Category: 8, Count: 4112 | 1 5136 13 0 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 8, Count: 4113 | 1 5137 13 0 1 1 63 0 132 0 255 350
+[21:54:59] Load: Category: 8, Count: 4114 | 1 5138 13 0 1 1 63 0 119 0 255 350
+[21:54:59] Load: Category: 8, Count: 4115 | 1 5139 13 0 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 8, Count: 4116 | 1 5140 13 0 1 1 63 0 134 0 255 350
+[21:54:59] Load: Category: 8, Count: 4117 | 1 5141 13 0 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 8, Count: 4118 | 1 5142 13 0 1 1 63 0 127 0 255 350
+[21:54:59] Load: Category: 8, Count: 4119 | 1 5143 13 0 1 1 63 0 142 0 255 350
+[21:54:59] Load: Category: 8, Count: 4120 | 1 5144 13 0 1 1 63 0 132 0 255 350
+[21:54:59] Load: Category: 8, Count: 4121 | 1 5145 13 0 1 1 63 0 94 0 255 350
+[21:54:59] Load: Category: 8, Count: 4122 | 1 5146 13 0 1 1 63 0 108 0 255 350
+[21:54:59] Load: Category: 8, Count: 4123 | 1 5147 13 0 1 1 63 0 122 0 255 350
+[21:54:59] Load: Category: 8, Count: 4124 | 1 5148 13 0 1 1 63 0 130 0 255 350
+[21:54:59] Load: Category: 8, Count: 4125 | 1 5149 13 0 1 1 63 0 142 0 255 350
+[21:54:59] Load: Category: 8, Count: 4126 | 1 5150 13 0 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 8, Count: 4127 | 1 5151 13 0 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 8, Count: 4128 | 1 5152 13 0 1 1 63 0 147 0 255 350
+[21:54:59] Load: Category: 8, Count: 4129 | 1 5153 13 0 1 1 63 0 134 0 255 350
+[21:54:59] Load: Category: 8, Count: 4130 | 1 5154 13 0 1 1 63 0 124 0 255 350
+[21:54:59] Load: Category: 8, Count: 4131 | 1 5155 13 0 1 1 63 0 106 0 255 350
+[21:54:59] Load: Category: 8, Count: 4132 | 1 5156 13 0 1 1 63 0 111 0 255 350
+[21:54:59] Load: Category: 8, Count: 4133 | 1 5157 13 0 1 1 63 0 133 0 255 350
+[21:54:59] Load: Category: 8, Count: 4134 | 1 5158 13 0 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 9, Count: 4608 | 1 5632 13 0 1 1 63 5 86 0 255 350
+[21:54:59] Load: Category: 9, Count: 4609 | 1 5633 13 0 1 1 63 5 120 0 255 350
+[21:54:59] Load: Category: 9, Count: 4610 | 1 5634 13 0 1 1 63 0 80 0 255 350
+[21:54:59] Load: Category: 9, Count: 4611 | 1 5635 13 0 1 1 63 0 94 0 255 350
+[21:54:59] Load: Category: 9, Count: 4612 | 1 5636 13 0 1 1 63 5 82 0 255 350
+[21:54:59] Load: Category: 9, Count: 4613 | 1 5637 13 0 1 1 63 9 82 0 255 350
+[21:54:59] Load: Category: 9, Count: 4614 | 1 5638 13 0 1 1 63 0 92 0 255 350
+[21:54:59] Load: Category: 9, Count: 4615 | 1 5639 13 0 1 1 63 5 88 0 255 350
+[21:54:59] Load: Category: 9, Count: 4616 | 1 5640 13 0 1 1 63 5 96 0 255 350
+[21:54:59] Load: Category: 9, Count: 4617 | 1 5641 13 0 1 1 63 9 102 0 255 350
+[21:54:59] Load: Category: 9, Count: 4618 | 1 5642 13 0 1 1 63 9 74 0 255 350
+[21:54:59] Load: Category: 9, Count: 4619 | 1 5643 13 0 1 1 63 0 78 0 255 350
+[21:54:59] Load: Category: 9, Count: 4620 | 1 5644 13 0 1 1 63 5 84 0 255 350
+[21:54:59] Load: Category: 9, Count: 4621 | 1 5645 13 0 1 1 63 0 90 0 255 350
+[21:54:59] Load: Category: 9, Count: 4622 | 1 5646 13 0 1 1 63 5 97 0 255 350
+[21:54:59] Load: Category: 9, Count: 4623 | 1 5645 13 0 1 1 63 0 90 0 255 350
+[21:54:59] Load: Category: 9, Count: 4624 | 1 5648 13 0 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 9, Count: 4625 | 1 5649 13 0 1 1 63 0 132 0 255 350
+[21:54:59] Load: Category: 9, Count: 4626 | 1 5650 13 0 1 1 63 0 119 0 255 350
+[21:54:59] Load: Category: 9, Count: 4627 | 1 5651 13 0 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 9, Count: 4628 | 1 5652 13 0 1 1 63 0 134 0 255 350
+[21:54:59] Load: Category: 9, Count: 4629 | 1 5653 13 0 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 9, Count: 4630 | 1 5654 13 0 1 1 63 0 127 0 255 350
+[21:54:59] Load: Category: 9, Count: 4631 | 1 5655 13 0 1 1 63 0 142 0 255 350
+[21:54:59] Load: Category: 9, Count: 4632 | 1 5656 13 0 1 1 63 0 132 0 255 350
+[21:54:59] Load: Category: 9, Count: 4633 | 1 5657 13 0 1 1 63 0 94 0 255 350
+[21:54:59] Load: Category: 9, Count: 4634 | 1 5658 13 0 1 1 63 0 108 0 255 350
+[21:54:59] Load: Category: 9, Count: 4635 | 1 5659 13 0 1 1 63 0 122 0 255 350
+[21:54:59] Load: Category: 9, Count: 4636 | 1 5660 13 0 1 1 63 0 130 0 255 350
+[21:54:59] Load: Category: 9, Count: 4637 | 1 5661 13 0 1 1 63 0 142 0 255 350
+[21:54:59] Load: Category: 9, Count: 4638 | 1 5662 13 0 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 9, Count: 4639 | 1 5663 13 0 1 1 63 0 138 0 255 350
+[21:54:59] Load: Category: 9, Count: 4640 | 1 5664 13 0 1 1 63 0 147 0 255 350
+[21:54:59] Load: Category: 9, Count: 4641 | 1 5665 13 0 1 1 63 0 134 0 255 350
+[21:54:59] Load: Category: 9, Count: 4642 | 1 5666 13 0 1 1 63 0 124 0 255 350
+[21:54:59] Load: Category: 9, Count: 4643 | 1 5667 13 0 1 1 63 0 106 0 255 350
+[21:54:59] Load: Category: 9, Count: 4644 | 1 5668 13 0 1 1 63 0 111 0 255 350
+[21:54:59] Load: Category: 9, Count: 4645 | 1 5669 13 0 1 1 63 0 133 0 255 350
+[21:54:59] Load: Category: 9, Count: 4646 | 1 5670 13 0 1 1 63 0 126 0 255 350
+[21:54:59] Load: Category: 10, Count: 5120 | 1 6144 13 0 1 7 63 0 252 0 255 350
+[21:54:59] Load: Category: 10, Count: 5121 | 1 6145 13 0 1 7 63 0 252 0 255 350
+[21:54:59] Load: Category: 10, Count: 5122 | 1 6146 13 0 1 7 63 0 252 0 255 350
+[21:54:59] Load: Category: 10, Count: 5123 | 1 6147 13 0 1 7 63 0 232 0 255 350
+[21:54:59] Load: Category: 10, Count: 5124 | 1 6148 13 0 1 7 63 0 232 0 255 350
+[21:54:59] Load: Category: 10, Count: 5125 | 1 6149 13 0 1 7 63 0 232 0 255 350
+[21:54:59] Load: Category: 10, Count: 5126 | 1 6150 13 0 1 7 63 0 232 0 255 350
+[21:54:59] Load: Category: 11, Count: 5632 | 1 6664 13 0 2 7 63 5 102 0 255 350
+[21:54:59] Load: Category: 11, Count: 5633 | 1 6665 13 0 1 7 63 5 102 0 255 350
+[21:54:59] Load: Category: 11, Count: 5634 | 1 6677 13 0 1 7 63 5 102 0 255 350
+[21:54:59] Load: Category: 11, Count: 5635 | 1 6678 13 0 1 7 63 5 102 0 255 350
+[21:54:59] Load: Category: 11, Count: 5636 | 1 6679 13 0 1 7 63 5 102 0 255 350
+[21:54:59] Load: Category: 11, Count: 5637 | 1 6680 13 0 1 7 63 5 102 0 255 350
+[21:54:59] Load: Category: 11, Count: 5638 | 1 6668 13 0 1 7 63 9 102 0 255 350
+[21:54:59] Load: Category: 11, Count: 5639 | 1 6669 13 0 1 7 63 9 102 0 255 350
+[21:54:59] Load: Category: 11, Count: 5640 | 1 6681 13 0 1 7 63 9 102 0 255 350
+[21:54:59] Load: Category: 11, Count: 5641 | 1 6682 13 0 1 7 63 9 102 0 255 350
+[21:54:59] Load: Category: 11, Count: 5642 | 1 6683 13 0 1 7 63 9 102 0 255 350
+[21:54:59] Load: Category: 11, Count: 5643 | 1 6684 13 0 1 7 63 9 102 0 255 350
+[21:54:59] Load: Category: 12, Count: 6144 | 1 4096 13 0 1 7 63 10 86 0 255 350
+[21:54:59] Load: Category: 12, Count: 6145 | 1 4608 13 0 1 7 63 10 86 0 255 350
+[21:54:59] Load: Category: 12, Count: 6146 | 1 5632 13 0 1 7 63 10 86 0 255 350
+[21:54:59] Load: Category: 12, Count: 6147 | 1 3585 13 0 1 7 63 10 120 0 255 350
+[21:54:59] Load: Category: 12, Count: 6148 | 1 5121 13 0 1 7 63 10 120 0 255 350
+[21:54:59] Load: Category: 12, Count: 6149 | 1 5633 13 0 1 7 63 10 120 0 255 350
+[21:54:59] Load: Category: 12, Count: 6150 | 1 3586 13 0 1 7 63 10 80 0 255 350
+[21:54:59] Load: Category: 12, Count: 6151 | 1 4098 13 0 1 7 63 10 80 0 255 350
+[21:54:59] Load: Category: 12, Count: 6152 | 1 4610 13 0 1 7 63 10 80 0 255 350
+[21:54:59] Load: Category: 12, Count: 6153 | 1 5122 13 0 1 7 63 10 80 0 255 350
+[21:54:59] Load: Category: 12, Count: 6154 | 1 3587 13 0 1 7 63 10 94 0 255 350
+[21:54:59] Load: Category: 12, Count: 6155 | 1 4611 13 0 1 7 63 0 94 0 255 350
+[21:54:59] Load: Category: 12, Count: 6156 | 1 5123 13 0 1 7 63 10 94 0 255 350
+[21:54:59] Load: Category: 12, Count: 6157 | 1 5635 13 0 1 7 63 0 94 0 255 350
+[21:54:59] Load: Category: 12, Count: 6158 | 1 4100 13 0 1 7 63 10 82 0 255 350
+[21:54:59] Load: Category: 12, Count: 6159 | 1 4612 13 0 1 7 63 9 82 0 255 350
+[21:54:59] Load: Category: 12, Count: 6160 | 1 5636 13 0 1 7 63 9 82 0 255 350
+[21:54:59] Load: Category: 12, Count: 6161 | 1 3589 13 0 1 7 63 9 82 0 255 350
+[21:54:59] Load: Category: 12, Count: 6162 | 1 4101 13 0 1 7 63 9 82 0 255 350
+[21:54:59] Load: Category: 12, Count: 6163 | 1 4613 13 0 1 7 63 5 82 0 255 350
+[21:54:59] Load: Category: 12, Count: 6164 | 1 5125 13 0 1 7 63 9 82 0 255 350
+[21:54:59] Load: Category: 12, Count: 6165 | 1 5637 13 0 1 7 63 5 82 0 255 350
+[21:54:59] Load: Category: 12, Count: 6166 | 1 3590 13 0 1 7 63 5 92 0 255 350
+[21:54:59] Load: Category: 12, Count: 6167 | 1 4102 13 0 1 7 63 5 92 0 255 350
+[21:54:59] Load: Category: 12, Count: 6168 | 1 4614 13 0 1 7 63 5 92 0 255 350
+[21:54:59] Load: Category: 12, Count: 6169 | 1 4103 13 0 1 7 63 5 88 0 255 350
+[21:54:59] Load: Category: 12, Count: 6170 | 1 4615 13 0 1 7 63 5 88 0 255 350
+[21:54:59] Load: Category: 12, Count: 6171 | 1 5127 13 0 1 7 63 9 88 0 255 350
+[21:54:59] Load: Category: 12, Count: 6172 | 1 5639 13 0 1 7 63 9 88 0 255 350
+[21:54:59] Load: Category: 12, Count: 6173 | 1 4104 13 0 1 7 63 5 96 0 255 350
+[21:54:59] Load: Category: 12, Count: 6174 | 1 4616 13 0 1 7 63 5 96 0 255 350
+[21:54:59] Load: Category: 12, Count: 6175 | 1 5128 13 0 1 7 63 5 96 0 255 350
+[21:54:59] Load: Category: 12, Count: 6176 | 1 5640 13 0 1 7 63 5 96 0 255 350
+[21:54:59] Load: Category: 12, Count: 6177 | 1 4105 13 0 1 7 63 5 102 0 255 350
+[21:54:59] Load: Category: 12, Count: 6178 | 1 5129 13 0 1 7 63 5 102 0 255 350
+[21:54:59] Load: Category: 12, Count: 6179 | 1 5641 13 0 1 7 63 5 102 0 255 350
+[21:54:59] Load: Category: 12, Count: 6180 | 1 3594 13 0 1 7 63 9 74 0 255 350
+[21:54:59] Load: Category: 12, Count: 6181 | 1 4618 13 0 1 7 63 5 74 0 255 350
+[21:54:59] Load: Category: 12, Count: 6182 | 1 5130 13 0 1 7 63 5 74 0 255 350
+[21:54:59] Load: Category: 12, Count: 6183 | 1 5642 13 0 1 7 63 5 74 0 255 350
+[21:54:59] Load: Category: 12, Count: 6184 | 1 3595 13 0 1 7 63 9 78 0 255 350
+[21:54:59] Load: Category: 12, Count: 6185 | 1 4107 13 0 1 7 63 5 78 0 255 350
+[21:54:59] Load: Category: 12, Count: 6186 | 1 4619 13 0 1 7 63 5 78 0 255 350
+[21:54:59] Load: Category: 12, Count: 6187 | 1 5131 13 0 1 7 63 9 78 0 255 350
+[21:54:59] Load: Category: 12, Count: 6188 | 1 3596 13 0 1 7 63 5 84 0 255 350
+[21:54:59] Load: Category: 12, Count: 6189 | 1 4108 13 0 1 7 63 9 84 0 255 350
+[21:54:59] Load: Category: 12, Count: 6190 | 1 4620 13 0 1 7 63 5 84 0 255 350
+[21:54:59] Load: Category: 12, Count: 6191 | 1 5132 13 0 1 7 63 9 84 0 255 350
+[21:54:59] Load: Category: 12, Count: 6192 | 1 5644 13 0 1 7 63 5 84 0 255 350
+[21:54:59] Load: Category: 12, Count: 6193 | 1 4109 13 0 1 7 63 5 90 0 255 350
+[21:54:59] Load: Category: 12, Count: 6194 | 1 4621 13 0 1 7 63 5 90 0 255 350
+[21:54:59] Load: Category: 12, Count: 6195 | 1 5133 13 0 1 7 63 5 90 0 255 350
+[21:54:59] Load: Category: 12, Count: 6196 | 1 4110 13 0 1 7 63 5 97 0 255 350
+[21:54:59] Load: Category: 12, Count: 6197 | 1 5134 13 0 1 7 63 5 97 0 255 350
+[21:54:59] Load: Category: 12, Count: 6198 | 1 5646 13 0 1 7 63 5 97 0 255 350
+[21:54:59] Load: Category: 12, Count: 6199 | 1 4109 13 0 1 7 63 5 90 0 255 350
+[21:54:59] Load: Category: 12, Count: 6200 | 1 4621 13 0 1 7 63 5 90 0 255 350
+[21:54:59] Load: Category: 12, Count: 6201 | 1 5645 13 0 1 7 63 0 90 0 255 350
+[21:54:59] [CASHSHOP] Discount File loaded successfully!
+[21:54:59] [CalCharacter] File loaded successfully!
+[21:54:59] [CommandManager] File Loaded Successfully
+[21:54:59] [BlackList] Loaded Successfull!
+[21:54:59] [NPC Buffer] File loaded successfully!
+[21:54:59] [Damage Balance] File loaded successfully!
+[21:54:59] [CommandReset] File Loaded Successfully
+[21:54:59] [CommandMasterReset] File Loaded Successfully
+[21:54:59] [Jewel Upgrade] File loaded successfully!
+[21:54:59] [DropManager] File Loaded Successfully
+[21:54:59] [ChatCensure] File Loaded Successfully
+[21:54:59] [Command Auto Attack] File Loaded Successfully.
+[21:55:00] [NPC Shop] Reload Data Successfully!
+[21:55:00] error : Monster location setting error user.cpp 2752
+[21:55:00] error-L2 : 179 class : 0
+[21:55:00] [DevilSquare] Close
+[21:55:00] [DevilSquare] Sync Open Time. [244]min remain
+[21:55:00] [Chaos Castle] (1) Sync Start Time. [5] min remain
+[21:55:00] [Chaos Castle] (1) SetState CLOSED
+[21:55:00] [Chaos Castle] (2) Sync Start Time. [5] min remain
+[21:55:00] [Chaos Castle] (2) SetState CLOSED
+[21:55:00] [Chaos Castle] (3) Sync Start Time. [5] min remain
+[21:55:00] [Chaos Castle] (3) SetState CLOSED
+[21:55:00] [Chaos Castle] (4) Sync Start Time. [5] min remain
+[21:55:00] [Chaos Castle] (4) SetState CLOSED
+[21:55:00] [Chaos Castle] (5) Sync Start Time. [5] min remain
+[21:55:00] [Chaos Castle] (5) SetState CLOSED
+[21:55:00] [Chaos Castle] (6) Sync Start Time. [5] min remain
+[21:55:00] [Chaos Castle] (6) SetState CLOSED
+[21:55:00] [Virtual Drop] SetState BLANK
+[21:55:00] [Hide and Seek] SetState BLANK
+[21:55:00] [Moss Merchant] SetState BLANK
+[21:55:00] ..\data\Iplist.dat arquivo carregado!
+[21:55:00] [Invasion Manager][ White Wizard ] State END
+[21:55:00] [Invasion Manager][ Golden Invasion ] State END
+[21:55:00] [Invasion Manager][ Red Dragon ] State END
+[21:55:00] [Invasion Manager][ Skeleton King ] State END
+[21:55:00] [Invasion Manager][ Moon Rabbit ] State END
+[21:55:00] [Invasion Manager][ Moon Rabbit ] State END
+[21:55:00] [Invasion Manager][ Moon Rabbit ] State END
+[21:55:00] [Invasion Manager][ Moon Rabbit ] State END
+[21:55:00] LoginServer connect IP[ 127.0.0.1 ]
+[21:55:00] DataServer connect IP[ 127.0.0.1 ] PORT [ 55962 ]
+[21:55:00] DataServer connect IP[ 127.0.0.1 ] PORT [ 55960 ]
+[21:55:00] GameServer create PORT [ 55919 ]
+[21:55:01] [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+[21:55:01] [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2017-8-13)
+[21:55:01] [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (7-0-0)
+[21:55:01] [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2017-8-20(0:0:0)
+[21:55:01] [CastleSiege] CCastleSiege::Init() - START
+[21:55:01] [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+[21:55:01] [ Crywolf ] Incorrect DB OccupationState!!!
+[21:55:10] Whole connection closed
+[22:16:07] [..\data\gate.txt] Gate information data load complete.
+[22:16:07] [..\data\Skills\Skill.txt] Skill information data load complete
+[22:16:07] [Quest] (Scroll of Emperor) Load : Index 0, SubInfoCount 2
+[22:16:07] [Quest] (Three Treasures of Mu) Load : Index 1, SubInfoCount 4
+[22:16:07] [Quest] (Hero Status) Load : Index 2, SubInfoCount 2
+[22:16:07] [Quest] (Secret 'Dark Stone) Load : Index 3, SubInfoCount 1
+[22:16:07] [Quest] (Certificate of Strength!) Load : Index 4, SubInfoCount 9
+[22:16:07] [Quest] (Infiltration of Barracks of Ballgass!) Load : Index 5, SubInfoCount 3
+[22:16:07] [Quest] (Infiltration of Barracks of Refuge!) Load : Index 6, SubInfoCount 1
+[22:16:07] [Quest] [SetQuestItem] Scroll of Emperor
+[22:16:07] [Quest] [SetQuestItem] Scroll of Emperor
+[22:16:07] [Quest] [SetQuestItem] Broken Sword
+[22:16:07] [Quest] [SetQuestItem] Tear of Elf
+[22:16:07] [Quest] [SetQuestItem] Soul Shard of Wizard
+[22:16:07] [Quest] [SetQuestItem] 
+[22:16:07] [Quest] [SetQuestItem] Scroll of Emperor
+[22:16:07] [Quest] [SetQuestItem] Scroll of Emperor
+[22:16:07] [Quest] [SetQuestItem] Broken Sword
+[22:16:07] [Quest] [SetQuestItem] Death-beam Knight Flame
+[22:16:07] [Quest] [SetQuestItem] Hell-Miner Horn
+[22:16:07] [Quest] [SetQuestItem] Dark Phoenix Feather
+[22:16:07] [Quest] [SetQuestItem] Death-beam Knight Flame
+[22:16:07] [Quest] [SetQuestItem] Hell-Miner Horn
+[22:16:07] [Quest] [SetQuestItem] Dark Phoenix Feather
+[22:16:07] [Quest] [SetQuestItem] Death-beam Knight Flame
+[22:16:07] [Quest] [SetQuestItem] Hell-Miner Horn
+[22:16:07] [Quest] [SetQuestItem] Dark Phoenix Feather
+[22:16:07] [Monster Element] - ..\data\Monsters\MonsterSkillElement.txt file is Loaded
+[22:16:07] [Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (14)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (11)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (23)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (16)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (13)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (4)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (24)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (25)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (26)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (27)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (28)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (29)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (30)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (31)(Monster Skill Elemen)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (32)(Monster Skill Elemen )
+[22:16:07] [Monster Skill Unit] - Found SkillElement (33)(Monster Skill Elemen!)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (34)(Monster Skill Elemen")
+[22:16:07] [Monster Skill Unit] - Found SkillElement (35)(Monster Skill Elemen#)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (36)(Monster Skill Elemen$)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (37)(Monster Skill Elemen%)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (38)(Monster Skill Elemen&)
+[22:16:07] [Monster Skill Unit] - Found SkillElement (39)(Monster Skill Elemen')
+[22:16:07] [Monster Skill Unit] - Found SkillElement (40)(Monster Skill Elemen()
+[22:16:07] [Monster Skill Unit] - Found SkillElement (41)(Monster Skill Elemen))
+[22:16:07] [Monster Skill Unit] - Found SkillElement (42)(Monster Skill Elemen*)
+[22:16:07] [Monster Skill Unit] - ..\data\Monsters\MonsterSkillUnit.txt file is Loaded
+[22:16:07] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[22:16:07] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[22:16:07] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/388)
+[22:16:07] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[22:16:07] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[22:16:07] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/391)
+[22:16:07] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[22:16:07] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[22:16:07] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/394)
+[22:16:07] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[22:16:07] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[22:16:07] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/397)
+[22:16:07] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[22:16:07] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[22:16:07] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/400)
+[22:16:07] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=28) 
+[22:16:07] [Monster SkillUnit] FindSkillUnit() Error - (UnitNumber=27) 
+[22:16:07] [Monster Manager] - Invalid SkillInfo : MIndex(Liliputan/403)
+[22:16:07] [Monster AI Element] - ..\data\Monsters\MonsterAIElement.txt file is Loaded
+[22:16:07] [Monster AI MovePath ] - ..\data\MovePath_35.dat file is Loaded
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Treatment ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Treatment ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 1 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 2 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 3 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Summon -> General 1 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Summon -> General 2 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Summon -> General 3 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 3 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 1 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 2 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 3 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[22:16:07] [Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[22:16:07] [Monster AI Automata] - ..\data\Monsters\MonsterAutomata.txt file is Loaded
+[22:16:07] [Monster AI Automata] FindAutomata() Error - (AutomataNumber=13) 
+[22:16:07] [Monster AI Automata] FindAutomata() Error - (AutomataNumber=14) 
+[22:16:07] [Monster AI Unit] - ..\data\Monsters\MonsterAIUnit.txt file is Loaded
+[22:16:07] [Monster AI Rule ] - ..\data\Monsters\MonsterAIRule.txt file is Loaded
+[22:16:07] [Monster AI Group ] - ..\data\Monsters\MonsterAIGroup.txt file is Loaded
+[22:16:07] [ Crywolf ] State (0) -> NONE
+[22:16:07] [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+[22:16:07] [Crywolf Main Job] - ..\data\Events\Crywolf.dat file is Loaded
+[22:16:07] [SkillAdditionalInfo] File Loaded Successfully
+[22:16:07] [Option] Required time to decrease Murderer-level : 1(s)
+[22:16:07] [Option] Monster HP 30% Down
+[22:16:07] [Option] Auto Looting Time Set : 3
+[22:16:07] [Option] Item drop rate : 10 %
+[22:16:07] [DevilSquare] Close
+[22:16:07] User Object Size = 4816
+[22:16:07] [ItemEventBag][Box Of Luck] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Star Of XMas] File Load Sucessfully!
+[22:16:07] [ItemEventBag][FireCracker] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Heart of Love] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Silver Medal] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Gold Medal] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Box Of Heaven] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Box Of Kundun +1] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Box Of Kundun +2] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Box Of Kundun +3] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Box Of Kundun +4] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Box Of Kundun +5] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Heart of Dark Lord] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Ribbon Red] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Ribbon Green] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Ribbon Blue] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Chocolate Pink] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Chocolate Red] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Chocolate Blue] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Death King] File Load Sucessfully!
+[22:16:07] [ItemEventBag][0] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Halloween] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Warrior Ring 40] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Warrior Ring 80] File Load Sucessfully!
+[22:16:07] [ItemEventBag][GameMaster Box] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Fortune Pounch Event Bag] File Load Sucessfully!
+[22:16:07] [ItemEventBag][DarkElf Event Bag] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Balgass Event Bag] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Chaos Card] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Medusa Box] File Load Sucessfully!
+[22:16:07] [ItemEventBag][HellMine Box] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Nix Box] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Ferea Box] File Load Sucessfully!
+[22:16:07] [ItemEventBag][LordSilver Box] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Magriffy Box] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Bronze Box] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Silver Box] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Gold Box] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Diamond Box] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Erohim Event Bag] File Load Sucessfully!
+[22:16:07] [ItemEventBag][CastleSiege Mix] File Load Sucessfully!
+[22:16:07] [ItemEventBag][Kundun Event Bag] File Load Sucessfully!
+[22:16:07] [ItemEventBagEx][BloodCastle 1] File Load Sucessfully!
+[22:16:07] [ItemEventBagEx][ChaosCastle 1] File Load Sucessfully!
+[22:16:07] [ItemEventBagEx][IllusionTemple 1] File Load Sucessfully!
+[22:16:07] [ItemEventBagEx][IllusionTemple 1 - MOB] File Load Sucessfully!
+[22:16:07] [ItemEventBagEx][DevilSquare 1] File Load Sucessfully!
+[22:16:07] [EventBags] Files Loadeds Successfully
+[22:16:07] ..\data\Events\DevilSquare.dat file load!
+[22:16:07] ..\data\Events\CastleDeepEvent.dat file load!
+[22:16:07] ..\data\Events\ChaosCastle.dat file load!
+[22:16:07] [CASHSHOP] Discount File loaded successfully!
+[22:16:07] Load: Category: 0, Count: 0 | 3 7238 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 1 | 3 7239 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 2 | 3 7240 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 3 | 3 7241 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 4 | 3 7242 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 5 | 3 7243 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 6 | 3 7244 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 7 | 3 7245 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 8 | 3 7246 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 9 | 3 7247 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 10 | 3 7248 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 11 | 3 7249 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 12 | 3 7250 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 13 | 3 7251 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 14 | 3 7221 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 15 | 3 7222 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 16 | 3 6699 0 0 0 0 0 0 0 3600 255 50
+[22:16:07] Load: Category: 0, Count: 17 | 3 6700 0 0 0 0 0 0 0 3600 255 50
+[22:16:07] Load: Category: 0, Count: 18 | 3 6701 0 0 0 0 0 0 0 3600 255 50
+[22:16:07] Load: Category: 0, Count: 19 | 3 6702 0 0 0 0 0 0 10 3600 255 50
+[22:16:07] Load: Category: 0, Count: 20 | 3 6703 0 0 0 0 0 0 10 3600 255 50
+[22:16:07] Load: Category: 0, Count: 21 | 3 6704 0 0 0 0 0 0 10 3600 255 50
+[22:16:07] Load: Category: 0, Count: 22 | 3 6717 0 0 0 0 0 0 10 3600 255 50
+[22:16:07] Load: Category: 0, Count: 23 | 3 6710 0 0 0 0 0 0 0 3600 255 50
+[22:16:07] Load: Category: 0, Count: 24 | 3 6711 0 0 0 0 0 0 100 3600 255 50
+[22:16:07] Load: Category: 0, Count: 25 | 3 6712 0 0 0 0 0 0 100 3600 255 50
+[22:16:07] Load: Category: 0, Count: 26 | 3 6713 0 0 0 0 0 0 100 3600 255 50
+[22:16:07] Load: Category: 0, Count: 27 | 3 6714 0 0 0 0 0 0 100 3600 255 50
+[22:16:07] Load: Category: 0, Count: 28 | 3 7262 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 29 | 3 7263 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 30 | 3 7264 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 31 | 3 7265 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 0, Count: 32 | 3 7266 0 0 0 0 0 0 1 3600 255 50
+[22:16:07] Load: Category: 1, Count: 512 | 1 0 13 0 1 7 63 0 72 0 255 350
+[22:16:07] Load: Category: 1, Count: 513 | 1 1 13 0 1 7 63 0 74 0 255 350
+[22:16:07] Load: Category: 1, Count: 514 | 1 2 13 0 1 7 63 5 75 0 255 350
+[22:16:07] Load: Category: 1, Count: 515 | 1 3 13 1 1 7 63 0 79 0 255 350
+[22:16:07] Load: Category: 1, Count: 516 | 1 4 13 1 1 7 63 0 76 0 255 350
+[22:16:07] Load: Category: 1, Count: 517 | 1 5 13 1 1 7 63 0 91 0 255 350
+[22:16:07] Load: Category: 1, Count: 518 | 1 6 13 1 1 7 63 0 82 0 255 350
+[22:16:07] Load: Category: 1, Count: 519 | 1 7 13 1 1 7 63 0 86 0 255 350
+[22:16:07] Load: Category: 1, Count: 520 | 1 8 13 1 1 7 63 0 88 0 255 350
+[22:16:07] Load: Category: 1, Count: 521 | 1 9 13 1 1 7 63 0 92 0 255 350
+[22:16:07] Load: Category: 1, Count: 522 | 1 10 13 1 1 7 63 0 102 0 255 350
+[22:16:07] Load: Category: 1, Count: 523 | 1 11 13 1 1 7 63 0 106 0 255 350
+[22:16:07] Load: Category: 1, Count: 524 | 1 12 13 1 1 7 63 0 118 0 255 350
+[22:16:07] Load: Category: 1, Count: 525 | 1 13 13 1 1 7 63 0 95 0 255 350
+[22:16:07] Load: Category: 1, Count: 526 | 1 14 13 1 1 7 63 5 102 0 255 350
+[22:16:07] Load: Category: 1, Count: 527 | 1 15 13 1 1 7 63 0 112 0 255 350
+[22:16:07] Load: Category: 1, Count: 528 | 1 16 13 1 1 7 63 0 136 0 255 350
+[22:16:07] Load: Category: 1, Count: 529 | 1 17 13 1 1 7 63 0 141 0 255 350
+[22:16:07] Load: Category: 1, Count: 530 | 1 18 13 1 1 7 63 0 138 0 255 350
+[22:16:07] Load: Category: 1, Count: 531 | 1 19 13 1 1 7 63 0 200 0 255 350
+[22:16:07] Load: Category: 1, Count: 532 | 1 20 13 1 1 7 63 0 142 0 255 350
+[22:16:07] Load: Category: 1, Count: 533 | 1 21 13 1 1 7 63 0 152 0 255 350
+[22:16:07] Load: Category: 1, Count: 534 | 1 22 13 1 1 7 63 0 147 0 255 350
+[22:16:07] Load: Category: 1, Count: 535 | 1 23 13 1 1 7 63 0 162 0 255 350
+[22:16:07] Load: Category: 1, Count: 536 | 1 24 13 1 1 7 63 0 142 0 255 350
+[22:16:07] Load: Category: 1, Count: 537 | 1 25 13 1 1 7 63 0 142 0 255 350
+[22:16:07] Load: Category: 1, Count: 538 | 1 31 13 1 1 7 63 0 145 0 255 350
+[22:16:07] Load: Category: 1, Count: 539 | 1 512 13 0 1 7 63 0 70 0 255 350
+[22:16:07] Load: Category: 1, Count: 540 | 1 513 13 0 1 7 63 0 72 0 255 350
+[22:16:07] Load: Category: 1, Count: 541 | 1 514 13 1 1 7 63 0 78 0 255 350
+[22:16:07] Load: Category: 1, Count: 542 | 1 515 13 1 1 7 63 0 80 0 255 350
+[22:16:07] Load: Category: 1, Count: 543 | 1 516 13 0 1 7 63 0 84 0 255 350
+[22:16:07] Load: Category: 1, Count: 544 | 1 517 13 1 1 7 63 0 88 0 255 350
+[22:16:07] Load: Category: 1, Count: 545 | 1 518 13 1 1 7 63 0 96 0 255 350
+[22:16:07] Load: Category: 1, Count: 546 | 1 519 13 1 1 7 63 0 107 0 255 350
+[22:16:07] Load: Category: 1, Count: 547 | 1 520 13 1 1 7 63 0 117 0 255 350
+[22:16:07] Load: Category: 1, Count: 548 | 1 1024 13 0 1 1 63 0 73 0 255 350
+[22:16:07] Load: Category: 1, Count: 549 | 1 1025 13 1 1 1 63 5 77 0 255 350
+[22:16:07] Load: Category: 1, Count: 550 | 1 1026 13 0 1 1 63 0 84 0 255 350
+[22:16:07] Load: Category: 1, Count: 551 | 1 1027 13 1 1 1 63 0 102 0 255 350
+[22:16:07] Load: Category: 1, Count: 552 | 1 1028 13 1 1 1 63 0 124 0 255 350
+[22:16:07] Load: Category: 1, Count: 553 | 1 1029 13 1 1 1 63 0 128 0 255 350
+[22:16:07] Load: Category: 1, Count: 554 | 1 1030 13 1 1 1 63 0 132 0 255 350
+[22:16:07] Load: Category: 1, Count: 555 | 1 1031 13 0 1 1 63 0 102 0 255 350
+[22:16:07] Load: Category: 1, Count: 556 | 1 1032 13 1 1 1 63 0 92 0 255 350
+[22:16:07] Load: Category: 1, Count: 557 | 1 1033 13 1 1 1 63 0 97 0 255 350
+[22:16:07] Load: Category: 1, Count: 558 | 1 1034 13 1 1 1 63 0 117 0 255 350
+[22:16:07] Load: Category: 1, Count: 559 | 1 1035 13 1 1 1 63 0 124 0 255 350
+[22:16:07] Load: Category: 1, Count: 560 | 1 1036 13 1 1 1 63 0 136 0 255 350
+[22:16:07] Load: Category: 1, Count: 561 | 1 1037 13 1 1 1 63 0 122 0 255 350
+[22:16:07] Load: Category: 1, Count: 562 | 1 1038 13 1 1 1 63 0 147 0 255 350
+[22:16:07] Load: Category: 1, Count: 563 | 1 1039 13 1 1 1 63 0 147 0 255 350
+[22:16:07] Load: Category: 1, Count: 564 | 1 1536 13 1 1 1 63 0 108 0 255 350
+[22:16:07] Load: Category: 1, Count: 565 | 1 1537 13 0 1 1 63 0 94 0 255 350
+[22:16:07] Load: Category: 1, Count: 566 | 1 1538 13 0 1 1 63 0 86 0 255 350
+[22:16:07] Load: Category: 1, Count: 567 | 1 1539 13 0 1 1 63 0 96 0 255 350
+[22:16:07] Load: Category: 1, Count: 568 | 1 1540 13 1 1 1 63 0 110 0 255 350
+[22:16:07] Load: Category: 1, Count: 569 | 1 1541 13 0 1 1 63 0 90 0 255 350
+[22:16:07] Load: Category: 1, Count: 570 | 1 1542 13 0 1 1 63 0 92 0 255 350
+[22:16:07] Load: Category: 1, Count: 571 | 1 1543 13 1 1 1 63 0 106 0 255 350
+[22:16:07] Load: Category: 1, Count: 572 | 1 1544 13 1 1 1 63 0 120 0 255 350
+[22:16:07] Load: Category: 1, Count: 573 | 1 1545 13 1 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 1, Count: 574 | 1 1546 13 1 1 1 63 0 137 0 255 350
+[22:16:07] Load: Category: 2, Count: 1024 | 1 2048 13 1 1 1 63 0 72 0 255 350
+[22:16:07] Load: Category: 2, Count: 1025 | 1 2049 13 1 1 1 63 0 76 0 255 350
+[22:16:07] Load: Category: 2, Count: 1026 | 1 2050 13 1 1 1 63 0 80 0 255 350
+[22:16:07] Load: Category: 2, Count: 1027 | 1 2051 13 1 1 1 63 0 88 0 255 350
+[22:16:07] Load: Category: 2, Count: 1028 | 1 2052 13 1 1 1 63 0 95 0 255 350
+[22:16:07] Load: Category: 2, Count: 1029 | 1 2053 13 1 1 1 63 5 100 0 255 350
+[22:16:07] Load: Category: 2, Count: 1030 | 1 2054 13 1 1 1 63 0 120 0 255 350
+[22:16:07] Load: Category: 2, Count: 1031 | 1 2055 13 0 1 1 63 0 255 0 255 350
+[22:16:07] Load: Category: 2, Count: 1032 | 1 2056 13 1 1 1 63 0 74 0 255 350
+[22:16:07] Load: Category: 2, Count: 1033 | 1 2057 13 1 1 1 63 5 78 0 255 350
+[22:16:07] Load: Category: 2, Count: 1034 | 1 2058 13 1 1 1 63 0 83 0 255 350
+[22:16:07] Load: Category: 2, Count: 1035 | 1 2059 13 1 1 1 63 0 92 0 255 350
+[22:16:07] Load: Category: 2, Count: 1036 | 1 2060 13 1 1 1 63 0 97 0 255 350
+[22:16:07] Load: Category: 2, Count: 1037 | 1 2061 13 1 1 1 63 0 108 0 255 350
+[22:16:07] Load: Category: 2, Count: 1038 | 1 2062 13 1 1 1 63 0 112 0 255 350
+[22:16:07] Load: Category: 2, Count: 1039 | 1 2063 13 0 1 1 63 0 255 0 255 350
+[22:16:07] Load: Category: 2, Count: 1040 | 1 2064 13 1 1 1 63 0 124 0 255 350
+[22:16:07] Load: Category: 2, Count: 1041 | 1 2065 13 1 1 1 63 0 128 0 255 350
+[22:16:07] Load: Category: 2, Count: 1042 | 1 2066 13 1 1 1 63 0 232 0 255 350
+[22:16:07] Load: Category: 2, Count: 1043 | 1 2067 13 1 1 1 63 0 132 0 255 350
+[22:16:07] Load: Category: 2, Count: 1044 | 1 2068 13 1 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 2, Count: 1045 | 1 2069 13 1 1 1 63 0 255 0 255 350
+[22:16:07] Load: Category: 2, Count: 1046 | 1 2070 13 1 1 1 63 0 255 0 255 350
+[22:16:07] Load: Category: 3, Count: 1536 | 1 2560 13 0 1 1 63 5 72 0 255 350
+[22:16:07] Load: Category: 3, Count: 1537 | 1 2561 13 0 1 1 63 0 90 0 255 350
+[22:16:07] Load: Category: 3, Count: 1538 | 1 2562 13 0 1 1 63 0 102 0 255 350
+[22:16:07] Load: Category: 3, Count: 1539 | 1 2563 13 0 1 1 63 0 112 0 255 350
+[22:16:07] Load: Category: 3, Count: 1540 | 1 2564 13 0 1 1 63 0 117 0 255 350
+[22:16:07] Load: Category: 3, Count: 1541 | 1 2565 13 0 1 1 63 0 118 0 255 350
+[22:16:07] Load: Category: 3, Count: 1542 | 1 2566 13 0 1 1 63 0 122 0 255 350
+[22:16:07] Load: Category: 3, Count: 1543 | 1 2567 13 0 1 1 63 0 122 0 255 350
+[22:16:07] Load: Category: 3, Count: 1544 | 1 2568 13 0 1 1 63 0 137 0 255 350
+[22:16:07] Load: Category: 3, Count: 1545 | 1 2569 13 0 1 1 63 0 143 0 255 350
+[22:16:07] Load: Category: 3, Count: 1546 | 1 2570 13 0 1 1 63 0 214 0 255 350
+[22:16:07] Load: Category: 3, Count: 1547 | 1 2571 13 0 1 1 63 0 147 0 255 350
+[22:16:07] Load: Category: 3, Count: 1548 | 1 2572 13 0 1 1 63 0 152 0 255 350
+[22:16:07] Load: Category: 3, Count: 1549 | 1 2573 13 0 1 1 63 0 152 0 255 350
+[22:16:07] Load: Category: 4, Count: 2048 | 1 3072 13 0 1 1 63 0 74 0 255 350
+[22:16:07] Load: Category: 4, Count: 2049 | 1 3073 13 0 1 1 63 0 80 0 255 350
+[22:16:07] Load: Category: 4, Count: 2050 | 1 3074 13 0 1 1 63 0 84 0 255 350
+[22:16:07] Load: Category: 4, Count: 2051 | 1 3075 13 0 1 1 63 0 88 0 255 350
+[22:16:07] Load: Category: 4, Count: 2052 | 1 3076 13 1 1 1 63 0 76 0 255 350
+[22:16:07] Load: Category: 4, Count: 2053 | 1 3077 13 1 1 1 63 0 96 0 255 350
+[22:16:07] Load: Category: 4, Count: 2054 | 1 3078 13 1 1 1 63 5 86 0 255 350
+[22:16:07] Load: Category: 4, Count: 2055 | 1 3079 13 1 1 1 63 0 92 0 255 350
+[22:16:07] Load: Category: 4, Count: 2056 | 1 3080 13 1 1 1 63 0 98 0 255 350
+[22:16:07] Load: Category: 4, Count: 2057 | 1 3081 13 1 1 1 63 5 90 0 255 350
+[22:16:07] Load: Category: 4, Count: 2058 | 1 3082 13 1 1 1 63 0 87 0 255 350
+[22:16:07] Load: Category: 4, Count: 2059 | 1 3083 13 1 1 1 63 0 100 0 255 350
+[22:16:07] Load: Category: 4, Count: 2060 | 1 3084 13 1 1 1 63 0 104 0 255 350
+[22:16:07] Load: Category: 4, Count: 2061 | 1 3085 13 1 1 1 63 0 112 0 255 350
+[22:16:07] Load: Category: 4, Count: 2062 | 1 3086 13 0 1 1 63 0 102 0 255 350
+[22:16:07] Load: Category: 4, Count: 2063 | 1 3087 13 0 1 1 63 0 107 0 255 350
+[22:16:07] Load: Category: 4, Count: 2064 | 1 3088 13 0 1 1 63 0 103 0 255 350
+[22:16:07] Load: Category: 5, Count: 2560 | 1 3585 13 0 1 1 63 5 120 0 255 350
+[22:16:07] Load: Category: 5, Count: 2561 | 1 3586 13 0 1 1 63 5 80 0 255 350
+[22:16:07] Load: Category: 5, Count: 2562 | 1 3587 13 0 1 1 63 5 94 0 255 350
+[22:16:07] Load: Category: 5, Count: 2563 | 1 3588 13 0 1 1 63 0 82 0 255 350
+[22:16:07] Load: Category: 5, Count: 2564 | 1 3589 13 0 1 1 63 5 82 0 255 350
+[22:16:07] Load: Category: 5, Count: 2565 | 1 3590 13 0 1 1 63 5 92 0 255 350
+[22:16:07] Load: Category: 5, Count: 2566 | 1 3591 13 0 1 1 63 5 88 0 255 350
+[22:16:07] Load: Category: 5, Count: 2567 | 1 3592 13 0 1 1 63 0 96 0 255 350
+[22:16:07] Load: Category: 5, Count: 2568 | 1 3593 13 0 1 1 63 0 102 0 255 350
+[22:16:07] Load: Category: 5, Count: 2569 | 1 3594 13 0 1 1 63 5 74 0 255 350
+[22:16:07] Load: Category: 5, Count: 2570 | 1 3595 13 0 1 1 63 5 78 0 255 350
+[22:16:07] Load: Category: 5, Count: 2571 | 1 3596 13 0 1 1 63 5 84 0 255 350
+[22:16:07] Load: Category: 5, Count: 2572 | 1 3597 13 0 1 1 63 0 90 0 255 350
+[22:16:07] Load: Category: 5, Count: 2573 | 1 3598 13 0 1 1 63 0 97 0 255 350
+[22:16:07] Load: Category: 5, Count: 2574 | 1 3600 13 0 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 5, Count: 2575 | 1 3601 13 0 1 1 63 0 132 0 255 350
+[22:16:07] Load: Category: 5, Count: 2576 | 1 3602 13 0 1 1 63 0 119 0 255 350
+[22:16:07] Load: Category: 5, Count: 2577 | 1 3603 13 0 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 5, Count: 2578 | 1 3605 13 0 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 5, Count: 2579 | 1 3606 13 0 1 1 63 0 127 0 255 350
+[22:16:07] Load: Category: 5, Count: 2580 | 1 3608 13 0 1 1 63 0 132 0 255 350
+[22:16:07] Load: Category: 5, Count: 2581 | 1 3609 13 0 1 1 63 0 94 0 255 350
+[22:16:07] Load: Category: 5, Count: 2582 | 1 3610 13 0 1 1 63 0 108 0 255 350
+[22:16:07] Load: Category: 5, Count: 2583 | 1 3611 13 0 1 1 63 0 122 0 255 350
+[22:16:07] Load: Category: 5, Count: 2584 | 1 3612 13 0 1 1 63 0 130 0 255 350
+[22:16:07] Load: Category: 5, Count: 2585 | 1 3613 13 0 1 1 63 0 142 0 255 350
+[22:16:07] Load: Category: 5, Count: 2586 | 1 3614 13 0 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 5, Count: 2587 | 1 3615 13 0 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 5, Count: 2588 | 1 3617 13 0 1 1 63 0 134 0 255 350
+[22:16:07] Load: Category: 5, Count: 2589 | 1 3618 13 0 1 1 63 0 124 0 255 350
+[22:16:07] Load: Category: 5, Count: 2590 | 1 3619 13 0 1 1 63 0 106 0 255 350
+[22:16:07] Load: Category: 5, Count: 2591 | 1 3620 13 0 1 1 63 0 111 0 255 350
+[22:16:07] Load: Category: 5, Count: 2592 | 1 3622 13 0 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 6, Count: 3072 | 1 4096 13 0 1 1 63 9 86 0 255 350
+[22:16:07] Load: Category: 6, Count: 3073 | 1 4097 13 0 1 1 63 0 120 0 255 350
+[22:16:07] Load: Category: 6, Count: 3074 | 1 4098 13 0 1 1 63 9 80 0 255 350
+[22:16:07] Load: Category: 6, Count: 3075 | 1 4099 13 0 1 1 63 9 94 0 255 350
+[22:16:07] Load: Category: 6, Count: 3076 | 1 4100 13 0 1 1 63 9 82 0 255 350
+[22:16:07] Load: Category: 6, Count: 3077 | 1 4101 13 0 1 1 63 9 82 0 255 350
+[22:16:07] Load: Category: 6, Count: 3078 | 1 4102 13 0 1 1 63 9 92 0 255 350
+[22:16:07] Load: Category: 6, Count: 3079 | 1 4103 13 0 1 1 63 9 88 0 255 350
+[22:16:07] Load: Category: 6, Count: 3080 | 1 4104 13 0 1 1 63 9 96 0 255 350
+[22:16:07] Load: Category: 6, Count: 3081 | 1 4105 13 0 1 1 63 9 102 0 255 350
+[22:16:07] Load: Category: 6, Count: 3082 | 1 4106 13 0 1 1 63 0 74 0 255 350
+[22:16:07] Load: Category: 6, Count: 3083 | 1 4107 13 0 1 1 63 9 78 0 255 350
+[22:16:07] Load: Category: 6, Count: 3084 | 1 4108 13 0 1 1 63 9 84 0 255 350
+[22:16:07] Load: Category: 6, Count: 3085 | 1 4109 13 0 1 1 63 9 90 0 255 350
+[22:16:07] Load: Category: 6, Count: 3086 | 1 4110 13 0 1 1 63 9 97 0 255 350
+[22:16:07] Load: Category: 6, Count: 3087 | 1 4111 13 0 1 1 63 9 132 0 255 350
+[22:16:07] Load: Category: 6, Count: 3088 | 1 4112 13 0 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 6, Count: 3089 | 1 4113 13 0 1 1 63 0 132 0 255 350
+[22:16:07] Load: Category: 6, Count: 3090 | 1 4114 13 0 1 1 63 0 119 0 255 350
+[22:16:07] Load: Category: 6, Count: 3091 | 1 4115 13 0 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 6, Count: 3092 | 1 4116 13 0 1 1 63 0 134 0 255 350
+[22:16:07] Load: Category: 6, Count: 3093 | 1 4117 13 0 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 6, Count: 3094 | 1 4118 13 0 1 1 63 0 127 0 255 350
+[22:16:07] Load: Category: 6, Count: 3095 | 1 4119 13 0 1 1 63 0 142 0 255 350
+[22:16:07] Load: Category: 6, Count: 3096 | 1 4120 13 0 1 1 63 0 132 0 255 350
+[22:16:07] Load: Category: 6, Count: 3097 | 1 4121 13 0 1 1 63 0 94 0 255 350
+[22:16:07] Load: Category: 6, Count: 3098 | 1 4122 13 0 1 1 63 0 108 0 255 350
+[22:16:07] Load: Category: 6, Count: 3099 | 1 4123 13 0 1 1 63 0 122 0 255 350
+[22:16:07] Load: Category: 6, Count: 3100 | 1 4124 13 0 1 1 63 0 130 0 255 350
+[22:16:07] Load: Category: 6, Count: 3101 | 1 4125 13 0 1 1 63 0 142 0 255 350
+[22:16:07] Load: Category: 6, Count: 3102 | 1 4126 13 0 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 6, Count: 3103 | 1 4127 13 0 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 6, Count: 3104 | 1 4128 13 0 1 1 63 0 147 0 255 350
+[22:16:07] Load: Category: 6, Count: 3105 | 1 4129 13 0 1 1 63 0 134 0 255 350
+[22:16:07] Load: Category: 6, Count: 3106 | 1 4130 13 0 1 1 63 0 124 0 255 350
+[22:16:07] Load: Category: 6, Count: 3107 | 1 4131 13 0 1 1 63 0 106 0 255 350
+[22:16:07] Load: Category: 6, Count: 3108 | 1 4132 13 0 1 1 63 0 111 0 255 350
+[22:16:07] Load: Category: 6, Count: 3109 | 1 4133 13 0 1 1 63 0 133 0 255 350
+[22:16:07] Load: Category: 6, Count: 3110 | 1 4134 13 0 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 7, Count: 3584 | 1 4608 13 0 1 1 63 6 86 0 255 350
+[22:16:07] Load: Category: 7, Count: 3585 | 1 4609 13 0 1 1 63 0 120 0 255 350
+[22:16:07] Load: Category: 7, Count: 3586 | 1 4610 13 0 1 1 63 6 80 0 255 350
+[22:16:07] Load: Category: 7, Count: 3587 | 1 4611 13 0 1 1 63 0 94 0 255 350
+[22:16:07] Load: Category: 7, Count: 3588 | 1 4612 13 0 1 1 63 6 82 0 255 350
+[22:16:07] Load: Category: 7, Count: 3589 | 1 4613 13 0 1 1 63 6 82 0 255 350
+[22:16:07] Load: Category: 7, Count: 3590 | 1 4614 13 0 1 1 63 6 92 0 255 350
+[22:16:07] Load: Category: 7, Count: 3591 | 1 4615 13 0 1 1 63 6 88 0 255 350
+[22:16:07] Load: Category: 7, Count: 3592 | 1 4616 13 0 1 1 63 6 96 0 255 350
+[22:16:07] Load: Category: 7, Count: 3593 | 1 4617 13 0 1 1 63 0 102 0 255 350
+[22:16:07] Load: Category: 7, Count: 3594 | 1 4618 13 0 1 1 63 6 74 0 255 350
+[22:16:07] Load: Category: 7, Count: 3595 | 1 4619 13 0 1 1 63 6 78 0 255 350
+[22:16:07] Load: Category: 7, Count: 3596 | 1 4620 13 0 1 1 63 6 84 0 255 350
+[22:16:07] Load: Category: 7, Count: 3597 | 1 4621 13 0 1 1 63 6 90 0 255 350
+[22:16:07] Load: Category: 7, Count: 3598 | 1 4622 13 0 1 1 63 0 97 0 255 350
+[22:16:07] Load: Category: 7, Count: 3599 | 1 4621 13 0 1 1 63 6 90 0 255 350
+[22:16:07] Load: Category: 7, Count: 3600 | 1 4624 13 0 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 7, Count: 3601 | 1 4625 13 0 1 1 63 0 132 0 255 350
+[22:16:07] Load: Category: 7, Count: 3602 | 1 4626 13 0 1 1 63 0 119 0 255 350
+[22:16:07] Load: Category: 7, Count: 3603 | 1 4627 13 0 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 7, Count: 3604 | 1 4628 13 0 1 1 63 0 134 0 255 350
+[22:16:07] Load: Category: 7, Count: 3605 | 1 4629 13 0 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 7, Count: 3606 | 1 4630 13 0 1 1 63 0 127 0 255 350
+[22:16:07] Load: Category: 7, Count: 3607 | 1 4631 13 0 1 1 63 0 142 0 255 350
+[22:16:07] Load: Category: 7, Count: 3608 | 1 4632 13 0 1 1 63 0 132 0 255 350
+[22:16:07] Load: Category: 7, Count: 3609 | 1 4633 13 0 1 1 63 0 94 0 255 350
+[22:16:07] Load: Category: 7, Count: 3610 | 1 4634 13 0 1 1 63 0 108 0 255 350
+[22:16:07] Load: Category: 7, Count: 3611 | 1 4635 13 0 1 1 63 0 122 0 255 350
+[22:16:07] Load: Category: 7, Count: 3612 | 1 4636 13 0 1 1 63 0 130 0 255 350
+[22:16:07] Load: Category: 7, Count: 3613 | 1 4637 13 0 1 1 63 0 142 0 255 350
+[22:16:07] Load: Category: 7, Count: 3614 | 1 4638 13 0 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 7, Count: 3615 | 1 4639 13 0 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 7, Count: 3616 | 1 4640 13 0 1 1 63 0 147 0 255 350
+[22:16:07] Load: Category: 7, Count: 3617 | 1 4641 13 0 1 1 63 0 134 0 255 350
+[22:16:07] Load: Category: 7, Count: 3618 | 1 4642 13 0 1 1 63 0 124 0 255 350
+[22:16:07] Load: Category: 7, Count: 3619 | 1 4643 13 0 1 1 63 0 106 0 255 350
+[22:16:07] Load: Category: 7, Count: 3620 | 1 4644 13 0 1 1 63 0 111 0 255 350
+[22:16:07] Load: Category: 7, Count: 3621 | 1 4645 13 0 1 1 63 0 133 0 255 350
+[22:16:07] Load: Category: 7, Count: 3622 | 1 4646 13 0 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 8, Count: 4096 | 1 5120 13 0 1 1 63 0 86 0 255 350
+[22:16:07] Load: Category: 8, Count: 4097 | 1 5121 13 0 1 1 63 10 120 0 255 350
+[22:16:07] Load: Category: 8, Count: 4098 | 1 5122 13 0 1 1 63 10 80 0 255 350
+[22:16:07] Load: Category: 8, Count: 4099 | 1 5123 13 0 1 1 63 10 94 0 255 350
+[22:16:07] Load: Category: 8, Count: 4100 | 1 5124 13 0 1 1 63 0 82 0 255 350
+[22:16:07] Load: Category: 8, Count: 4101 | 1 5125 13 0 1 1 63 10 82 0 255 350
+[22:16:07] Load: Category: 8, Count: 4102 | 1 5126 13 0 1 1 63 0 92 0 255 350
+[22:16:07] Load: Category: 8, Count: 4103 | 1 5127 13 0 1 1 63 10 88 0 255 350
+[22:16:07] Load: Category: 8, Count: 4104 | 1 5128 13 0 1 1 63 10 96 0 255 350
+[22:16:07] Load: Category: 8, Count: 4105 | 1 5129 13 0 1 1 63 10 102 0 255 350
+[22:16:07] Load: Category: 8, Count: 4106 | 1 5130 13 0 1 1 63 10 74 0 255 350
+[22:16:07] Load: Category: 8, Count: 4107 | 1 5131 13 0 1 1 63 10 78 0 255 350
+[22:16:07] Load: Category: 8, Count: 4108 | 1 5132 13 0 1 1 63 10 84 0 255 350
+[22:16:07] Load: Category: 8, Count: 4109 | 1 5133 13 0 1 1 63 10 90 0 255 350
+[22:16:07] Load: Category: 8, Count: 4110 | 1 5134 13 0 1 1 63 10 97 0 255 350
+[22:16:07] Load: Category: 8, Count: 4111 | 1 5135 13 0 1 1 63 0 132 0 255 350
+[22:16:07] Load: Category: 8, Count: 4112 | 1 5136 13 0 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 8, Count: 4113 | 1 5137 13 0 1 1 63 0 132 0 255 350
+[22:16:07] Load: Category: 8, Count: 4114 | 1 5138 13 0 1 1 63 0 119 0 255 350
+[22:16:07] Load: Category: 8, Count: 4115 | 1 5139 13 0 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 8, Count: 4116 | 1 5140 13 0 1 1 63 0 134 0 255 350
+[22:16:07] Load: Category: 8, Count: 4117 | 1 5141 13 0 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 8, Count: 4118 | 1 5142 13 0 1 1 63 0 127 0 255 350
+[22:16:07] Load: Category: 8, Count: 4119 | 1 5143 13 0 1 1 63 0 142 0 255 350
+[22:16:07] Load: Category: 8, Count: 4120 | 1 5144 13 0 1 1 63 0 132 0 255 350
+[22:16:07] Load: Category: 8, Count: 4121 | 1 5145 13 0 1 1 63 0 94 0 255 350
+[22:16:07] Load: Category: 8, Count: 4122 | 1 5146 13 0 1 1 63 0 108 0 255 350
+[22:16:07] Load: Category: 8, Count: 4123 | 1 5147 13 0 1 1 63 0 122 0 255 350
+[22:16:07] Load: Category: 8, Count: 4124 | 1 5148 13 0 1 1 63 0 130 0 255 350
+[22:16:07] Load: Category: 8, Count: 4125 | 1 5149 13 0 1 1 63 0 142 0 255 350
+[22:16:07] Load: Category: 8, Count: 4126 | 1 5150 13 0 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 8, Count: 4127 | 1 5151 13 0 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 8, Count: 4128 | 1 5152 13 0 1 1 63 0 147 0 255 350
+[22:16:07] Load: Category: 8, Count: 4129 | 1 5153 13 0 1 1 63 0 134 0 255 350
+[22:16:07] Load: Category: 8, Count: 4130 | 1 5154 13 0 1 1 63 0 124 0 255 350
+[22:16:07] Load: Category: 8, Count: 4131 | 1 5155 13 0 1 1 63 0 106 0 255 350
+[22:16:07] Load: Category: 8, Count: 4132 | 1 5156 13 0 1 1 63 0 111 0 255 350
+[22:16:07] Load: Category: 8, Count: 4133 | 1 5157 13 0 1 1 63 0 133 0 255 350
+[22:16:07] Load: Category: 8, Count: 4134 | 1 5158 13 0 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 9, Count: 4608 | 1 5632 13 0 1 1 63 5 86 0 255 350
+[22:16:07] Load: Category: 9, Count: 4609 | 1 5633 13 0 1 1 63 5 120 0 255 350
+[22:16:07] Load: Category: 9, Count: 4610 | 1 5634 13 0 1 1 63 0 80 0 255 350
+[22:16:07] Load: Category: 9, Count: 4611 | 1 5635 13 0 1 1 63 0 94 0 255 350
+[22:16:07] Load: Category: 9, Count: 4612 | 1 5636 13 0 1 1 63 5 82 0 255 350
+[22:16:07] Load: Category: 9, Count: 4613 | 1 5637 13 0 1 1 63 9 82 0 255 350
+[22:16:07] Load: Category: 9, Count: 4614 | 1 5638 13 0 1 1 63 0 92 0 255 350
+[22:16:07] Load: Category: 9, Count: 4615 | 1 5639 13 0 1 1 63 9 88 0 255 350
+[22:16:07] Load: Category: 9, Count: 4616 | 1 5640 13 0 1 1 63 9 96 0 255 350
+[22:16:07] Load: Category: 9, Count: 4617 | 1 5641 13 0 1 1 63 5 102 0 255 350
+[22:16:07] Load: Category: 9, Count: 4618 | 1 5642 13 0 1 1 63 5 74 0 255 350
+[22:16:07] Load: Category: 9, Count: 4619 | 1 5643 13 0 1 1 63 0 78 0 255 350
+[22:16:07] Load: Category: 9, Count: 4620 | 1 5644 13 0 1 1 63 5 84 0 255 350
+[22:16:07] Load: Category: 9, Count: 4621 | 1 5645 13 0 1 1 63 0 90 0 255 350
+[22:16:07] Load: Category: 9, Count: 4622 | 1 5646 13 0 1 1 63 9 97 0 255 350
+[22:16:07] Load: Category: 9, Count: 4623 | 1 5645 13 0 1 1 63 0 90 0 255 350
+[22:16:07] Load: Category: 9, Count: 4624 | 1 5648 13 0 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 9, Count: 4625 | 1 5649 13 0 1 1 63 0 132 0 255 350
+[22:16:07] Load: Category: 9, Count: 4626 | 1 5650 13 0 1 1 63 0 119 0 255 350
+[22:16:07] Load: Category: 9, Count: 4627 | 1 5651 13 0 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 9, Count: 4628 | 1 5652 13 0 1 1 63 0 134 0 255 350
+[22:16:07] Load: Category: 9, Count: 4629 | 1 5653 13 0 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 9, Count: 4630 | 1 5654 13 0 1 1 63 0 127 0 255 350
+[22:16:07] Load: Category: 9, Count: 4631 | 1 5655 13 0 1 1 63 0 142 0 255 350
+[22:16:07] Load: Category: 9, Count: 4632 | 1 5656 13 0 1 1 63 0 132 0 255 350
+[22:16:07] Load: Category: 9, Count: 4633 | 1 5657 13 0 1 1 63 0 94 0 255 350
+[22:16:07] Load: Category: 9, Count: 4634 | 1 5658 13 0 1 1 63 0 108 0 255 350
+[22:16:07] Load: Category: 9, Count: 4635 | 1 5659 13 0 1 1 63 0 122 0 255 350
+[22:16:07] Load: Category: 9, Count: 4636 | 1 5660 13 0 1 1 63 0 130 0 255 350
+[22:16:07] Load: Category: 9, Count: 4637 | 1 5661 13 0 1 1 63 0 142 0 255 350
+[22:16:07] Load: Category: 9, Count: 4638 | 1 5662 13 0 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 9, Count: 4639 | 1 5663 13 0 1 1 63 0 138 0 255 350
+[22:16:07] Load: Category: 9, Count: 4640 | 1 5664 13 0 1 1 63 0 147 0 255 350
+[22:16:07] Load: Category: 9, Count: 4641 | 1 5665 13 0 1 1 63 0 134 0 255 350
+[22:16:07] Load: Category: 9, Count: 4642 | 1 5666 13 0 1 1 63 0 124 0 255 350
+[22:16:07] Load: Category: 9, Count: 4643 | 1 5667 13 0 1 1 63 0 106 0 255 350
+[22:16:07] Load: Category: 9, Count: 4644 | 1 5668 13 0 1 1 63 0 111 0 255 350
+[22:16:07] Load: Category: 9, Count: 4645 | 1 5669 13 0 1 1 63 0 133 0 255 350
+[22:16:07] Load: Category: 9, Count: 4646 | 1 5670 13 0 1 1 63 0 126 0 255 350
+[22:16:07] Load: Category: 10, Count: 5120 | 1 6144 13 0 1 7 63 0 252 0 255 350
+[22:16:07] Load: Category: 10, Count: 5121 | 1 6145 13 0 1 7 63 0 252 0 255 350
+[22:16:07] Load: Category: 10, Count: 5122 | 1 6146 13 0 1 7 63 0 252 0 255 350
+[22:16:07] Load: Category: 10, Count: 5123 | 1 6147 13 0 1 7 63 0 232 0 255 350
+[22:16:07] Load: Category: 10, Count: 5124 | 1 6148 13 0 1 7 63 0 232 0 255 350
+[22:16:07] Load: Category: 10, Count: 5125 | 1 6149 13 0 1 7 63 0 232 0 255 350
+[22:16:07] Load: Category: 10, Count: 5126 | 1 6150 13 0 1 7 63 0 232 0 255 350
+[22:16:07] Load: Category: 11, Count: 5632 | 1 6664 13 0 2 7 63 5 102 0 255 350
+[22:16:07] Load: Category: 11, Count: 5633 | 1 6665 13 0 1 7 63 5 102 0 255 350
+[22:16:07] Load: Category: 11, Count: 5634 | 1 6677 13 0 1 7 63 5 102 0 255 350
+[22:16:07] Load: Category: 11, Count: 5635 | 1 6678 13 0 1 7 63 5 102 0 255 350
+[22:16:07] Load: Category: 11, Count: 5636 | 1 6679 13 0 1 7 63 5 102 0 255 350
+[22:16:07] Load: Category: 11, Count: 5637 | 1 6680 13 0 1 7 63 5 102 0 255 350
+[22:16:07] Load: Category: 11, Count: 5638 | 1 6668 13 0 1 7 63 9 102 0 255 350
+[22:16:07] Load: Category: 11, Count: 5639 | 1 6669 13 0 1 7 63 9 102 0 255 350
+[22:16:07] Load: Category: 11, Count: 5640 | 1 6681 13 0 1 7 63 9 102 0 255 350
+[22:16:07] Load: Category: 11, Count: 5641 | 1 6682 13 0 1 7 63 9 102 0 255 350
+[22:16:07] Load: Category: 11, Count: 5642 | 1 6683 13 0 1 7 63 9 102 0 255 350
+[22:16:07] Load: Category: 11, Count: 5643 | 1 6684 13 0 1 7 63 9 102 0 255 350
+[22:16:07] Load: Category: 12, Count: 6144 | 1 4096 13 0 1 7 63 10 86 0 255 350
+[22:16:07] Load: Category: 12, Count: 6145 | 1 4608 13 0 1 7 63 10 86 0 255 350
+[22:16:07] Load: Category: 12, Count: 6146 | 1 5632 13 0 1 7 63 10 86 0 255 350
+[22:16:07] Load: Category: 12, Count: 6147 | 1 3585 13 0 1 7 63 10 120 0 255 350
+[22:16:07] Load: Category: 12, Count: 6148 | 1 5121 13 0 1 7 63 10 120 0 255 350
+[22:16:07] Load: Category: 12, Count: 6149 | 1 5633 13 0 1 7 63 10 120 0 255 350
+[22:16:07] Load: Category: 12, Count: 6150 | 1 3586 13 0 1 7 63 10 80 0 255 350
+[22:16:07] Load: Category: 12, Count: 6151 | 1 4098 13 0 1 7 63 10 80 0 255 350
+[22:16:07] Load: Category: 12, Count: 6152 | 1 4610 13 0 1 7 63 10 80 0 255 350
+[22:16:07] Load: Category: 12, Count: 6153 | 1 5122 13 0 1 7 63 10 80 0 255 350
+[22:16:07] Load: Category: 12, Count: 6154 | 1 3587 13 0 1 7 63 10 94 0 255 350
+[22:16:07] Load: Category: 12, Count: 6155 | 1 4611 13 0 1 7 63 0 94 0 255 350
+[22:16:07] Load: Category: 12, Count: 6156 | 1 5123 13 0 1 7 63 10 94 0 255 350
+[22:16:07] Load: Category: 12, Count: 6157 | 1 5635 13 0 1 7 63 0 94 0 255 350
+[22:16:07] Load: Category: 12, Count: 6158 | 1 4100 13 0 1 7 63 10 82 0 255 350
+[22:16:07] Load: Category: 12, Count: 6159 | 1 4612 13 0 1 7 63 9 82 0 255 350
+[22:16:07] Load: Category: 12, Count: 6160 | 1 5636 13 0 1 7 63 9 82 0 255 350
+[22:16:07] Load: Category: 12, Count: 6161 | 1 3589 13 0 1 7 63 9 82 0 255 350
+[22:16:07] Load: Category: 12, Count: 6162 | 1 4101 13 0 1 7 63 9 82 0 255 350
+[22:16:07] Load: Category: 12, Count: 6163 | 1 4613 13 0 1 7 63 9 82 0 255 350
+[22:16:07] Load: Category: 12, Count: 6164 | 1 5125 13 0 1 7 63 5 82 0 255 350
+[22:16:07] Load: Category: 12, Count: 6165 | 1 5637 13 0 1 7 63 5 82 0 255 350
+[22:16:07] Load: Category: 12, Count: 6166 | 1 3590 13 0 1 7 63 5 92 0 255 350
+[22:16:07] Load: Category: 12, Count: 6167 | 1 4102 13 0 1 7 63 5 92 0 255 350
+[22:16:07] Load: Category: 12, Count: 6168 | 1 4614 13 0 1 7 63 5 92 0 255 350
+[22:16:07] Load: Category: 12, Count: 6169 | 1 4103 13 0 1 7 63 5 88 0 255 350
+[22:16:07] Load: Category: 12, Count: 6170 | 1 4615 13 0 1 7 63 5 88 0 255 350
+[22:16:07] Load: Category: 12, Count: 6171 | 1 5127 13 0 1 7 63 5 88 0 255 350
+[22:16:07] Load: Category: 12, Count: 6172 | 1 5639 13 0 1 7 63 5 88 0 255 350
+[22:16:07] Load: Category: 12, Count: 6173 | 1 4104 13 0 1 7 63 5 96 0 255 350
+[22:16:07] Load: Category: 12, Count: 6174 | 1 4616 13 0 1 7 63 5 96 0 255 350
+[22:16:07] Load: Category: 12, Count: 6175 | 1 5128 13 0 1 7 63 5 96 0 255 350
+[22:16:07] Load: Category: 12, Count: 6176 | 1 5640 13 0 1 7 63 5 96 0 255 350
+[22:16:07] Load: Category: 12, Count: 6177 | 1 4105 13 0 1 7 63 5 102 0 255 350
+[22:16:07] Load: Category: 12, Count: 6178 | 1 5129 13 0 1 7 63 5 102 0 255 350
+[22:16:07] Load: Category: 12, Count: 6179 | 1 5641 13 0 1 7 63 5 102 0 255 350
+[22:16:07] Load: Category: 12, Count: 6180 | 1 3594 13 0 1 7 63 5 74 0 255 350
+[22:16:07] Load: Category: 12, Count: 6181 | 1 4618 13 0 1 7 63 5 74 0 255 350
+[22:16:07] Load: Category: 12, Count: 6182 | 1 5130 13 0 1 7 63 9 74 0 255 350
+[22:16:07] Load: Category: 12, Count: 6183 | 1 5642 13 0 1 7 63 5 74 0 255 350
+[22:16:07] Load: Category: 12, Count: 6184 | 1 3595 13 0 1 7 63 5 78 0 255 350
+[22:16:07] Load: Category: 12, Count: 6185 | 1 4107 13 0 1 7 63 5 78 0 255 350
+[22:16:07] Load: Category: 12, Count: 6186 | 1 4619 13 0 1 7 63 5 78 0 255 350
+[22:16:07] Load: Category: 12, Count: 6187 | 1 5131 13 0 1 7 63 5 78 0 255 350
+[22:16:07] Load: Category: 12, Count: 6188 | 1 3596 13 0 1 7 63 5 84 0 255 350
+[22:16:07] Load: Category: 12, Count: 6189 | 1 4108 13 0 1 7 63 5 84 0 255 350
+[22:16:07] Load: Category: 12, Count: 6190 | 1 4620 13 0 1 7 63 5 84 0 255 350
+[22:16:07] Load: Category: 12, Count: 6191 | 1 5132 13 0 1 7 63 5 84 0 255 350
+[22:16:07] Load: Category: 12, Count: 6192 | 1 5644 13 0 1 7 63 9 84 0 255 350
+[22:16:07] Load: Category: 12, Count: 6193 | 1 4109 13 0 1 7 63 5 90 0 255 350
+[22:16:07] Load: Category: 12, Count: 6194 | 1 4621 13 0 1 7 63 5 90 0 255 350
+[22:16:07] Load: Category: 12, Count: 6195 | 1 5133 13 0 1 7 63 5 90 0 255 350
+[22:16:07] Load: Category: 12, Count: 6196 | 1 4110 13 0 1 7 63 5 97 0 255 350
+[22:16:07] Load: Category: 12, Count: 6197 | 1 5134 13 0 1 7 63 5 97 0 255 350
+[22:16:07] Load: Category: 12, Count: 6198 | 1 5646 13 0 1 7 63 5 97 0 255 350
+[22:16:07] Load: Category: 12, Count: 6199 | 1 4109 13 0 1 7 63 5 90 0 255 350
+[22:16:07] Load: Category: 12, Count: 6200 | 1 4621 13 0 1 7 63 5 90 0 255 350
+[22:16:07] Load: Category: 12, Count: 6201 | 1 5645 13 0 1 7 63 0 90 0 255 350
+[22:16:07] [CASHSHOP] Discount File loaded successfully!
+[22:16:07] [CalCharacter] File loaded successfully!
+[22:16:07] [CommandManager] File Loaded Successfully
+[22:16:07] [BlackList] Loaded Successfull!
+[22:16:07] [NPC Buffer] File loaded successfully!
+[22:16:07] [Damage Balance] File loaded successfully!
+[22:16:07] [CommandReset] File Loaded Successfully
+[22:16:07] [CommandMasterReset] File Loaded Successfully
+[22:16:07] [Jewel Upgrade] File loaded successfully!
+[22:16:07] [DropManager] File Loaded Successfully
+[22:16:07] [ChatCensure] File Loaded Successfully
+[22:16:07] [Command Auto Attack] File Loaded Successfully.
+[22:16:07] [NPC Shop] Reload Data Successfully!
+[22:16:07] error : Monster location setting error user.cpp 2752
+[22:16:07] error-L2 : 179 class : 0
+[22:16:08] [DevilSquare] Close
+[22:16:08] [DevilSquare] Sync Open Time. [223]min remain
+[22:16:08] [Chaos Castle] (1) Sync Start Time. [223] min remain
+[22:16:08] [Chaos Castle] (1) SetState CLOSED
+[22:16:08] [Chaos Castle] (2) Sync Start Time. [223] min remain
+[22:16:08] [Chaos Castle] (2) SetState CLOSED
+[22:16:08] [Chaos Castle] (3) Sync Start Time. [223] min remain
+[22:16:08] [Chaos Castle] (3) SetState CLOSED
+[22:16:08] [Chaos Castle] (4) Sync Start Time. [223] min remain
+[22:16:08] [Chaos Castle] (4) SetState CLOSED
+[22:16:08] [Chaos Castle] (5) Sync Start Time. [223] min remain
+[22:16:08] [Chaos Castle] (5) SetState CLOSED
+[22:16:08] [Chaos Castle] (6) Sync Start Time. [223] min remain
+[22:16:08] [Chaos Castle] (6) SetState CLOSED
+[22:16:08] [Virtual Drop] SetState BLANK
+[22:16:08] [Hide and Seek] SetState BLANK
+[22:16:08] [Moss Merchant] SetState BLANK
+[22:16:08] ..\data\Iplist.dat arquivo carregado!
+[22:16:08] [Invasion Manager][ White Wizard ] State END
+[22:16:08] [Invasion Manager][ Golden Invasion ] State END
+[22:16:08] [Invasion Manager][ Red Dragon ] State END
+[22:16:08] [Invasion Manager][ Skeleton King ] State END
+[22:16:08] [Invasion Manager][ Moon Rabbit ] State END
+[22:16:08] [Invasion Manager][ Moon Rabbit ] State END
+[22:16:08] [Invasion Manager][ Moon Rabbit ] State END
+[22:16:08] [Invasion Manager][ Moon Rabbit ] State END
+[22:16:08] LoginServer connect IP[ 127.0.0.1 ]
+[22:16:08] DataServer connect IP[ 127.0.0.1 ] PORT [ 55962 ]
+[22:16:08] DataServer connect IP[ 127.0.0.1 ] PORT [ 55960 ]
+[22:16:08] GameServer create PORT [ 55919 ]
+[22:16:09] [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+[22:16:09] [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2017-8-13)
+[22:16:09] [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (7-0-0)
+[22:16:09] [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2017-8-20(0:0:0)
+[22:16:09] [CastleSiege] CCastleSiege::Init() - START
+[22:16:09] [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+[22:16:09] [ Crywolf ] Incorrect DB OccupationState!!!
+[22:16:10] [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+[22:16:13] Active DB Change
+[22:16:13] Active DB Change
+[22:16:14] Active DB Change
+[22:16:14] Active DB Change
+[22:16:15] Active DB Change
+[22:16:15] Active DB Change
+[22:16:17] Whole connection closed
