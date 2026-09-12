@@ -1,0 +1,66 @@
+// -----------------------------------------------------------------------------
+// |#| TEAM: GxGaming | Meliodas - Supremo                 
+// |#| Email:contato@gxgaming.com.br                  
+// |#| https://gxgaming.com.br/              
+// |#| https://discord.com/invite/53v77eZ8YD 
+// |#| https://www.youtube.com/@gxgaming-d3q        
+// -----------------------------------------------------------------------------
+// # © 2010 - 2026 GxGaming Development
+// # This file is part of the GxGaming MuOnline Server files.
+// -----------------------------------------------------------------------------
+
+//---------------------------------------------------------------------------
+// [N]    [0/1]     [0/1]    [0~255]   [0~255]   [0~255]   [0~255]    [Nome]	
+// IdMap  3dCamera  MiniMap  FogColorR FogColorG FogColorB FogColorH  MapName	
+//---------------------------------------------------------------------------
+	0	  1	        0        0          0         0         0 	      "Lorencia"
+	1	  1	        0        0          0         0         0         "Dungeon"
+	2	  1	        0        0          0         0         0         "Devias"
+	3	  1	        0        0          0         0         0         "Noria"
+	4	  1	        0        0          0         0         0         "Lost Tower"
+	6	  1	        0        0          0         0         0         "Arena"
+	7	  1	        0        0          0         0         0         "Atlans"
+	8	  1	        0        0          0         0         0         "Tarkan"
+	9	  1	        0        0          0         0         0         "Devil Square 1"
+	10	  1	        0        0          0         0         0         "Icarus"
+	11	  1	        0        0          0         0         0         "Blood Castle 1"
+	12	  1	        0        0          0         0         0         "Blood Castle 2"
+	13	  1	        0        0          0         0         0         "Blood Castle 3"
+	14	  1	        0        0          0         0         0         "Blood Castle 4"
+	15	  1	        0        0          0         0         0         "Blood Castle 5"
+	16	  1	        0        0          0         0         0         "Blood Castle 6"
+	17	  1	        0        0          0         0         0         "Blood Castle 7"
+	18	  1	        0        0          0         0         0         "Chaos Castle 1"
+	19	  1	        0        0          0         0         0         "Chaos Castle 2"
+	20	  1	        0        0          0         0         0         "Chaos Castle 3"
+	21	  1	        0        0          0         0         0         "Chaos Castle 4"
+	22	  1	        0        0          0         0         0         "Chaos Castle 5"
+	23	  1	        0        0          0         0         0         "Chaos Castle 6"
+	24	  1	        0        0          0         0         0         "Kalima 1"
+	25	  1	        0        0          0         0         0         "Kalima 2"
+	26	  1	        0        0          0         0         0	      "Kalima 3"
+	27	  1	        0        0          0         0         0	      "Kalima 4"
+	28	  1	        0        0          0         0         0	      "Kalima 5"
+	29	  1	        0        0          0         0         0	      "Kalima 6"
+	30	  1	        0        0          0         0         0	      "Castle Siege"
+	31	  1	        0        0          0         0         0	      "Land of Trials"
+	32	  1	        0        0          0         0         0	      "Devil Square 2"
+	33	  1	        0        0          0         0         0	      "Aida"
+	34	  1	        0        0          0         0         0	      "Crywolf"
+	36	  1	        0        0          0         0         0	      "Kalima 7"
+	37	  1	        0        0          0         0         0	      "Kanturu 1"
+	38	  1	        0        0          0         0         0	      "Kanturu 2"
+	39	  1	        0        0          0         0         0	      "Kanturu 3"
+	40	  1	        0        0          0         0         0	      "Silent"
+	41	  1	        0        0          0         0         0	      "Barracks"
+	42	  1	        0        0          0         0         0	      "Refuge"
+	45	  1	        0        0          0         0         0	      "Illusion Temple 1"
+	46	  1	        0        0          0         0         0	      "Illusion Temple 2"
+	47	  1	        0        0          0         0         0	      "Illusion Temple 3"
+	48	  1	        0        0          0         0         0	      "Illusion Temple 4"
+	49	  1	        0        0          0         0         0	      "Illusion Temple 5"
+	50	  1	        0        0          0         0         0	      "Illusion Temple 6"
+	51	  1	        0        0          0         0         0	      "Elbeland"
+	52	  1	        0        0          0         0         0	      "Blood Castle 8"
+	53	  1	        0        0          0         0         0	      "Chaos Castle 7"
+end

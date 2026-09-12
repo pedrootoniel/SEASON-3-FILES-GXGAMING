@@ -1,0 +1,66 @@
+// -----------------------------------------------------------------------------
+// |#| TEAM: GxGaming | Meliodas - Supremo                 
+// |#| Email:contato@gxgaming.com.br                  
+// |#| https://gxgaming.com.br/              
+// |#| https://discord.com/invite/53v77eZ8YD 
+// |#| https://www.youtube.com/@gxgaming-d3q        
+// -----------------------------------------------------------------------------
+// # © 2010 - 2026 GxGaming Development
+// # This file is part of the GxGaming MuOnline Server files.
+// -----------------------------------------------------------------------------
+
+// -----------------------------------------------------------------------------
+// Index  ColorR   ColorG  ColorB					
+// -----------------------------------------------------------------------------
+	00	   200	   150	   000	// Bronze
+	01	   200	   060	   000	// Dragon
+	02	   200	   150	   000	// Pad
+	03	   000	   050	   200	// Legendary
+	04	   180	   180	   180	// Bone
+	05	   200	   150	   000	// Leather
+	06	   160	   180	   140	// Scale
+	07	   080	   070	   040	// Sphinx
+	08	   100	   050	   000	// Brass
+	09	   000	   050	   200	// Plate
+	10	   200	   150	   000	// Vine
+	11	   200	   150	   000	// Silk
+	12	   000	   050	   200	// Wind
+	13	   000	   080	   040	// Spirit
+	14	   100	   100	   100	// Guardian
+	15	   090	   080	   100	// Storm Crow
+	16	   075	   065	   050	// Black Dragon
+	17	   050	   050	   080	// Dark Phoenix
+	18	   232	   232	   232	// Grand Soul
+	19	   232	   232	   232	// Divine
+	20	   232	   232	   232	// Thunder Hawk
+	21	   080	   046	   025	// Great Dragon
+	22	   065	   045	   030	// Dark Soul
+	23	   232	   232	   232	// Hurricane
+	24	   080	   046	   025	// Red Sprit
+	25	   035	   035	   060	// Light Plate
+	26	   047	   067	   060	// Adamantine
+	27	   075	   065	   050	// Dark Steel
+	28	   020	   030	   060	// Dark Master
+
+	34	   060	   050	   020	// Ashcrow
+	35	   060	   060	   060	// Eclipse
+	36	   030	   070	   030	// Iris
+	37	   050	   060	   070	// Valiant
+	38	   045	   045	   023	// Glorious
+
+	29	   175	   86	   35	  // Dragon Knight Set
+	30	   25	   25	   229	  // Venom Mist Set
+	31	   0	   101	   81	  // Sylpid Ray Set
+	32	   127	   61	   204	  // Volcano Set
+	33	   163	   112	   0      // Sunlight Set
+
+//	100	   050	   050	   070	  // Titan
+//	101	   110	   070	   000	  // Brave
+//	102	   155	   080	   155	  // Phantom
+//	103	   100	   020	   000	  // Destroy
+//	104	   102     012     051	  // Seraphim
+//	105	   030	   060	   040	  // Divine
+//	106	   070	   020	   020	  // Royal
+//	107	   040	   040	   070	  // Hades
+
+end

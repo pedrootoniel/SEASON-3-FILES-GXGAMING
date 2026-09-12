@@ -1,0 +1,30 @@
+20:28:8  [admin][SuPreMo] Use Command ADD ZEN : 999999999
+20:31:2  [158599740][158599751] Use Auto Attack ON
+20:50:3  [155923820][155923831] Use Auto Attack ON
+20:50:8  [155923820][155923831] Use Auto Attack ON
+20:50:13  [155923820][155923831] Use Auto Attack ON
+21:43:0  [admin][SuPreMo] Use Command AUTOMATION (0) ON
+21:58:24  [admin][SuPreMo] Use Command AUTOMATION (0) ON
+21:58:41  [admin][SuPreMo] Use Command AUTOMATION (0) ON
+21:58:44  [admin][SuPreMo] Use Command AUTOMATION (0) ON
+21:58:49  [admin][SuPreMo] Use Command AUTOMATION (0) ON
+21:59:9  [admin][SuPreMo] Use Command AUTOMATION (0) OFF
+21:59:15  [admin][SuPreMo] Use Command AUTOMATION (0) OFF
+21:59:23  [admin][SuPreMo] Use Command AUTOMATION (0) ON
+22:16:14  [admin][SuPreMo] Use Command AUTOMATION (0) ON
+22:18:11  [admin][SuPreMo] Use Command AUTOMATION (0) ON
+22:33:51  [admin][SuPreMo] Use Command AUTOMATION (0) ON
+22:35:9  [admin][SuPreMo] Use Command AUTOMATION (0) ON
+22:36:11  [admin][SuPreMo] Use Command OPEN WAREHOUSE
+22:46:35  [admin][TESTE] Use Command ADD ZEN : 999999999
+22:47:21  [admin][TESTE] Use Command AUTOMATION (0) ON
+22:51:35  [supremo][MeliodasGa] Use Command AUTOMATION (0) ON
+22:52:20  [supremo][MeliodasGa] Use Command AUTOMATION (0) OFF
+22:53:4  [supremo][MeliodasGa] Use Command ADD POINTS: Type: 0 Points: 100
+22:53:11  [supremo][MeliodasGa] Use Command ADD POINTS: Type: 0 Points: 120
+22:53:17  [supremo][MeliodasGa] Use Command ADD POINTS: Type: 2 Points: 5
+22:53:22  [supremo][MeliodasGa] Use Command ADD POINTS: Type: 2 Points: 330
+22:53:42  [supremo][MeliodasGa] Use Command AUTOMATION (0) ON
+22:53:50  [admin][TESTE] Use Command ADD POINTS: Type: 0 Points: 300
+22:53:54  [admin][TESTE] Use Command ADD POINTS: Type: 2 Points: 245
+23:10:6  [admin][TESTE] Use Command AUTOMATION (0) ON

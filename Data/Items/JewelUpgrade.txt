@@ -1,0 +1,31 @@
+// -----------------------------------------------------------------------------
+// |#| TEAM: GxGaming | Meliodas - Supremo                 
+// |#| Email:contato@gxgaming.com.br                  
+// |#| https://gxgaming.com.br/              
+// |#| https://discord.com/invite/53v77eZ8YD 
+// |#| https://www.youtube.com/@gxgaming-d3q        
+// -----------------------------------------------------------------------------
+// # © 2010 - 2026 GxGaming Development
+// # This file is part of the GxGaming MuOnline Server files.
+// -----------------------------------------------------------------------------
+
+//---------------------------------------------------------------------------------------------------------------------------
+// [0]	:Id do item que vai ser aceito
+// [1]	:Type do item que vai ser aceito
+// [2]	:Level do item requerido
+// [3]	:Skill Requerido?
+// [4]	:Luck Requerido
+// [5]	:Numero de Add Life Requerido (0 - 7 )
+// [6]	:Quantidade de Add Excellent Requerido ( 0 - 6 )
+// [7]	:ID do item que vai virar
+// [8]	:Target do Item que vai virar
+// [9]	:[-1 Mantem] [0 - 15] Level do Item
+// [10]	:[-1 Mantem] [0 - 1] Add Skill
+// [11]	:[-1 Mantem] [0 - 1] Add Luck
+// [12]	:[-1 Mantem] [0 - 7 Add Life do Item]
+// [13]	:[-1 Mantem] [0 ~64 Add Exc do Item]
+//---------------------------------------------------------------------------------------------------------------------------
+// [0]   [1]   [2]   [3]   [4]   [5]   [6]   [7]   [8]   [9]   [10]   [11]   [12]   [13]
+//---------------------------------------------------------------------------------------------------------------------------
+	0	 0	   0	 0	   0	  0	    0	 0	   24	 -1	   -1	   -1	 -1	    -1
+end

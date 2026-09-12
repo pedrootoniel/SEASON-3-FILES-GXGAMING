@@ -1,0 +1,68 @@
+//==========================================================================================================
+//  QUEST 0001 - The Beginning of the Adventure
+//==========================================================================================================
+//
+//  Secao 0 = Cabecalho | Secao 1 = Textos | Secao 2 = Recompensa (exp/zen/coin)
+//  Secao 3 = Objetivos  | Secao 4 = Itens de recompensa
+//
+//==========================================================================================================
+
+
+//==========================================================================================================
+//  [0] Cabecalho
+//  "Nome"  LevelMin  LevelMax  ResetMin  ResetMax  DW  DK  ELF  MG  DL
+//  (Classe: 0 = desativa | 1 = permite. LevelMax/ResetMax altos = liberado para todos)
+//==========================================================================================================
+0
+	"The Beginning of the Adventure"	0	65000	0	65000	1	1	1	1	1
+end
+
+
+//==========================================================================================================
+//  [1] Textos exibidos no detalhe da quest    ( bloco  linha  "texto" )
+//
+//  bloco 0 = HISTORIA (parte de cima da janela)
+//  bloco 1 = OBJETIVO (aparece embaixo de "Objetivo:")  <-- escreva aqui o que o jogador deve fazer
+//==========================================================================================================
+1
+	0	0	"Ola, bravo guerreiro!"
+	0	1	"Bem-vindo ao nosso continente."
+	0	2	"Que tal conhecer nossos mercadores"
+	0	3	"e provar sua forca em batalha?"
+	0	4	" "
+	0	5	"Complete esta missao e sera"
+	0	6	"recompensado. Boa sorte!"
+
+	1	0	"Matar 10 Spiders em Lorencia"
+	1	1	"e 10 Budge Dragons."
+end
+
+
+//==========================================================================================================
+//  [2] Recompensa   ( experiencia  zen  coin1  coin2  coin3 )
+//==========================================================================================================
+2
+	25000	300000	10	0	0
+end
+
+
+//==========================================================================================================
+//  [3] Objetivos   ( index  tipo  param1  param2  param3  reward )
+//      tipo 2 = matar monstro:  param1 = Mapa | param2 = Index do Monstro | param3 = Quantidade
+//==========================================================================================================
+3
+	0	2	0	3	10	0
+	1	2	0	2	10	0
+end
+
+
+//==========================================================================================================
+//  [4] Itens de recompensa   ( estagio  classe  "descricao"  itemindex  level  skill  luck  option  dur  excellent )
+//
+//  itemindex = tipo*512 + index      (ex: Jewel of Bless = 14*512+13 = 7181 | Jewel of Soul = 7182)
+//  classe: 255 = todas | 0=DW  1=DK  2=ELF  3=MG  4=DL
+//  ate 5 itens por quest. Os itens caem no chao do jogador ao entregar.
+//==========================================================================================================
+4
+	0	255	"Jewel of Bless"	7181	0	0	0	0	0	0
+end

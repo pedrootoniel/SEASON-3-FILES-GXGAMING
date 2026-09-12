@@ -1,0 +1,42 @@
+// -----------------------------------------------------------------------------
+// |#| TEAM: GxGaming | Meliodas - Supremo                 
+// |#| Email:contato@gxgaming.com.br                  
+// |#| https://gxgaming.com.br/              
+// |#| https://discord.com/invite/53v77eZ8YD 
+// |#| https://www.youtube.com/@gxgaming-d3q        
+// -----------------------------------------------------------------------------
+// # © 2010 - 2026 GxGaming Development
+// # This file is part of the GxGaming MuOnline Server files.
+// -----------------------------------------------------------------------------
+
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------
+//	-- [] Default Character
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------
+// [0]	: Class do Personagem (Não altere)
+// [1]	: Level Up Points por Level
+// [2]	: Level Up Points Extra (Quest Marlon)
+// [3]	: Strength minimo do personagem
+// [4]	: Agility minimo do personagem
+// [5]	: Vitality minimo do personagem
+// [6]	: Energy minimo do personagem
+// [7]	: Leadership minimo do personagem
+// [8]	: Strength maximo do personagem
+// [9]	: Agility maximo do personagem
+// [10]	: Vitality maximo do personagem
+// [11]	: Energy maximo do personagem
+// [12]	: Leadership maximo do personagem
+// [13]	: Life default do personagem
+// [14]	: Mana default do personagem
+// [15]	: Quantidade de pontos em Life obtido por cada levelup
+// [16]	: Quantidade de pontos em Mana obtido por cada levelup
+// [17]	: Quantidade de pontos em Life obtido por cada ponto em vitality
+// [18]	: Quantidade de pontos em Mana obtido por cada ponto em energy
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------
+// [0] [1]	[2]	 [3]	[4]	 [5]	[6]	 [7]   [8]	    [9]	    [10]	[11]	[12]	[13]	[14]	[15]	[16]	[17]	[18]
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------
+	0	5	 0	 18	    18	 15	    30	 0	   32767	32767	32767	32767	32767	110.0	60.0	2.0	    2.0	    3.0	    2.0	  // Dark Wizard
+	1	5	 0	 28	    20	 25	    10	 0	   32767	32767	32767	32767	32767	110.0	60.0	2.0	    2.0	    3.0	    2.0	  // Dark Knight
+	2	5	 0	 22	    25	 20	    15	 0	   32767	32767	32767	32767	32767	110.0	60.0	2.0	    2.0	    3.0	    2.0	  // Fairy Elf
+	3	7	 0	 26	    26	 26	    26	 0	   32767	32767	32767	32767	32767	110.0	60.0	2.0	    2.0	    3.0	    2.0	  // Magic Gladiator
+	4	7	 0	 26	    20	 20	    15	 25	   32767	32767	32767	32767	32767	110.0	60.0	2.0	    2.0	    3.0	    2.0	  // Dark Lord
+end

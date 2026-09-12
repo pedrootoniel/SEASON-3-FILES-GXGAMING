@@ -1,0 +1,25 @@
+// -----------------------------------------------------------------------------
+// |#| TEAM: GxGaming | Meliodas - Supremo                 
+// |#| Email:contato@gxgaming.com.br                  
+// |#| https://gxgaming.com.br/              
+// |#| https://discord.com/invite/53v77eZ8YD 
+// |#| https://www.youtube.com/@gxgaming-d3q        
+// -----------------------------------------------------------------------------
+// # © 2010 - 2026 GxGaming Development
+// # This file is part of the GxGaming MuOnline Server files.
+// -----------------------------------------------------------------------------
+
+//----------------------------------------------------------------------------
+//	Authority code :
+// 	- Personagem com Autoridade entre 100 ~ 150 é considerado um Player Especial
+//	- Personagem com Autoridade entre 150 ~ 200 é considerado um GameMaster e Adquire Balão de GM
+//	- Personagem com Autoridade entre 200 ~ 250 é considerado um Adminstrador e Adquire Balão de GM
+// 	- Valores entre 4 ~100 Tornam o Personagem FREE Impossibilitando o mesmo de adquirir Vip
+// 	- Personagem com Valores entre 0 ~4 Emulam o Vip Eterno no personagem Impossibilitando o mesmo de adquirir Vip
+//----------------------------------------------------------------------------
+//	CharacterName			Authority Code
+//----------------------------------------------------------------------------
+	"SuPreMo"			      250
+	"Meliodas"			          250
+
+end

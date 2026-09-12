@@ -1,0 +1,24 @@
+[20:53:10] Starting GxGaming Data Emulator...
+[20:53:10] GxGaming Data Emulator Started on Port: 55960
+[20:53:10] SELECT * FROM Guild
+[20:53:10] SELECT * FROM GuildMember
+[20:53:18] GameServer start connection (127.0.0.1)
+[20:53:18] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:53:18] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:53:25] SELECT Id FROM AccountCharacter WHERE Id='admin'
+[20:53:25] SELECT * FROM AccountCharacter WHERE Id='admin'
+[20:53:25] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='SuPreMo'
+[20:53:25] SELECT G_Status FROM GuildMember WHERE Name='SuPreMo'
+[20:53:25] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='SMTEST'
+[20:53:25] SELECT G_Status FROM GuildMember WHERE Name='SMTEST'
+[20:53:25] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='TESTE'
+[20:53:25] SELECT G_Status FROM GuildMember WHERE Name='TESTE'
+[20:53:29] SELECT * FROM Character WHERE AccountID='admin' AND Name='SuPreMo'
+[20:53:29] UPDATE AccountCharacter SET GameIDC='SuPreMo' WHERE Id='admin'
+[20:53:29] SELECT WareCount, WareNumber FROM warehouse WHERE AccountID='admin'
+[20:53:29] SELECT * FROM OptionData WHERE Name='SuPreMo'
+[20:53:29] EXEC WZ_PeriodItemSelect 15, 'SuPreMo'
+[20:53:29] EXEC WZ_QMK_InfoLoad 'SuPreMo'
+[20:53:39] UPDATE Character SET cLevel=400,Class=19,LevelUpPoint=190,Experience=0,Strength=32000,Dexterity=32000,Vitality=32000,Energy=32000,Leadership=0,Inventory=?,MagicList=?,Money=692544070,Life=115793.000000,MaxLife=96833.000000,Mana=77729.000000,MaxMana=64838.000000,BP=33950.000000,MaxBP=52800.000000,Shield=165937.000000,MaxShield=165937.000000,MapNumber=6,MapPosX=64,MapPosY=110,MapDir=5,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitPoint=0, Reset=100, MasterReset=0, PlayerKillCount=PlayerKillCount+0, PlayerHeroCount=PlayerHeroCount+0 WHERE AccountID='admin' AND Name='SuPreMo'
+[20:53:40] UPDATE warehouse SET WareCount=5, WareNumber=0  WHERE AccountID='admin'
+[20:53:40] EXEC WZ_QMK_InfoSave 'SuPreMo', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1

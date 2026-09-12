@@ -1,0 +1,20 @@
+//==========================================================================================================
+//  -- [] Quest World - Gerenciador de Quests
+//==========================================================================================================
+//
+//  Formato de cada linha (lido pelo GameServer e pelo GXGMainConfig):
+//
+//    [0] Group   : Grupo da Quest  (1 ~ 49) - o NPC Quest Seller mostra 1 quest por grupo
+//    [1] Index   : Index da Quest dentro do grupo (0 ~ 39)
+//    [2] Arquivo : Nome do arquivo de configuracao da Quest (entre aspas)
+//
+//  NOTA: use grupos diferentes para que varias quests aparecam ao mesmo tempo no NPC 485.
+//
+//==========================================================================================================
+//  [0]  [1]  [2]
+//==========================================================================================================
+
+	1	0	"0001 - The Beginning of the Adventure.txt"
+	2	0	"0002 - The Beginning of the Adventure2.txt"
+
+end

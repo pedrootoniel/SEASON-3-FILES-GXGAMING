@@ -1,0 +1,25 @@
+// -----------------------------------------------------------------------------
+// |#| TEAM: GxGaming | Meliodas - Supremo                 
+// |#| Email:contato@gxgaming.com.br                  
+// |#| https://gxgaming.com.br/              
+// |#| https://discord.com/invite/53v77eZ8YD 
+// |#| https://www.youtube.com/@gxgaming-d3q        
+// -----------------------------------------------------------------------------
+// # © 2010 - 2026 GxGaming Development
+// # This file is part of the GxGaming MuOnline Server files.
+// -----------------------------------------------------------------------------
+
+// -----------------------------------------------------------------------------------------------------------
+// [00]  [000]    [0~13]      [0~255]      [0-1]         [0-1]        [0~7]       [0~63]      [Index]
+// Type  Index   ItemLevel   Durability   SkillSwitch   LuckSwitch   Aditional   Excellent   SetOption   Comment
+// -----------------------------------------------------------------------------------------------------------
+   14    003      7            255            0             0            0           0           0           //Large Healing Potion
+   14    006      7            255            0             0            0           0           0           //Large Mana Potion
+   14    008      7            255            0             0            0           0           0           //Antidote 
+   14    010      0            1              0             0            0           0           0           //Town Portal Scroll   
+   14    009      7            1              0             0            0           0           0           //Ale   
+   13    007      0            1             0              0            0           0           0           //Contract (Summon)
+   13    007      1            1             0              0            0           0           0           //Contract (Summon)
+   13    029      0            1             0              0            0           0           0           //Armor of Guardsman
+
+end

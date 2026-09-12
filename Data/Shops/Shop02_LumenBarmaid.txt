@@ -1,0 +1,35 @@
+// -----------------------------------------------------------------------------
+// |#| TEAM: GxGaming | Meliodas - Supremo                 
+// |#| Email:contato@gxgaming.com.br                  
+// |#| https://gxgaming.com.br/              
+// |#| https://discord.com/invite/53v77eZ8YD 
+// |#| https://www.youtube.com/@gxgaming-d3q        
+// -----------------------------------------------------------------------------
+// # © 2010 - 2026 GxGaming Development
+// # This file is part of the GxGaming MuOnline Server files.
+// -----------------------------------------------------------------------------
+
+// -----------------------------------------------------------------------------------------------------------
+// [00]  [000]    [0~13]      [0~255]      [0-1]         [0-1]        [0~7]       [0~63]      [Index]
+// Type  Index   ItemLevel   Durability   SkillSwitch   LuckSwitch   Aditional   Excellent   SetOption   Comment
+// -----------------------------------------------------------------------------------------------------------
+   14    040      7           255            0             0            0           0           0           //Large Complex Potion
+   14    006      7           255            0             0            0           0           0           //Large Mana Potion
+   14    008      7           255            0             0            0           0           0           //Antidote
+   14    023      0           0              0             0            0           0           0           //Quest Livro
+   13    046      0           10             0             0            0           0           0           //Devil Square Ticket   
+   13    047      0           10             0             0            0           0           0           //Blood Castle Ticket  
+   13    048      0           10             0             0            0           0           0           //Kalima Ticket  
+   13    061      0           10             0             0            0           0           0           //Illusion Temple Ticket   
+   14    025      0           0              0             0            0           0           0           //Quest Elf
+   14    026      0           0              0             0            0           0           0           //Quest SM
+   14    023      1           0              0             0            0           0           0           //Ring Of Honor
+   13    038      0           0              0             0            0           0           0           //Ring Refinaria
+   14    010      0           0              0             0            0           0           0           //Portal 
+   14    024      0           0              0             0            0           0           0           //Quest BK
+   14    024      1           0              0             0            0           0           0           //Dark Stone
+   14    067      0           0              0             0            0           0           0           //Dark Phoenix Feather
+   14    066      0           0              0             0            0           0           0           //Hell-Miner Horn
+   13    029      0           0              0             0            0           0           0           //Armor of Guardsman   
+   14    065      0           0              0             0            0           0           0           //Death-beam Knight Flame
+end

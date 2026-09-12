@@ -1,0 +1,91 @@
+// -----------------------------------------------------------------------------
+// |#| TEAM: GxGaming | Meliodas - Supremo                 
+// |#| Email:contato@gxgaming.com.br                  
+// |#| https://gxgaming.com.br/              
+// |#| https://discord.com/invite/53v77eZ8YD 
+// |#| https://www.youtube.com/@gxgaming-d3q        
+// -----------------------------------------------------------------------------
+// # © 2010 - 2026 GxGaming Development
+// # This file is part of the GxGaming MuOnline Server files.
+// -----------------------------------------------------------------------------
+
+0
+//---------------------------------------------------------------------------------------------------------
+// Box Of Kundun 5 [ Item Bag Modules ]				
+//---------------------------------------------------------------------------------------------------------
+// [20 Characters]		  [0/1]     [0~1000]	[0~10000]    [0~10000]    [0~10000]    [0~64]	  [0/1] 
+// NameEventItemBag	      DropZen   QuantZen    RateDropZen  RateDropExc  RateDropAnc  QuantDrop  Fireworks
+//---------------------------------------------------------------------------------------------------------
+   "Box Of Kundun +5"	   0	    1000000		1000	     8000	       0	        1	       1
+end
+
+1
+//-------------------
+// DropRate [0~10000]
+//-------------------
+500	
+//---------------------------------------------------------------------------------------------
+//			      [ Item Bag Drop Data ]				
+//---------------------------------------------------------------------------------------------
+// [0/15] [0~512] [0~15]   [0~15]	[0~100] 	[0~100]    [0~100]	 [0~7]	  [0~6]	     [0/1]
+// Type   Index   MinLvL   MaxLvL   RateSkill   RateLuck   RateJol   AddJol   AddExc    Ancient
+//---------------------------------------------------------------------------------------------
+	0	   20	   0	    0	     50	        50	        0	       0	   3	       0	// Knight Blade
+	0	   21	   0	    0	     50	        50	        0	       0	   3	       0	// Black Reign Blade
+	0	   22	   0	    0	     50	        50	        0	       0	   3	       0	// Bone Blade
+	0	   23	   0	    0	     50	        50	        0	       0	   3	       0	// Explosion Blade
+	0	   24	   0	    0	     50	        50	        0	       0	   3	       0	// DayBreak
+	0	   25	   0	    0	     50	        50	        0	       0	   3	       0	// Sword Dancer
+	0	   31	   0	    0	     50	        50	        0	       0	   3	       0	// Rune Blade
+	1	   8	   0	    0	     50	        50	        0	       0	   3	       0	// Crescent Axe
+	2	   13	   0	    0	     50	        50	        0	       0	   3	       0	// Scepter of Archangel
+	2	   14	   0	    0	     50	        50	        0	       0	   3	       0	// Solay Scepter
+	2	   15	   0	    0	     50	        50	        0	       0	   3	       0	// Shining Scepter
+	3	   8	   0	    0	     50	        50	        0	       0	   3	       0	// Great Scythe
+	3	   9	   0	    0	     50	        50	        0	       0	   3	       0	// Bill of Balrog
+end
+
+//-------------------
+// DropRate [0~10000]
+//-------------------
+10000
+//---------------------------------------------------------------------------------------------
+// [0/15] [0~512] [0~15]   [0~15]	[0~100] 	[0~100]    [0~100]	 [0~7]	  [0~6]	     [0/1]
+// Type   Index   MinLvL   MaxLvL   RateSkill   RateLuck   RateJol   AddJol   AddExc    Ancient
+//---------------------------------------------------------------------------------------------
+	3	   10	   0	    0	     50	        50	        0	       0	   3	       0	// Dragon Spear
+	4	   19	   0	    0	     50	        50	        0	       0	   3	       0	// Great Reign Crossbow
+	4	   20	   0	    0	     50	        50	        0	       0	   3	       0	// Arrow Viper Bow
+	4	   21	   0	    0	     50	        50	        0	       0	   3	       0	// Sylph Wind Bow
+	4	   22	   0	    0	     50	        50	        0	       0	   3	       0	// Albatross Bow
+	5	   11	   0	    0	     50	        50	        0	       0	   3	       0	// Kundun Staff
+	5	   12	   0	    0	     50	        50	        0	       0	   3	       0	// Grand Viper Staff
+	5	   13	   0	    0	     50	        50	        0	       0	   3	       0	// Platina Wing Staff
+	6	   15	   0	    0	     50	        50	        0	       0	   3	       0	// Grand Soul Shield
+	6	   16	   0	    0	     50	        50	        0	       0	   3	       0	// Elemental Shield
+	7	   21	   0	    0	     0	        50	        0	       0	   3	       0	// Great Dragon Helm
+	7	   22	   0	    0	     0	        50	        0	       0	   3	       0	// Dark Soul Helm
+	7	   24	   0	    0	     0	        50	        0	       0	   3	       0	// Red Spirit Helm
+	7	   28	   0	    0	     0	        50	        0	       0	   3	       0	// Dark Master Helm
+	8	   21	   0	    0	     0	        50	        0	       0	   3	       0	// Great Dragon Armor
+	8	   22	   0	    0	     0	        50	        0	       0	   3	       0	// Dark Soul Armor
+	8	   24	   0	    0	     0	        50	        0	       0	   3	       0	// Red Spirit Armor
+	8	   23	   0	    0	     0	        50	        0	       0	   3	       0	// Hurricane Armor
+	8	   28	   0	    0	     0	        50	        0	       0	   3	       0	// Dark Master Armor
+	9	   21	   0	    0	     0	        50	        0	       0	   3	       0	// Great Dragon Pants
+	9	   22	   0	    0	     0	        50	        0	       0	   3	       0	// Dark Soul Pants
+	9	   24	   0	    0	     0	        50	        0	       0	   3	       0	// Red Spirit Pants
+	9	   23	   0	    0	     0	        50	        0	       0	   3	       0	// Hurricane Pants
+	9	   28	   0	    0	     0	        50	        0	       0	   3	       0	// Dark Master Pants
+	10	   21	   0	    0	     0	        50	        0	       0	   3	       0	// Great Dragon Gloves
+	10	   22	   0	    0	     0	        50	        0	       0	   3	       0	// Dark Soul Gloves
+	10	   24	   0	    0	     0	        50	        0	       0	   3	       0	// Red Spirit Gloves
+	10	   23	   0	    0	     0	        50	        0	       0	   3	       0	// Hurricane Gloves
+	10	   28	   0	    0	     0	        50	        0	       0	   3	       0	// Dark Master Gloves
+	11	   21	   0	    0	     0	        50	        50	       0	   3	       0	// Great Dragon boots
+	11	   22	   0	    0	     0	        50	        50	       0	   3	       0	// Dark Soul boots
+	11	   24	   0	    0	     0	        50	        50	       0	   3	       0	// Red Spirit boots
+	11	   23	   0	    0	     0	        50	        50	       0	   3	       0	// Hurricane boots
+	11	   28	   0	    0	     0	        50	        50	       0	   3	       0	// Dark Master boots
+end
+end

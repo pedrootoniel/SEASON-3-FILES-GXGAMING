@@ -1,0 +1,15 @@
+- Otimizado o Sistema de Sorteio de Opções Excellents das Event Bags
+- Refeito Sistema de Preço dos Items, Novo arquivo para configuração adicionado (Por hora não atera no cliente será feito no futuro)
+- Refeito Sistema de Drop de Item, Nova Configuração adicionada em DropManager
+- Refeito Sistema de Drop de Zen, Quantidade de zen agora não é mais baseado na experiencia do server e sim na configuração do Experience Table.
+- Fixado ChaosMix, alguns mix estavam bugando.
+- Fixado comandos que precisavam de Target do personagem cujo a quantidade de Letras era de 10.
+- Adicionado Verificação de Componente ao usar um comando. Impossibilitando de usar comandos com interface aberta. (Evitará Dupes e Bugs)
+- Adicionado EventBag "ChaosCard.txt" referente ao Mix do Chaos Card
+- Fixado Level minimo e maximo dos monstros no DropManager (Estam dropando em qualquer level)
+- Fixado problema de tentar pegar o item/zen no chao e ele informar que o item não te pertence
+- Otimizado sistema de Adicionais Excellent Joias Customs
+- Removido ExDBServer
+- Adicionado nova UI no Main
+- Fixado Bots Shop, não adiciona os items corretamente na BAG
+- Adicionado Tray Mode (F12) - Em Teste

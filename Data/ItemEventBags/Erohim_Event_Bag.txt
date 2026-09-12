@@ -1,0 +1,79 @@
+// -----------------------------------------------------------------------------
+// |#| TEAM: GxGaming | Meliodas - Supremo                 
+// |#| Email:contato@gxgaming.com.br                  
+// |#| https://gxgaming.com.br/              
+// |#| https://discord.com/invite/53v77eZ8YD 
+// |#| https://www.youtube.com/@gxgaming-d3q        
+// -----------------------------------------------------------------------------
+// # © 2010 - 2026 GxGaming Development
+// # This file is part of the GxGaming MuOnline Server files.
+// -----------------------------------------------------------------------------
+
+0
+//---------------------------------------------------------------------------------------------------------
+// Erohim Event Bag [ Item Bag Modules ]				
+//---------------------------------------------------------------------------------------------------------
+// [20 Characters]		  [0/1]     [0~1000]	[0~10000]    [0~10000]    [0~10000]    [0~64]	  [0/1] 
+// NameEventItemBag	      DropZen   QuantZen    RateDropZen  RateDropExc  RateDropAnc  QuantDrop  Fireworks
+//---------------------------------------------------------------------------------------------------------
+	"Erohim Event Bag"		0	    1000000		 0	         10000	       0	        1	        0
+end
+
+1
+//-------------------
+// DropRate [0~10000]
+//-------------------
+10000	
+//---------------------------------------------------------------------------------------------
+//			      [ Item Bag Drop Data ]				
+//---------------------------------------------------------------------------------------------
+// [0/15] [0~512] [0~15]   [0~15]	[0~100] 	[0~100]    [0~100]	 [0~7]	  [0~6]	     [0/1]
+// Type   Index   MinLvL   MaxLvL   RateSkill   RateLuck   RateJol   AddJol   AddExc    Ancient
+//---------------------------------------------------------------------------------------------
+[]-->Swords
+	0	   16	   0	    6	     50	         50  	    50	       4	    3	       0	// Sword of Destruction
+	0	   17	   0	    6	     50	         50  	    50	       4	    3	       0	// Dark Breaker
+	0	   18	   0	    6	     50	         50  	    50	       4	    3	       0	// Thunder Blade
+	0	   20	   0	    6	     50	         50  	    50	       4	    3	       0	// Knight Blade
+	0	   21	   0	    6	     50	         50  	    50	       4	    3	       0	// Dark Reign Blade
+	0	   31	   0	    6	     50	         50  	    50	       4	    3	       0	// Rune Blade
+
+[]-->Maces-Scepters
+	2	   10	   0	    6	     50	         50	        50         4	    3	       0	// Great Scepter
+
+[]--> Spears
+	3	   10	   0	    6	     50	         50	        50	       4	    3	       0	// Dragon Spear
+
+[]-->Bows-CrossBows
+	4	   16	   0	    6	     50 	     50	        50	       4	     3	       0	// Saint Crossbow
+	4	   17	   0	    6	     50 	     50	        50	       4	     3	       0	// Celestial Bow
+	4	   19	   0	    6	     50 	     50	        50	       4	     3	       0	// Great Reign Crossbow
+	4	   20	   0	    6	     50 	     50	        50	       4	     3	       0	// Arrow Viper Bow
+
+[]-->Staffs                                                                                
+	5	   8	   0	    6	     50	      50	        50	       4	     3	       0	// Staff of Destruction
+	5	   9	   0	    6	     50	      50	        50	       4	     3	       0	// Dragon Soul Staff
+	5	   11	   0	    6	     50	      50	        50	       4	     3	       0	// Kundun Staff
+
+[]-->Sets                                                                                  
+	7	   21	   0	    6	     50	      50	        50	       4	     3	       0	// Great Dragon helm
+	9	   21	   0	    6	     50	      50	        50	       4	     3	       0	// Great Dragon pants
+	10	   21	   0	    6	     50	      50	        50	       4	     3	       0	// Great Dragon gloves
+
+	7	   22	   0	    6	     50	      50	        50	       4	     3	       0	// Dark Soul helm
+	9	   22	   0	    6	     50	      50	        50	       4	     3	       0	// Dark Soul pants
+	11	   22	   0	    6	     50	      50	        50	       4	     3	       0	// Dark Soul boots
+
+	7	   28	   0	    6	     50	      50	        50	       4	     3	       0	// Dark Master helm
+	9	   28	   0	    6	     50	      50	        50	       4	     3	       0	// Dark Master pants
+	11	   28	   0	    6	     50	      50	        50	       4	     3	       0	// Dark Master boots
+
+	9	   23	   0	    6	     50	      50	        50	       4	     3	       0	// Hurricane pants
+	10	   23	   0	    6	     50	      50	        50	       4	     3	       0	// Hurricane gloves
+	11	   23	   0	    6	     50	      50	        50	       4	     3	       0	// Hurricane boots
+
+	7	   24	   0	    6	     50	      50	        50	       4	     3	       0	// Red Spirit helm
+	9	   24	   0	    6	     50	      50	        50	       4	     3	       0	// Red Spirit pants
+	10	   24	   0	    6	     50	      50	        50	       4	     3	       0	// Red Spirit gloves
+end
+end

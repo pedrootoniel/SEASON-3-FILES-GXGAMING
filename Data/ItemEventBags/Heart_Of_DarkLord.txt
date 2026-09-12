@@ -1,0 +1,75 @@
+// -----------------------------------------------------------------------------
+// |#| TEAM: GxGaming | Meliodas - Supremo                 
+// |#| Email:contato@gxgaming.com.br                  
+// |#| https://gxgaming.com.br/              
+// |#| https://discord.com/invite/53v77eZ8YD 
+// |#| https://www.youtube.com/@gxgaming-d3q        
+// -----------------------------------------------------------------------------
+// # © 2010 - 2026 GxGaming Development
+// # This file is part of the GxGaming MuOnline Server files.
+// -----------------------------------------------------------------------------
+
+0
+//---------------------------------------------------------------------------------------------------------
+// Heart of Dark Lord [ Item Bag Modules ]				
+//---------------------------------------------------------------------------------------------------------
+// [20 Characters]		  [0/1]     [0~1000]	[0~10000]    [0~10000]    [0~10000]    [0~64]	  [0/1] 
+// NameEventItemBag	      DropZen   QuantZen    RateDropZen  RateDropExc  RateDropAnc  QuantDrop  Fireworks
+//---------------------------------------------------------------------------------------------------------
+	"Heart of Dark Lord"  1	        1000000		2000	     0	          0	           1	       0
+end
+
+1
+//------------------------------------------------------------------------------
+//			      [ Drop Item Box Module ]				
+//------------------------------------------------------------------------------
+// [0]: Ativa / Desativa o Evento (Drop) da Box			
+// [1]: Level minimo do monstro que dropará a Box			
+// [2]: Level maximo do monstro que dropará a Box			
+// [3]: Item Index da Box						
+// [4]: Item Level da Box						
+// [5]: Rate de Drop da Box	[0~10000]							
+//------------------------------------------------------------------------------
+// [0/1]  [1]   [2]   [3]   [4]   [5]	
+//------------------------------------------------------------------------------
+	0	   0	200	  7179	 13	   30
+end
+
+2
+//-------------------
+// DropRate [0~10000]
+//-------------------
+10000	
+
+//---------------------------------------------------------------------------------------------
+// [0/15] [0~512] [0~15]   [0~15]	[0~100] 	[0~100]    [0~100]	 [0~7]	  [0~6]	     [0/1]
+// Type   Index   MinLvL   MaxLvL   RateSkill   RateLuck   RateJol   AddJol   AddExc    Ancient
+//---------------------------------------------------------------------------------------------
+	7	   25	  0	       7	    50	        25	       50	      4	        0	      0	    // Light Plate Helm
+	8	   25	  0	       7	    50	        25	       50	      4	        0	      0	    // Light Plate Armor
+	9	   25	  0	       7	    50	        25	       50	      4	        0	      0	    // Light Plate Pants
+	10	   25	  0	       7	    50	        25	       50	      4	        0	      0	    // Light Plate Gloves
+	11	   25	  0	       7	    50	        25	       50	      4	        0	      0	    // Light Plate Boots
+	7	   26	  0	       7	    50	        25	       50	      4	        0	      0	    // Adamantine Helm
+	8	   26	  0	       7	    50	        25	       50	      4	        0	      0	    // Adamantine Armor
+	9	   26	  0	       7	    50	        25	       50	      4	        0	      0	    // Adamantine Pants
+	10	   26	  0	       7	    50	        25	       50	      4	        0	      0	    // Adamantine Gloves
+	11	   26	  0	       7	    50	        25	       50	      4	        0	      0	    // Adamantine Boots
+	7	   27	  0	       7	    50	        25	       50	      4	        0	      0	    // Dark Steel Helm
+	8	   27	  0	       7	    50	        25	       50	      4	        0	      0	    // Dark Steel Armor
+	9	   27	  0	       7	    50	        25	       50	      4	        0	      0	    // Dark Steel Pants
+	10	   27	  0	       7	    50	        25	       50	      4	        0	      0	    // Dark Steel Gloves
+	11	   27	  0	       7	    50	        25	       50	      4	        0	      0	    // Dark Steel Boots
+	7	   28	  0	       7	    50	        25	       50	      4	        0	      0	    // Dark Master Helm
+	8	   28	  0	       7	    50	        25	       50	      4	        0	      0	    // Dark Master Armor
+	9	   28	  0	       7	    50	        25	       50	      4	        0	      0	    // Dark Master Pants
+	10	   28	  0	       7	    50	        25	       50	      4	        0	      0	    // Dark Master Gloves
+	11	   28	  0	       7	    50	        25	       50	      4	        0	      0	    // Dark Master Boots
+	2	   8	  0	       7	    50	        25	       50	      4	        0	      0	    // Battle Scepter
+	2	   9	  0	       7	    50	        25	       50	      4	        0	      0	    // Master Scepter
+	2	   10	  0	       7	    50	        25	       50	      4	        0	      0	    // Great Scepter
+	2	   11	  0	       7	    50	        25	       50	      4	        0	      0	    // Lord Scepter
+	2	   12	  0	       7	    50	        25	       50	      4	        0	      0	    // Great Lord Scepter
+
+end
+end

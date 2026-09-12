@@ -1,0 +1,6 @@
+22:50:49  Trade Success [admin][TESTE] << >> [supremo][MeliodasGa] Map: 0
+22:50:49  [admin][TESTE] Put Item >> [Large AG Potion] Serial: 0, Lv: 7, Opt1: 0, Opt2: 0, Opt3: 0, ExOpt: 0|0|0|0|0, SetOpt 0
+22:50:49  ---------------------------------------------------------------------------------------------------------
+23:10:32  Trade Success [supremo][MeliodasGa] << >> [admin][TESTE] Map: 2
+23:10:32  [supremo][MeliodasGa] Put Item >> [Large AG Potion] Serial: 0, Lv: 7, Opt1: 0, Opt2: 0, Opt3: 0, ExOpt: 0|0|0|0|0, SetOpt 0
+23:10:32  ---------------------------------------------------------------------------------------------------------

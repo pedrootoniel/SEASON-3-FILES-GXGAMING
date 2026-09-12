@@ -1,0 +1,65 @@
+// -----------------------------------------------------------------------------
+// |#| TEAM: GxGaming | Meliodas - Supremo                 
+// |#| Email:contato@gxgaming.com.br                  
+// |#| https://gxgaming.com.br/              
+// |#| https://discord.com/invite/53v77eZ8YD 
+// |#| https://www.youtube.com/@gxgaming-d3q        
+// -----------------------------------------------------------------------------
+// # © 2010 - 2026 GxGaming Development
+// # This file is part of the GxGaming MuOnline Server files.
+// -----------------------------------------------------------------------------
+
+0
+//---------------------------------------------------------------------------------------------------------
+// DarkElf Event Bag[ Item Bag Modules ]				
+//---------------------------------------------------------------------------------------------------------
+// [20 Characters]		  [0/1]     [0~1000]	[0~10000]    [0~10000]    [0~10000]    [0~64]	  [0/1] 
+// NameEventItemBag	      DropZen   QuantZen    RateDropZen  RateDropExc  RateDropAnc  QuantDrop  Fireworks
+//---------------------------------------------------------------------------------------------------------
+	"DarkElf Event Bag"	   0	    1000000		0	         10000	       0	        1	        0
+end
+
+1
+//-------------------
+// DropRate [0~10000]
+//-------------------
+10000	
+//---------------------------------------------------------------------------------------------
+//			      [ Item Bag Drop Data ]				
+//---------------------------------------------------------------------------------------------
+// [0/15] [0~512] [0~15]   [0~15]	[0~100] 	[0~100]    [0~100]	 [0~7]	  [0~6]	     [0/1]
+// Type   Index   MinLvL   MaxLvL   RateSkill   RateLuck   RateJol   AddJol   AddExc    Ancient
+//---------------------------------------------------------------------------------------------
+	0	   16	   0	   6	    50	        50	       50	       4	    3	       0	// Sword of Destruction
+	0	   17	   0	   6	    50	        50	       50	       4	    3	       0	// Dark Breaker
+	0	   18	   0	   6	    50	        50	       50	       4	    3	       0	// Thunder Blade
+	2	   1	   0	   6	    50	        50	       50	       4	    3	       0	// Morning Star
+	2	   5	   0	   6	    50	        50	       50	       4	    3	       0	// Crystal Sword
+	2	   9	   0	   6	    50	        50	       50	       4	    3	       0	// Master Scepter
+	2	   12	   0	   6	    50	        50	       50	       4	    3	       0	// Great Lord Scepter
+	4	   14	   0	   6	    50	        50	       50	       4	    3	       0	// Aqua Crossbow
+	4	   19	   0	   6	    50	        50	       50	       4	    3	       0	// Great Reign Crossbow
+	5	   6	   0	   6	    50	        50	       50	       4	    3	       0	// Resurrection Staff
+	5	   9	   0	   6	    50	        50	       50	       4	    3	       0	// Dragon Soul Staff
+	6	   13	   0	   6	    50	        50	       50	       4	    3	       0	// Chaos Dragon Shield
+	6	   16	   0	   6	    50	        50	       50	       4	    3	       0	// Elemental Shield
+	
+	13	   35	   0	   0	    0	        0	       0	       0	    0	       0	// Piece of Horn
+	
+	7	   1	   0	   6	    50	        50	       50	       4	    3	       0	// Dragon Helm
+	8	   1	   0	   6	    50	        50	       50	       4	    3	       0	// Dragon Armor
+	9	   1	   0	   6	    50	        50	       50	       4	    3	       0	// Dragon Pants
+	10	   1	   0	   6	    50	        50	       50	       4	    3	       0	// Dragon Gloves
+	11	   1	   0	   6	    50	        50	       50	       4	    3	       0	// Dragon Boots
+	7	   14	   0	   6	    50	        50	       50	       4	    3	       0	// Guardian Helm
+	8	   14	   0	   6	    50	        50	       50	       4	    3	       0	// Guardian Armor
+	9	   14	   0	   6	    50	        50	       50	       4	    3	       0	// Guardian Pants
+	10	   14	   0	   6	    50	        50	       50	       4	    3	       0	// Guardian Gloves
+	11	   14	   0	   6	    50	        50	       50	       4	    3	       0	// Guardian Boots
+	7	   3	   0	   6	    50	        50	       50	       4	    3	       0	// Legendary Helm
+	8	   3	   0	   6	    50	        50	       50	       4	    3	       0	// Legendary Armor
+	9	   3	   0	   6	    50	        50	       50	       4	    3	       0	// Legendary Pants
+	10	   3	   0	   6	    50	        50	       50	       4	    3	       0	// Legendary Gloves
+	11	   3	   0	   6	    50	        50	       50	       4	    3	       0	// Legendary Boots
+end
+end

@@ -1,0 +1,34 @@
+Servidor agora conta com um sistema de checagem de integridade dos arquivos do cliente,
+Muito importante seguir os passos pois o sistema não é possivel desativar.
+
+Passo 1: GERANDO CRC DOS ARQUIVOS
+----------------------------------------------------------------------------------------------
+Abra na pasta setup 'Setup\CRCGenerator\CRCGenerator.ext'
+Apos abrir o CRCGenerator, procure na pasta do cliente, e procure os seguintes arquivos
+- main.exe
+- GXMain.dll
+- Data/Player/Player.bmd
+Puxe cada um desses arquivos para a janela do CRCGenerator, Apos puxar os 3 arquivos, aperte ENTER.
+O CRCGenerator vai gerar os CRC dos 3 arquivos, para o proximo passo abra o arquivo
+MuServer/data/commonserver.cfg, preencha os seguintes campos com seus respectivos valores:
+
+MainCRCEXE					= ""
+MainCRCDLL					= ""
+MainCRCPlayerBMD				= ""
+
+Passo 2: NOME DO MAIN
+----------------------------------------------------------------------------------------------
+No mesmo arquivo Commonserver.cfg procure por:
+MainNameEXE					= ""
+
+Coloque o nome do seu main.exe é importante escrever igual está no cliente diferenciando maiuscula e minuscula.
+
+
+Passo 3: Protegendo suas Configurações
+----------------------------------------------------------------------------------------------
+No mesmo arquivo Commonserver.cfg procure por:
+MainSecurityKey					= "K7d21Crf125GfxE"
+
+Recomenda-se Antes de Gerar uma configuração do Main, sempre alterar esse valor, pois se
+trata de uma senha para sua configuração, impedindo assim seus players de usar configuração
+antiga, ou de terceiros copiar suas informações.

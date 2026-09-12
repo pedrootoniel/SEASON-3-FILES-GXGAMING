@@ -1,0 +1,27 @@
+// -----------------------------------------------------------------------------
+// |#| TEAM: GxGaming | Meliodas - Supremo                 
+// |#| Email:contato@gxgaming.com.br                  
+// |#| https://gxgaming.com.br/              
+// |#| https://discord.com/invite/53v77eZ8YD 
+// |#| https://www.youtube.com/@gxgaming-d3q        
+// -----------------------------------------------------------------------------
+// # © 2010 - 2026 GxGaming Development
+// # This file is part of the GxGaming MuOnline Server files.
+// -----------------------------------------------------------------------------
+
+//--------------------------------------------------------------------------------------------
+// AccountLevel: Tipo de vip
+// Timer: Tempo requerido para dar o bonus (Minutos)
+// Coin1: Bonificação em Coin1
+// Coin2: Bonificação em Coin2
+// Coin3: Bonificação em Coin3
+//--------------------------------------------------------------------------------------------
+//	AccountLevel		Timer		Coin1		Coin2		Coin3
+//--------------------------------------------------------------------------------------------
+	0			        120		     0		     0		      0
+	1			        120		     0		     0		      0
+	2			        120		     0		     0		      0
+	3			        120		     0		     0		      0
+	4			        120		     0		     0		      0
+	5			        120		     0		     0		      0
+end

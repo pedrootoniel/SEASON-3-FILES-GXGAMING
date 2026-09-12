@@ -1,0 +1,24 @@
+0:1:32  [admin][SuPreMo] Create Item:  [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:2:12  [admin][SuPreMo] Create Item:  [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:2:20  [admin][SuPreMo] Create Item:  [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:2:51  [admin][SuPreMo] Create Item: Avatar Wings [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:4:55  [admin][SuPreMo] Create Item: Avatar Wings [Level: 0, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:5:22  [admin][SuPreMo] Create Item: Heavenly Wings [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:5:29  [admin][SuPreMo] Create Item: Heavenly Wings [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:8:4  [admin][SuPreMo] Create Item: Orb Wings [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:8:10  [admin][SuPreMo] Create Item: Fall Wings [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:8:23  [admin][SuPreMo] Create Item: Control Cloak [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:8:28  [admin][SuPreMo] Create Item: Wings of Chaos [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:8:34  [admin][SuPreMo] Create Item: Wings of Chaos [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:9:20  [admin][SuPreMo] Create Item: Wings of Magic [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:9:26  [admin][SuPreMo] Create Item: Wings of Life [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:9:32  [admin][SuPreMo] Create Item: Cloak of Death [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:9:49  [admin][SuPreMo] Create Item: Wings Of Draion [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+0:9:54  [admin][SuPreMo] Create Item: Wings Of Kuron [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+8:18:0  [admin][SuPreMo] Make Skin [admin][SuPreMo] value: 240
+8:18:5  [admin][SuPreMo] Make Skin [admin][SuPreMo] value: -1
+9:41:3  [admin][SuPreMo] Move [admin][SuPreMo] map: 3, Pos X: 121, Pos Y: 131
+13:45:33  [admin][SuPreMo] Move [admin][SuPreMo] map: 3, Pos X: 121, Pos Y: 123
+18:23:27  [admin][SuPreMo] Create Item: Wings of Chaos [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+18:24:32  [admin][SuPreMo] Create Item: Wings of Magic [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]
+18:31:13  [admin][SuPreMo] Create Item: Wings Of Kuron [Level: 13, Dur: 0, Opt1: 0, Opt2:0, Opt3:0, NewOpt: 0, SetOpt: 0]

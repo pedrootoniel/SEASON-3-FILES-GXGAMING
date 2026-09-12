@@ -1,0 +1,28 @@
+// -----------------------------------------------------------------------------
+// |#| TEAM: GxGaming | Meliodas - Supremo                 
+// |#| Email:contato@gxgaming.com.br                  
+// |#| https://gxgaming.com.br/              
+// |#| https://discord.com/invite/53v77eZ8YD 
+// |#| https://www.youtube.com/@gxgaming-d3q        
+// -----------------------------------------------------------------------------
+// # © 2010 - 2026 GxGaming Development
+// # This file is part of the GxGaming MuOnline Server files.
+// -----------------------------------------------------------------------------
+
+// -----------------------------------------------------------------------------------------------------------
+// [00]  [000]    [0~13]      [0~255]      [0-1]         [0-1]        [0~7]       [0~63]      [Index]
+// Type  Index   ItemLevel   Durability   SkillSwitch   LuckSwitch   Aditional   Excellent   SetOption   Comment
+// -----------------------------------------------------------------------------------------------------------
+   04    000      9           0            1             1            1           0           0           //Short Bow
+   04    001      9           0            1             1            1           0           0           //Bow
+   04    002      9           0            1             1            1           0           0           //Elven Bow
+   04    003      9           0            1             1            1           0           0           //Battle Bow
+   04    011      9           0            1             1            1           0           0           //Light Crossbow
+   04    012      9           0            1             1            1           0           0           //Serpent Crossbow
+   04    013      9           0            1             1            1           0           0           //Bluewing Crossbow
+   04    014      9           0            1             1            1           0           0           //Aquagold Crossbow
+   04    016      9           0            1             1            1           0           0           //Saint Crossbow
+   04    017      9           0            1             1            1           0           0           //Celestial Bow
+   04    006      9           0            1             1            1           0           0           //Chaos Nature Bow
+   04    020      9           0            1             1            1           0           0           //Arrow Viper Bow
+end

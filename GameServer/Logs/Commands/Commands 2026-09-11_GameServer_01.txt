@@ -1,0 +1,24 @@
+0:4:49  [admin][SuPreMo] Use Command CLEAR INVENTORY
+0:5:38  [admin][SMTEST] Use Command OPEN WAREHOUSE
+0:5:44  [admin][SMTEST] Use Command OPEN WAREHOUSE
+0:7:37  [admin][SMTEST] Use Command OPEN WAREHOUSE
+0:9:17  [admin][SuPreMo] Use Command CLEAR INVENTORY
+0:9:46  [admin][SuPreMo] Use Command CLEAR INVENTORY
+0:10:23  [admin][SMTEST] Use Command OPEN WAREHOUSE
+0:10:27  [admin][SMTEST] Use Command OPEN WAREHOUSE
+0:20:50  [admin][TESTE] Use Command CHANGE WAREHOUSE to (1)
+0:21:51  [admin][TESTE] Use Command CHANGE WAREHOUSE to (2)
+0:23:3  [156977012][156977023] Use Auto Attack ON
+13:33:34  [admin][SuPreMo] Use Command AUTOMATION (0) ON
+13:33:35  [admin][SuPreMo] Use Command AUTOMATION (0) OFF
+13:34:13  [admin][SuPreMo] Use Command OPEN WAREHOUSE
+13:43:50  [admin][SuPreMo] Use Command OPEN WAREHOUSE
+18:22:39  [admin][SMTEST] Use Command OPEN WAREHOUSE
+18:23:32  [admin][SuPreMo] Use Command OPEN WAREHOUSE
+18:23:37  [admin][SuPreMo] Use Command CHANGE WAREHOUSE to (1)
+18:24:15  [admin][SuPreMo] Use Command OPEN WAREHOUSE
+18:24:23  [admin][SuPreMo] Use Command CHANGE WAREHOUSE to (0)
+18:24:39  [admin][SuPreMo] Use Command OPEN WAREHOUSE
+18:24:44  [admin][SuPreMo] Use Command CLEAR INVENTORY
+18:24:55  [admin][SMTEST] Use Command OPEN WAREHOUSE
+18:50:48  [154333948][154333959] Use PShop Command [bless]

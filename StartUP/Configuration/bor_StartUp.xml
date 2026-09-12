@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Processes>
+  <Process Run="True" Delay="1000" Path="E:\GxGaming SRCS\MUServer_S3 JPN\Bin\ChatServer\ChatServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\GxGaming SRCS\MUServer_S3 JPN\Bin\ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\GxGaming SRCS\MUServer_S3 JPN\Bin\DataServer1\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\GxGaming SRCS\MUServer_S3 JPN\Bin\DataServer2\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\GxGaming SRCS\MUServer_S3 JPN\Bin\ExDB\ExManagerServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\GxGaming SRCS\MUServer_S3 JPN\Bin\JoinServer\JoinServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\GxGaming SRCS\MUServer_S3 JPN\GameServer\GameServer.exe" Parameters="" />
+</Processes>

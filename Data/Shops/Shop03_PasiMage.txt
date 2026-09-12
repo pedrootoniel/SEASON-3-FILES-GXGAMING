@@ -1,0 +1,50 @@
+// -----------------------------------------------------------------------------
+// |#| TEAM: GxGaming | Meliodas - Supremo                 
+// |#| Email:contato@gxgaming.com.br                  
+// |#| https://gxgaming.com.br/              
+// |#| https://discord.com/invite/53v77eZ8YD 
+// |#| https://www.youtube.com/@gxgaming-d3q        
+// -----------------------------------------------------------------------------
+// # © 2010 - 2026 GxGaming Development
+// # This file is part of the GxGaming MuOnline Server files.
+// -----------------------------------------------------------------------------
+
+// -----------------------------------------------------------------------------------------------------------
+// [00]  [000]    [0~13]      [0~255]      [0-1]         [0-1]        [0~7]       [0~63]      [Index]
+// Type  Index   ItemLevel   Durability   SkillSwitch   LuckSwitch   Aditional   Excellent   SetOption   Comment
+// -----------------------------------------------------------------------------------------------------------
+   07    002      9           0            0             1            1           0           0           //Pad Helm
+   07    003      9           0            0             1            1           0           0           //Leg Helm
+   15    000      0           0            0             0            0           0           0           //Scroll of Poison
+   15    001      0           0            0             0            0           0           0           //Scroll of Meteorite 
+   15    002      0           0            0             0            0           0           0           //Scroll of Lighting  
+   15    003      0           0            0             0            0           0           0           //Scroll of Fire Ball     
+   08    002      9           0            0             1            1           0           0           //Pad Armor
+   08    003      9           0            0             1            1           0           0           //Leg Armor
+   15    004      0           0            0             0            0           0           0           //Scroll of Flame   
+   15    005      0           0            0             0            0           0           0           //Scroll of Teleport  
+   15    006      0           0            0             0            0           0           0           //Scroll of Ice  
+   15    007      0           0            0             0            0           0           0           //Scroll of Twister   
+   09    002      9           0            0             1            1           0           0           //Pad Pants
+   09    003      9           0            0             1            1           0           0           //Pad Pants
+   15    008      0           0            0             0            0           0           0           //Scroll of Evil Spirit
+   15    009      0           0            0             0            0           0           0           //Scroll of Hellfire  
+   15    010      0           0            0             0            0           0           0           //Scroll of Power Wave
+   15    011      0           0            0             0            0           0           0           //Scroll of Aqua Beam   
+   10    002      9           0            0             1            1           0           0           //Pad Gloves
+   10    003      9           0            0             1            1           0           0           //Leg Gloves
+   15    012      0           0            0             0            0           0           0           //Scroll of Cometfall
+   15    013      0           0            0             0            0           0           0           //Scroll of Inferno 
+   15    014      0           0            0             0            0           0           0           //Scroll of Teleport Ally
+   15    015      0           0            0             0            0           0           0           //Scroll of Soul Barrier    
+   11    002      9           0            0             1            1           0           0           //Pad Boots
+   11    003      9           0            0             1            1           0           0           //Leg Boots
+   15    016      0           0            0             0            0           0           0           //Scroll of Decay
+   15    017      0           0            0             0            0           0           0           //Scroll of Ice Storm
+   15    018      0           0            0             0            0           0           0           //Scroll of Nova
+   15    002      0           0            0             0            0           0           0           //Scroll of Lighting
+   05    011      9           0            1             1            1           0           0           //Staff of Kundun
+   05    005      9           0            1             1            1           0           0           //Legendary Staff
+   06    014      9           0            1             1            1           0           0           //Legendary Shield
+   06    015      9           0            0             1            1           0           0           //Grand Soul Shield
+end

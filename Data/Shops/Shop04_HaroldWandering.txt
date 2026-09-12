@@ -1,0 +1,44 @@
+// -----------------------------------------------------------------------------
+// |#| TEAM: GxGaming | Meliodas - Supremo                 
+// |#| Email:contato@gxgaming.com.br                  
+// |#| https://gxgaming.com.br/              
+// |#| https://discord.com/invite/53v77eZ8YD 
+// |#| https://www.youtube.com/@gxgaming-d3q        
+// -----------------------------------------------------------------------------
+// # © 2010 - 2026 GxGaming Development
+// # This file is part of the GxGaming MuOnline Server files.
+// -----------------------------------------------------------------------------
+
+// -----------------------------------------------------------------------------------------------------------
+// [00]  [000]    [0~13]      [0~255]      [0-1]         [0-1]        [0~7]       [0~63]      [Index]
+// Type  Index   ItemLevel   Durability   SkillSwitch   LuckSwitch   Aditional   Excellent   SetOption   Comment
+// -----------------------------------------------------------------------------------------------------------
+   08    015      9           0            0             1            1           0           0           //Storm Crow Armor
+   08    020      9           0            0             1            1           0           0           //Thunder Hawk Armor
+   08    023      9           0            0             1            1           0           0           //Hurricane Armor
+   00    021      9           0            1             1            1           0           0           //Dark Reign Blade
+   10    015      9           0            0             1            1           0           0           //Rune Blade
+   10    020      9           0            0             1            1           0           0           //Storm Crow Gloves
+   10    023      9           0            0             1            1           0           0           //Thunder Hawk Gloves
+   00    031      9           0            1             1            1           0           0           //Hurricane Gloves
+   15    000      0           0            0             0            0           0           0           //Scroll of Poison   
+   15    001      0           0            0             0            0           0           0           //Scroll of Meteorite      
+   09    015      9           0            0             1            1           0           0           //Storm Crow Pants
+   09    020      9           0            0             1            1           0           0           //Thunder Hawk Pants
+   09    023      9           0            0             1            1           0           0           //Hurricane Pants
+   15    002      0           0            0             0            0           0           0           //Scroll of Lighting   
+   15    004      0           0            0             0            0           0           0           //Scroll of Flame      
+   11    015      9           0            0             1            1           0           0           //Storm Crow Boots
+   11    020      9           0            0             1            1           0           0           //Thunder Hawk Boots
+   11    023      9           0            0             1            1           0           0           //Hurricane Boots
+   15    003      0           0            0             0            0           0           0           //Scroll of Fire Ball
+   15    006      0           0            0             0            0           0           0           //Scroll of Ice
+   15    007      0           0            0             0            0           0           0           //Scroll of Twister
+   15    008      0           0            0             0            0           0           0           //Scroll of Evil Spirit
+   15    009      0           0            0             0            0           0           0           //Scroll of Hellfire
+   15    011      0           0            0             0            0           0           0           //Scroll of Aqua Beam
+   15    012      0           0            0             0            0           0           0           //Scroll of Cometfall
+   15    010      0           0            0             0            0           0           0           //Scroll of Power Wave
+   05    006      9           0            0             1            1           0           0           //Staff of Destruction
+   05    011      9           0            0             1            1           0           0           //Staff of Kundun 
+end
